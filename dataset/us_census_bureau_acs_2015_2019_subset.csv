@@ -1,0 +1,3221 @@
+County,Percent_Households_Below_Poverty_Level,Median_Age,Homeowner_Vacancy_Rate,Percent_Pop_25_And_Over_With_College_Or_Higher_Educ
+"Autauga, Alabama",14.7,38.2,1.4,26.6
+"Baldwin, Alabama",10.5,43,3.3,31.9
+"Barbour, Alabama",27.5,40.4,3.8,11.6
+"Bibb, Alabama",18.4,40.9,1.5,10.4
+"Blount, Alabama",14.2,40.7,0.7,13.1
+"Bullock, Alabama",28.2,40.2,0.2,12.1
+"Butler, Alabama",20.5,40.8,3.7,16.1
+"Calhoun, Alabama",18,39.6,2.1,18.5
+"Chambers, Alabama",18.1,42,2.7,13.3
+"Cherokee, Alabama",15.6,46.5,3.3,12.8
+"Chilton, Alabama",18.9,38.7,2.9,12.7
+"Choctaw, Alabama",22.7,46.3,0.6,11.9
+"Clarke, Alabama",26.1,42.5,1.4,12.2
+"Clay, Alabama",19.3,43.3,2,10.6
+"Cleburne, Alabama",18.5,43.1,1,15.4
+"Coffee, Alabama",15.2,39.3,2.1,22.8
+"Colbert, Alabama",16.1,42.4,1.4,18.1
+"Conecuh, Alabama",18.1,44.8,2,12.8
+"Coosa, Alabama",13.3,48.4,3.7,12.8
+"Covington, Alabama",18.6,43.3,2.3,15.3
+"Crenshaw, Alabama",16.4,41.7,1.3,17.4
+"Cullman, Alabama",15,40.8,2,13.9
+"Dale, Alabama",16.4,37.3,1.5,18.1
+"Dallas, Alabama",26.7,39.6,2.7,14.7
+"DeKalb, Alabama",20.1,39.5,1.9,13
+"Elmore, Alabama",12.1,38.7,2.7,25.1
+"Escambia, Alabama",22.8,40,2,12.5
+"Etowah, Alabama",17.3,41.4,1.3,17.8
+"Fayette, Alabama",20.4,43.7,2,12.4
+"Franklin, Alabama",16,38.6,3.1,14
+"Geneva, Alabama",21.4,43.2,2.5,12.5
+"Greene, Alabama",34.5,40.9,1.1,10.1
+"Hale, Alabama",26.4,40.5,1.3,14.2
+"Henry, Alabama",16.4,44.4,2.7,17.1
+"Houston, Alabama",17.3,40.1,2.3,21.7
+"Jackson, Alabama",18.4,43.1,1.2,14
+"Jefferson, Alabama",16.1,37.7,1.6,33.4
+"Lamar, Alabama",19.8,44.8,1.2,11.9
+"Lauderdale, Alabama",16.4,41,1.8,23.5
+"Lawrence, Alabama",17.5,42.4,0.5,12.6
+"Lee, Alabama",21.1,31.9,1.8,35.3
+"Limestone, Alabama",13.1,39.7,1.7,25.7
+"Lowndes, Alabama",28.5,42,1.7,14.7
+"Macon, Alabama",25.5,38.6,1.6,20.4
+"Madison, Alabama",12.5,38.5,1.3,42.8
+"Marengo, Alabama",26.7,42.2,3,16.1
+"Marion, Alabama",19.6,44.3,2,12.8
+"Marshall, Alabama",17.7,38.8,2.2,19.4
+"Mobile, Alabama",18.1,37.9,1.9,23.2
+"Monroe, Alabama",33.6,43.3,0.3,13.5
+"Montgomery, Alabama",17.8,36.4,2.4,33.4
+"Morgan, Alabama",15,40.6,1.3,22.4
+"Perry, Alabama",33.4,36.9,1,22.8
+"Pickens, Alabama",22,42.2,1.1,14.1
+"Pike, Alabama",25.8,31.2,2.5,23.7
+"Randolph, Alabama",17.4,43.4,1.1,16.5
+"Russell, Alabama",19.9,36.3,3.8,17.8
+"St. Clair, Alabama",12.1,40.3,1.4,16.1
+"Shelby, Alabama",8,39.3,1.2,42.9
+"Sumter, Alabama",35.9,35.6,0.7,21.6
+"Talladega, Alabama",19.5,41.3,3.2,15
+"Tallapoosa, Alabama",18.2,44.7,2.9,18.4
+"Tuscaloosa, Alabama",16.5,33,0.5,30.7
+"Walker, Alabama",17.4,42.1,1.6,11.3
+"Washington, Alabama",20.8,43.7,0.3,12.7
+"Wilcox, Alabama",29.7,40.5,1.3,12.5
+"Winston, Alabama",19.1,45.2,2.7,12.8
+"Aleutians East, Alaska",13,42.5,1.4,11.5
+"Aleutians West, Alaska",5.5,38.6,1.2,17
+"Anchorage, Alaska",7.6,33.6,1.7,36.1
+"Bethel, Alaska",24.6,27.3,1,11.9
+"Bristol Bay, Alaska",5.4,42.9,1.7,22.5
+"Denali, Alaska",8,42.1,6.2,41.1
+"Dillingham, Alaska",17.6,30.2,0.8,22.1
+"Fairbanks North Star, Alaska",7.3,31.3,2.2,31.4
+"Haines, Alaska",9.2,44.7,7.8,33.8
+"Hoonah-Angoon, Alaska",10.9,49.6,4.5,21.3
+"Juneau, Alaska",6.9,38.1,1.7,38.4
+"Kenai Peninsula, Alaska",11.3,40.8,2.4,24.6
+"Ketchikan Gateway, Alaska",8.2,39.7,0.9,25.3
+"Kodiak Island, Alaska",9.5,33.9,3.3,28
+"Kusilvak, Alaska",37.6,24.1,0,3.9
+"Lake and Peninsula, Alaska",16.6,34.8,1.6,16.1
+"Matanuska-Susitna, Alaska",10.7,35.2,2,21.6
+"Nome, Alaska",19.7,28.3,0.3,16.1
+"North Slope, Alaska",11.5,35.2,0.1,16.5
+"Northwest Arctic, Alaska",22.1,27.8,0,13.2
+"Petersburg, Alaska",5.6,42.8,1.1,28.4
+"Prince of Wales-Hyder, Alaska",16.2,41.3,2.1,18.3
+"Sitka, Alaska",8.3,39.5,3.1,33.4
+"Skagway, Alaska",4.3,40.4,1,29.6
+"Southeast Fairbanks, Alaska",10.6,36.8,3.9,19.7
+"Valdez-Cordova, Alaska",7.7,38.1,2.8,30.8
+"Wrangell, Alaska",5.7,49.4,0.4,19.4
+"Yakutat, Alaska",3.7,36.9,2.7,22.6
+"Yukon-Koyukuk, Alaska",27.4,35.2,1.9,13.6
+"Apache, Arizona",34.6,35,2.3,12.3
+"Cochise, Arizona",15.6,41.1,3.8,23.1
+"Coconino, Arizona",18.1,30.7,2.2,36.2
+"Gila, Arizona",17.9,50.2,4,18.7
+"Graham, Arizona",21.8,33.6,2.6,15.2
+"Greenlee, Arizona",11.3,34.5,1.7,13.5
+"La Paz, Arizona",23.3,56.5,8.9,12
+"Maricopa, Arizona",12.1,36.4,1.7,32.7
+"Mohave, Arizona",14.4,51.6,2.3,12.9
+"Navajo, Arizona",25.3,37.3,3.3,15.3
+"Pima, Arizona",15.4,38.5,1.7,32.4
+"Pinal, Arizona",12.6,39.3,2.3,19.5
+"Santa Cruz, Arizona",22.2,36.7,2.6,20.4
+"Yavapai, Arizona",12.2,53.4,1.5,25.9
+"Yuma, Arizona",18.5,34.6,1.8,15
+"Arkansas, Arkansas",19.1,40.7,3.9,15.8
+"Ashley, Arkansas",18.3,41.7,1.3,12.3
+"Baxter, Arkansas",12.7,52.2,1.4,17.9
+"Benton, Arkansas",9.3,35.4,1.5,33.4
+"Boone, Arkansas",14.2,42.3,2.3,16.1
+"Bradley, Arkansas",19.1,40.6,1.7,14.3
+"Calhoun, Arkansas",13.6,44.5,1.8,11.4
+"Carroll, Arkansas",14.5,45,2.7,21.2
+"Chicot, Arkansas",29.1,43.3,4.3,15.9
+"Clark, Arkansas",20.3,33.7,4.1,26.6
+"Clay, Arkansas",22.8,42.8,2.5,12.6
+"Cleburne, Arkansas",13.4,49.4,4.2,15.5
+"Cleveland, Arkansas",15.4,42.9,0.6,16.2
+"Columbia, Arkansas",24.5,35.7,2.2,19.6
+"Conway, Arkansas",17.1,42.5,1.3,15.6
+"Craighead, Arkansas",15.8,34.2,1.8,26.2
+"Crawford, Arkansas",16.5,38.6,1.4,16
+"Crittenden, Arkansas",18.8,35.2,1.5,17.4
+"Cross, Arkansas",17.3,40.9,1.9,14.4
+"Dallas, Arkansas",19.5,43.9,5.7,11.9
+"Desha, Arkansas",26.4,40.1,0.9,14.1
+"Drew, Arkansas",20.9,37.4,5.2,22.8
+"Faulkner, Arkansas",17.6,32.8,1.4,30.6
+"Franklin, Arkansas",22.9,41.2,0.9,12.1
+"Fulton, Arkansas",21.6,48.4,1.4,12.2
+"Garland, Arkansas",17.2,45,2.9,21.6
+"Grant, Arkansas",14.3,41,0.2,18.7
+"Greene, Arkansas",16.3,38,2.5,16.2
+"Hempstead, Arkansas",19.5,40.4,1.3,15.1
+"Hot Spring, Arkansas",17.5,41.3,0.7,13.3
+"Howard, Arkansas",20.1,39.2,2.2,13.6
+"Independence, Arkansas",15.2,39.3,1.5,17.5
+"Izard, Arkansas",15.2,47.9,3.1,13.1
+"Jackson, Arkansas",21.6,39.7,3,10.1
+"Jefferson, Arkansas",21.6,38.7,1.9,18
+"Johnson, Arkansas",20.7,38.4,1.6,15.4
+"Lafayette, Arkansas",24,47,0.4,15.8
+"Lawrence, Arkansas",16.5,40.8,0.3,15.4
+"Lee, Arkansas",26.8,42.5,2.4,10.7
+"Lincoln, Arkansas",18.9,39,2.3,9.7
+"Little River, Arkansas",15,42.9,1.2,12.5
+"Logan, Arkansas",17.4,42,1,13.3
+"Lonoke, Arkansas",11.9,36.2,2.3,20.6
+"Madison, Arkansas",16.9,42.7,0.4,14.2
+"Marion, Arkansas",18.7,52.2,3.8,17.1
+"Miller, Arkansas",19.8,39.5,1.9,16.8
+"Mississippi, Arkansas",22.5,36.6,2.9,13.8
+"Monroe, Arkansas",24.8,47.3,0.6,12.7
+"Montgomery, Arkansas",20.4,50.4,1.6,13.5
+"Nevada, Arkansas",23.1,44.3,2.2,14.6
+"Newton, Arkansas",20.5,49,3.1,20.5
+"Ouachita, Arkansas",23.8,43,2.1,14.5
+"Perry, Arkansas",17.5,43.7,2.7,12.7
+"Phillips, Arkansas",29.6,38.9,5.3,13.8
+"Pike, Arkansas",16.5,43.1,1.4,17.3
+"Poinsett, Arkansas",20.1,40.1,2.4,11.1
+"Polk, Arkansas",22.6,43.9,2.5,14.1
+"Pope, Arkansas",18,35.3,1.9,22.8
+"Prairie, Arkansas",15.4,47.2,1.6,15.4
+"Pulaski, Arkansas",15.8,37.2,2.7,34.3
+"Randolph, Arkansas",18.8,41.1,2.7,13.8
+"St. Francis, Arkansas",25.4,38.8,3.1,10.4
+"Saline, Arkansas",8.9,39.6,1,26.7
+"Scott, Arkansas",21.1,40.7,4.4,9.3
+"Searcy, Arkansas",24.9,47.9,1.5,11.9
+"Sebastian, Arkansas",17.2,37.6,2.5,21.3
+"Sevier, Arkansas",19.4,35.3,0.5,12.8
+"Sharp, Arkansas",21,47.6,1.5,10.2
+"Stone, Arkansas",19.9,50.1,1.1,13.9
+"Union, Arkansas",19.2,40.3,1.5,21.1
+"Van Buren, Arkansas",18.6,48,2.6,14.5
+"Washington, Arkansas",16.8,32,1.4,33.3
+"White, Arkansas",15.9,36.9,2.4,20.9
+"Woodruff, Arkansas",26.9,45.5,1.3,14
+"Yell, Arkansas",17,40.3,1.5,12.8
+"Alameda, California",9.6,37.6,0.6,47.4
+"Alpine, California",8.9,52.2,3.8,34.5
+"Amador, California",9.3,50.5,2.5,19.3
+"Butte, California",18.3,37.1,2,27.2
+"Calaveras, California",8.9,52,3.6,18.3
+"Colusa, California",13.1,35.3,2.1,15
+"Contra Costa, California",8.3,39.7,0.8,42.4
+"Del Norte, California",17.4,39.5,2.5,14.8
+"El Dorado, California",8.5,45.9,1.1,34.3
+"Fresno, California",20,32.2,1.3,21.2
+"Glenn, California",18.8,36.4,0.1,14.2
+"Humboldt, California",18.8,38.4,0.9,30.4
+"Imperial, California",23.9,32.4,1.5,15.2
+"Inyo, California",9,45.8,0.4,27.2
+"Kern, California",18.9,31.6,2,16.4
+"Kings, California",15.8,31.8,1.3,14.7
+"Lake, California",17.9,45.6,2.8,15.5
+"Lassen, California",12.7,36.6,2.9,12.9
+"Los Angeles, California",14.5,36.5,1,32.5
+"Madera, California",17.4,34.1,2.2,14.6
+"Marin, California",6.9,46.8,0.5,59.5
+"Mariposa, California",14.2,51.7,6.3,24.6
+"Mendocino, California",16.5,43.1,1.2,24.4
+"Merced, California",19.2,31.1,0.9,13.8
+"Modoc, California",16.2,47.8,5.8,15.2
+"Mono, California",7.4,37.7,6.5,28.8
+"Monterey, California",11.4,34.4,1.4,24.7
+"Napa, California",7.8,41.3,1,35.7
+"Nevada, California",10.2,50.5,2,37.2
+"Orange, California",9.9,38.1,1,40.6
+"Placer, California",8.1,42,1,39.7
+"Plumas, California",14.4,52.3,4.7,23.7
+"Riverside, California",13.2,35.6,1.9,22.3
+"Sacramento, California",13.4,36.2,1.1,30.9
+"San Benito, California",8.3,35.7,0.4,19.7
+"San Bernardino, California",14.8,33.3,1.7,21
+"San Diego, California",10.5,35.8,1.1,38.8
+"San Francisco, California",10.9,38.2,0.8,58.1
+"San Joaquin, California",14,34.3,0.8,18.8
+"San Luis Obispo, California",12,39.2,1.6,35.4
+"San Mateo, California",6.2,39.7,0.6,51
+"Santa Barbara, California",12.3,33.8,0.8,34.2
+"Santa Clara, California",7.4,37.1,0.4,52.4
+"Santa Cruz, California",11.8,37.8,0.8,40.8
+"Shasta, California",15.6,41.5,0.9,22.2
+"Sierra, California",7.4,54.8,4.1,17.9
+"Siskiyou, California",17.6,47.8,1.8,23.2
+"Solano, California",9.1,38.1,0.8,26.9
+"Sonoma, California",8.5,42.1,0.8,35.5
+"Stanislaus, California",13.9,34.1,1.1,17.1
+"Sutter, California",14.5,35.7,1.8,18.2
+"Tehama, California",20.1,41,2.1,15.7
+"Trinity, California",18.4,52.5,3.3,19.5
+"Tulare, California",21.2,31,1.1,14.6
+"Tuolumne, California",13.8,48.4,2.3,20.5
+"Ventura, California",8.3,38.1,1.1,33.8
+"Yolo, California",17.4,31,0.8,41.4
+"Yuba, California",15.8,32.8,1.1,17.1
+"Adams, Colorado",9.6,33.8,1,24.3
+"Alamosa, Colorado",26.6,31.8,0.9,25
+"Arapahoe, Colorado",7.8,36.6,0.6,42.8
+"Archuleta, Colorado",8.7,50.9,4.1,37.2
+"Baca, Colorado",21.1,46,1.8,21.4
+"Bent, Colorado",26.1,40.2,7.4,11.4
+"Boulder, Colorado",11.5,36.6,0.6,62.1
+"Broomfield, Colorado",6,37.8,0.6,55.7
+"Chaffee, Colorado",12.2,49.2,3.5,33.8
+"Cheyenne, Colorado",13.2,39.4,1.8,19.2
+"Clear Creek, Colorado",8.9,48.1,0.3,48.1
+"Conejos, Colorado",20.1,38.8,0.9,21
+"Costilla, Colorado",27.6,51.9,1.3,19.3
+"Crowley, Colorado",22.9,35.4,2.3,9
+"Custer, Colorado",13.5,59.7,10.6,32.5
+"Delta, Colorado",17.6,47.3,2.8,21.7
+"Denver, Colorado",12.1,34.5,0.8,49.4
+"Dolores, Colorado",11.6,48.8,7.2,24.1
+"Douglas, Colorado",3.3,38.7,0.9,58
+"Eagle, Colorado",7.5,37,1.7,47.2
+"Elbert, Colorado",5.1,46.1,0.2,35.8
+"El Paso, Colorado",9.9,34.2,1.1,38.5
+"Fremont, Colorado",15,45.1,1.6,18.5
+"Garfield, Colorado",9.1,36.5,2.5,31
+"Gilpin, Colorado",4.7,49,2.4,39.6
+"Grand, Colorado",6.8,42.9,2.5,38
+"Gunnison, Colorado",13.2,34.5,3.7,56.2
+"Hinsdale, Colorado",8.8,56.1,11.1,45.7
+"Huerfano, Colorado",16.5,55,5.9,21.1
+"Jackson, Colorado",8.8,51.6,3.6,20
+"Jefferson, Colorado",7.1,40.3,0.6,45.2
+"Kiowa, Colorado",15,42.5,0,21.4
+"Kit Carson, Colorado",6.6,38.3,0.7,18.7
+"Lake, Colorado",12.9,36.7,0.4,32.3
+"La Plata, Colorado",9.9,40.4,3.1,44.2
+"Larimer, Colorado",11.6,36,0.7,47.3
+"Las Animas, Colorado",20.9,45.9,1.8,19.5
+"Lincoln, Colorado",15.2,38,3.7,12.6
+"Logan, Colorado",13.5,38.2,0.6,20.2
+"Mesa, Colorado",13.7,39.7,1.2,28.2
+"Mineral, Colorado",13.9,56.1,10.9,46.5
+"Moffat, Colorado",18.9,36.6,2.4,17.6
+"Montezuma, Colorado",13.4,45.2,3.6,29.6
+"Montrose, Colorado",15.2,45.2,1.4,25.2
+"Morgan, Colorado",12.5,36.2,1.2,17.5
+"Otero, Colorado",25.2,39.9,0.3,18.6
+"Ouray, Colorado",8.1,54.1,3.1,47.8
+"Park, Colorado",5.3,50.7,2.8,29.8
+"Phillips, Colorado",7,37.1,4.4,23.8
+"Pitkin, Colorado",7.1,41.8,1.3,60.8
+"Prowers, Colorado",18.1,38.3,1.4,18.3
+"Pueblo, Colorado",17.9,39.3,1.6,21.8
+"Rio Blanco, Colorado",10.3,36.9,5.2,22.7
+"Rio Grande, Colorado",20.1,42.1,3.2,24.5
+"Routt, Colorado",10.4,40.2,2.2,49.8
+"Saguache, Colorado",20.5,49,3.3,22.1
+"San Juan, Colorado",9.3,51.2,9,35.7
+"San Miguel, Colorado",10.1,41.8,4.8,59.4
+"Sedgwick, Colorado",18,44.1,0.7,19.5
+"Summit, Colorado",5.9,39.1,1,52.4
+"Teller, Colorado",8.4,50,2,37.7
+"Washington, Colorado",12.1,41.6,1.7,15.4
+"Weld, Colorado",9.9,34.4,0.5,27.5
+"Yuma, Colorado",12.2,37.8,1.8,21.8
+"Fairfield, Connecticut",9,40.6,2.1,47.9
+"Hartford, Connecticut",11.1,40.4,1.4,38.1
+"Litchfield, Connecticut",6.8,47.3,1.9,35.4
+"Middlesex, Connecticut",7.6,45.7,1.8,42.2
+"New Haven, Connecticut",11.5,40.3,1.6,35
+"New London, Connecticut",9.3,41.4,2.2,33.3
+"Tolland, Connecticut",8.5,37.7,1.5,41.8
+"Windham, Connecticut",11.7,41.2,1.8,24.3
+"Kent, Delaware",13.1,37.7,2.3,23.7
+"New Castle, Delaware",10.8,38.4,1.3,36.2
+"Sussex, Delaware",10.5,49.6,2.5,28.3
+"District of Columbia, District of Columbia",14.6,34,1.6,58.5
+"Alachua, Florida",20.2,31.6,3.5,43.3
+"Baker, Florida",11.9,37.7,0,13.2
+"Bay, Florida",13.5,39.8,2.4,23.7
+"Bradford, Florida",22,39.7,1.1,9.9
+"Brevard, Florida",10.7,47.3,1.8,30.2
+"Broward, Florida",12.8,40.4,1.9,32.4
+"Calhoun, Florida",18.1,41.6,1.3,9.5
+"Charlotte, Florida",10,59.1,2.5,23.4
+"Citrus, Florida",14.6,56.5,2.4,18.3
+"Clay, Florida",9.6,39.7,1.5,24.9
+"Collier, Florida",9.2,50.8,3.3,36.4
+"Columbia, Florida",15.2,40.4,1.4,14.9
+"DeSoto, Florida",20.2,40.9,1,11.5
+"Dixie, Florida",22.9,46.5,2.6,10.4
+"Duval, Florida",13.5,36.2,2.3,30
+"Escambia, Florida",12.5,37.2,2.1,26.5
+"Flagler, Florida",10.4,51.3,2.1,25.1
+"Franklin, Florida",18.3,46.4,2.7,18.8
+"Gadsden, Florida",18.5,40.8,0.7,16.2
+"Gilchrist, Florida",15.1,42.1,2,13.4
+"Glades, Florida",14.7,47.9,3.1,11.2
+"Gulf, Florida",13.8,44.9,5.3,19.2
+"Hamilton, Florida",27.6,40.9,2.9,7.9
+"Hardee, Florida",22.2,35.4,4.3,10.2
+"Hendry, Florida",22.4,34,1.5,8.3
+"Hernando, Florida",13.5,49,2.4,18.4
+"Highlands, Florida",15.9,53.5,3.8,17.2
+"Hillsborough, Florida",13.7,37.2,1.8,33.5
+"Holmes, Florida",24.1,42.7,0.3,10.7
+"Indian River, Florida",10.7,53.5,2.9,29.1
+"Jackson, Florida",21.3,41.7,1.6,12.6
+"Jefferson, Florida",16.7,48,0.9,22.3
+"Lafayette, Florida",18.8,37.3,2.9,11.8
+"Lake, Florida",10.8,46.9,2.4,24
+"Lee, Florida",11.4,48.5,2.8,28.2
+"Leon, Florida",19.5,31,2.2,46.2
+"Levy, Florida",21,46.9,1.5,12.2
+"Liberty, Florida",17.2,40.7,1.5,14.4
+"Madison, Florida",25.1,43.5,3,14
+"Manatee, Florida",10.2,48.3,2.4,29.8
+"Marion, Florida",14.1,48.7,2.2,20.1
+"Martin, Florida",9.2,52.2,1.7,34.1
+"Miami-Dade, Florida",18.3,39.9,1.9,29.8
+"Monroe, Florida",10,47.7,2.8,34.4
+"Nassau, Florida",10.2,45.3,1.1,29.6
+"Okaloosa, Florida",9.9,36.9,1.5,31.1
+"Okeechobee, Florida",18.5,41.1,3.2,11.3
+"Orange, Florida",14.1,35.1,3.6,34.6
+"Osceola, Florida",14,35.9,2.9,21.8
+"Palm Beach, Florida",11.4,44.8,1.9,36.7
+"Pasco, Florida",12.9,44.5,2.7,24
+"Pinellas, Florida",11.7,48.1,2.3,31.7
+"Polk, Florida",14.2,40.2,2.6,20.2
+"Putnam, Florida",22.5,45.1,4,12.3
+"St. Johns, Florida",7.9,43.7,1.8,44.7
+"St. Lucie, Florida",12.9,45.1,2.3,21.6
+"Santa Rosa, Florida",9.5,39.9,1.8,27.7
+"Sarasota, Florida",8.5,56.1,2.1,35.4
+"Seminole, Florida",10.5,39.2,2,39.6
+"Sumter, Florida",8.4,67.4,2.1,31.8
+"Suwannee, Florida",16.2,43.3,3.6,15.5
+"Taylor, Florida",19.6,42,3.4,8.3
+"Union, Florida",20.4,39.3,0.4,9.2
+"Volusia, Florida",13.7,46.6,2.1,23.7
+"Wakulla, Florida",11,40.6,3.3,18.3
+"Walton, Florida",12.3,44,2.4,28.5
+"Washington, Florida",21.5,41.5,1.2,12.5
+"Appling, Georgia",22,40.3,0.4,9.8
+"Atkinson, Georgia",25.7,36.4,1.1,12.2
+"Bacon, Georgia",25.1,36.7,1,10.5
+"Baker, Georgia",25.6,46.1,5.7,12.9
+"Baldwin, Georgia",21.3,35.5,1.5,23.3
+"Banks, Georgia",14.5,41.1,0.7,13.4
+"Barrow, Georgia",11.4,35.7,2.2,19
+"Bartow, Georgia",13.1,38.1,2.5,18.6
+"Ben Hill, Georgia",29.5,39.9,3.5,11.2
+"Berrien, Georgia",25.2,39.6,0.7,11.4
+"Bibb, Georgia",24.1,36.4,2.5,25.4
+"Bleckley, Georgia",16.7,35.8,0.8,18.7
+"Brantley, Georgia",19,41.1,0.7,8.9
+"Brooks, Georgia",22.5,42,1.3,17.8
+"Bryan, Georgia",11.6,34.6,3.3,33.1
+"Bulloch, Georgia",24.5,28.8,1.3,27
+"Burke, Georgia",20.4,37.4,1.2,13.2
+"Butts, Georgia",20.6,38.6,5,12.2
+"Calhoun, Georgia",28.6,39.6,1,9.1
+"Camden, Georgia",14,32.8,1.6,23.9
+"Candler, Georgia",29.3,38.7,0.8,13
+"Carroll, Georgia",16.2,34.8,1.3,21.1
+"Catoosa, Georgia",10.3,40.4,2,21.4
+"Charlton, Georgia",18.8,41.2,1,8.8
+"Chatham, Georgia",14.3,35.6,2.4,33.6
+"Chattahoochee, Georgia",18.7,24.5,0,29.5
+"Chattooga, Georgia",19.6,39.4,2.1,8.9
+"Cherokee, Georgia",7.5,38.7,1.4,38.2
+"Clarke, Georgia",27.5,28,1.8,44
+"Clay, Georgia",32.4,49.8,3,12.5
+"Clayton, Georgia",16.3,32.5,1.9,19.5
+"Clinch, Georgia",37.1,39.9,1.8,10
+"Cobb, Georgia",8.4,36.7,1.6,47.4
+"Coffee, Georgia",21.1,36.3,0.8,13
+"Colquitt, Georgia",22.5,36.8,3.7,12.8
+"Columbia, Georgia",6.6,36.9,4.7,36.4
+"Cook, Georgia",23.4,37.3,0.8,13.5
+"Coweta, Georgia",10.1,39,1.3,30.3
+"Crawford, Georgia",20.7,44.4,0.7,10.5
+"Crisp, Georgia",29.1,38.5,3,14.1
+"Dade, Georgia",14,42.6,1.6,15.2
+"Dawson, Georgia",8.3,43.6,1.9,30.6
+"Decatur, Georgia",23,37.8,1.2,13.8
+"DeKalb, Georgia",12.7,35.8,1.6,44.2
+"Dodge, Georgia",22.2,41.8,0.3,14.3
+"Dooly, Georgia",21.9,43.2,0.4,12.1
+"Dougherty, Georgia",25.8,35.6,2.7,21.4
+"Douglas, Georgia",11.5,36.5,1.7,28.2
+"Early, Georgia",28.2,39.9,0.5,15.1
+"Echols, Georgia",25.6,40.6,1.9,9.7
+"Effingham, Georgia",9.8,36,0.5,20
+"Elbert, Georgia",20.8,42.6,3.3,11.6
+"Emanuel, Georgia",23.2,36.9,0.9,13
+"Evans, Georgia",26.1,37.6,0.9,15.8
+"Fannin, Georgia",14.8,52.1,6.6,21.8
+"Fayette, Georgia",5.6,43.4,0.8,46.2
+"Floyd, Georgia",17.2,38.3,1.8,20.9
+"Forsyth, Georgia",5.9,38.5,1,53.1
+"Franklin, Georgia",22.3,41.2,2.8,15.9
+"Fulton, Georgia",12.6,35.5,2.3,52.9
+"Gilmer, Georgia",16.3,47.2,2.5,20.4
+"Glascock, Georgia",17.7,42.7,0,11.6
+"Glynn, Georgia",16.2,41.6,2,29.9
+"Gordon, Georgia",17.4,38.4,1.4,14.7
+"Grady, Georgia",20,40.3,2,13.9
+"Greene, Georgia",16.6,50.2,2.9,26.9
+"Gwinnett, Georgia",9.7,35.3,1.5,36.9
+"Habersham, Georgia",16.2,39.7,2.3,19.3
+"Hall, Georgia",11.8,36.7,1.7,24.5
+"Hancock, Georgia",20.6,45.6,5.1,8.6
+"Haralson, Georgia",16.1,40.4,3.2,14.8
+"Harris, Georgia",6.7,42.9,2,31.4
+"Hart, Georgia",17,44.1,3.2,15.7
+"Heard, Georgia",15.9,41.9,0.4,8.7
+"Henry, Georgia",8,36.9,1.1,28.5
+"Houston, Georgia",13.1,35.4,1.7,28.3
+"Irwin, Georgia",20.1,39.7,0,15.1
+"Jackson, Georgia",11.1,38.1,1.7,22.7
+"Jasper, Georgia",16,43,3,14.2
+"Jeff Davis, Georgia",22.6,36.6,1.7,10.3
+"Jefferson, Georgia",23.8,40,1.8,9.9
+"Jenkins, Georgia",26.6,44.3,3.1,7.9
+"Johnson, Georgia",22.2,41.8,2.3,9.1
+"Jones, Georgia",13.9,40.4,1,19.6
+"Lamar, Georgia",20.7,37.8,1.3,15.8
+"Lanier, Georgia",24.8,35.6,1,16.5
+"Laurens, Georgia",24.8,38.9,1,16.2
+"Lee, Georgia",10.6,37.2,1.2,25.4
+"Liberty, Georgia",15.6,28.4,5.1,18.3
+"Lincoln, Georgia",20.8,47.1,1.1,15.9
+"Long, Georgia",13.7,32.9,2.1,17.4
+"Lowndes, Georgia",24.1,30.5,2.8,25.3
+"Lumpkin, Georgia",15.4,37,1,26.4
+"McDuffie, Georgia",22,37.7,2.3,14
+"McIntosh, Georgia",18.4,49.4,3.6,17.6
+"Macon, Georgia",26.9,40.3,0.7,8.8
+"Madison, Georgia",14.9,41.1,0.2,18.5
+"Marion, Georgia",16.3,44.6,0,13.4
+"Meriwether, Georgia",22,42.3,4,10.4
+"Miller, Georgia",21,43.5,0,14
+"Mitchell, Georgia",21.5,39,2.6,9.7
+"Monroe, Georgia",15.2,42.9,0.7,26.8
+"Montgomery, Georgia",21.2,40,1.8,16
+"Morgan, Georgia",10.1,44.6,0.5,20.7
+"Murray, Georgia",14.7,38.2,0.6,10.1
+"Muscogee, Georgia",19.6,34,2.3,25.8
+"Newton, Georgia",15.4,36.4,1.4,19.8
+"Oconee, Georgia",5.7,40.4,1.1,52.3
+"Oglethorpe, Georgia",14.4,42.4,2.2,17.1
+"Paulding, Georgia",8.6,36,2.6,22.6
+"Peach, Georgia",23,37.9,1,20.5
+"Pickens, Georgia",10.8,45.4,3.2,23.1
+"Pierce, Georgia",21.3,39.4,0.4,12.6
+"Pike, Georgia",12.4,40.4,1.6,17.1
+"Polk, Georgia",16.6,37,1.7,13.7
+"Pulaski, Georgia",20.5,43.1,0.6,13.2
+"Putnam, Georgia",14.3,46.2,5.8,23.4
+"Quitman, Georgia",24.5,47.3,19.9,7.1
+"Rabun, Georgia",16.3,49.2,2.4,24.2
+"Randolph, Georgia",23,41,4.8,10.3
+"Richmond, Georgia",20.5,34.1,4,21.4
+"Rockdale, Georgia",11.9,38.1,2.9,26.3
+"Schley, Georgia",21,37.8,2.9,13.3
+"Screven, Georgia",19.9,41.4,2.1,15.4
+"Seminole, Georgia",24.4,44.9,2,16.2
+"Spalding, Georgia",17.2,39.2,2.8,17.8
+"Stephens, Georgia",15.5,41.8,4.4,21
+"Stewart, Georgia",30.5,35.4,0.9,12.2
+"Sumter, Georgia",23.6,35.7,3.3,18.3
+"Talbot, Georgia",19.6,50.1,1.8,12.1
+"Taliaferro, Georgia",19.4,44.2,1,8.1
+"Tattnall, Georgia",22,37.3,1,13.2
+"Taylor, Georgia",24.1,45.2,0.2,12.6
+"Telfair, Georgia",26.9,41.5,0.8,8.6
+"Terrell, Georgia",30.9,41.1,1.8,11.2
+"Thomas, Georgia",19,40.4,2.7,24.7
+"Tift, Georgia",21.2,36.2,0.5,18.1
+"Toombs, Georgia",21.2,36.4,2.6,16.2
+"Towns, Georgia",14.7,54,2.8,30.1
+"Treutlen, Georgia",27,40.1,4,12.4
+"Troup, Georgia",21,36.4,2.5,19
+"Turner, Georgia",32.6,40.3,3.2,11.7
+"Twiggs, Georgia",23.3,45.7,0.1,11.8
+"Union, Georgia",15.5,54.3,2.5,22.5
+"Upson, Georgia",21,42.1,3.2,13.4
+"Walker, Georgia",15.1,41.4,2.7,16.6
+"Walton, Georgia",11.7,38.7,0.4,21.7
+"Ware, Georgia",21.7,39.5,1.4,15.2
+"Warren, Georgia",27.1,45.1,0,12.3
+"Washington, Georgia",22.5,41.5,3,12.3
+"Wayne, Georgia",15.6,38.9,2.8,13
+"Webster, Georgia",21.7,45.1,0,14.7
+"Wheeler, Georgia",28.1,38.8,0,13.6
+"White, Georgia",11.1,46.1,1.7,22.7
+"Whitfield, Georgia",14.4,36,1.8,15.7
+"Wilcox, Georgia",21.5,39.8,0,12.2
+"Wilkes, Georgia",20.2,45.1,2.5,13.8
+"Wilkinson, Georgia",22.4,42.6,2.3,10.9
+"Worth, Georgia",17.7,41.6,2.2,11
+"Hawaii, Hawaii",16,42.7,2.6,29.4
+"Honolulu, Hawaii",8.6,37.9,1,35
+"Kalawao, Hawaii",5.1,57.4,,24.2
+"Kauai, Hawaii",9.3,42.6,1.5,29.2
+"Maui, Hawaii",9.2,41.2,1.6,27.2
+"Ada, Idaho",11.1,37,1.1,38.5
+"Adams, Idaho",12.5,55.2,2.2,21.2
+"Bannock, Idaho",16.3,33.8,1.5,27.8
+"Bear Lake, Idaho",16.7,39.6,2.9,18.9
+"Benewah, Idaho",15.3,46.2,6.8,15.2
+"Bingham, Idaho",11.7,33.6,2.6,21.2
+"Blaine, Idaho",9.6,43.2,5.7,35.4
+"Boise, Idaho",10.3,54,4.6,27.1
+"Bonner, Idaho",14.2,47.9,2.9,23.8
+"Bonneville, Idaho",10.8,32.9,1.8,31.3
+"Boundary, Idaho",16.4,43.5,2,19.8
+"Butte, Idaho",15.2,45.2,4.4,16.2
+"Camas, Idaho",15,44.5,0,16.3
+"Canyon, Idaho",13.4,33.6,1,18.7
+"Caribou, Idaho",7.8,36.9,1.6,19
+"Cassia, Idaho",14.1,32.9,1.5,18.6
+"Clark, Idaho",9.3,33.2,7.7,12.2
+"Clearwater, Idaho",13.8,50.4,1.9,17.9
+"Custer, Idaho",15.9,53,4.1,24.4
+"Elmore, Idaho",13.6,32.3,1.1,18.7
+"Franklin, Idaho",11.6,32.8,1.9,17.7
+"Fremont, Idaho",13.5,37.6,1.6,21.7
+"Gem, Idaho",16.7,44.6,0,17.5
+"Gooding, Idaho",15.7,38.7,0.8,17.2
+"Idaho, Idaho",16.5,50.2,4.1,19.8
+"Jefferson, Idaho",7.7,31.5,0.3,24.7
+"Jerome, Idaho",14.9,32.7,2,16.1
+"Kootenai, Idaho",11.2,40.2,1.3,25.2
+"Latah, Idaho",18.2,28.7,1.8,45.4
+"Lemhi, Idaho",13,52.1,5.3,22.9
+"Lewis, Idaho",17.7,48.6,1.2,17.9
+"Lincoln, Idaho",12.8,35.1,1.6,10.3
+"Madison, Idaho",29.6,23.5,1.6,36.4
+"Minidoka, Idaho",16.6,35.2,1,14.1
+"Nez Perce, Idaho",12.8,40.8,2.1,22.9
+"Oneida, Idaho",12.4,38.6,0.6,17.1
+"Owyhee, Idaho",13.7,38.9,0.8,12
+"Payette, Idaho",13.8,40.4,0.5,15.7
+"Power, Idaho",8.8,38.3,3.4,15.1
+"Shoshone, Idaho",18.2,47.3,3,11.5
+"Teton, Idaho",3.9,37.2,3.3,41
+"Twin Falls, Idaho",13.9,34.7,1.1,20.6
+"Valley, Idaho",10.1,50.6,2.9,30.4
+"Washington, Idaho",14.1,45.4,1.6,16.3
+"Adams, Illinois",11.7,41.5,2.1,25
+"Alexander, Illinois",21.2,45.3,1.2,12.9
+"Bond, Illinois",15.2,41.6,3.6,22.9
+"Boone, Illinois",9.5,38.5,2,23.5
+"Brown, Illinois",12.4,38.9,1.6,14.1
+"Bureau, Illinois",11.6,44.4,3.4,20.6
+"Calhoun, Illinois",11.1,46.8,3.3,14.2
+"Carroll, Illinois",12.3,48.3,2.5,19.5
+"Cass, Illinois",13.5,40,2.2,15.1
+"Champaign, Illinois",19.6,30.1,2.8,45
+"Christian, Illinois",12.4,43.4,2.2,17.1
+"Clark, Illinois",10.6,42.3,0.9,19.9
+"Clay, Illinois",15.9,42.6,3.2,15
+"Clinton, Illinois",8.4,40.6,1.8,22.3
+"Coles, Illinois",21.6,35.7,2.1,26
+"Cook, Illinois",13.9,36.8,2,38.8
+"Crawford, Illinois",13.1,41.8,2.4,17.1
+"Cumberland, Illinois",12.7,42.5,1.5,15.4
+"DeKalb, Illinois",16.9,31.1,1.5,32.3
+"De Witt, Illinois",10.5,43.6,1,21.3
+"Douglas, Illinois",11.6,37.8,1.5,18.9
+"DuPage, Illinois",6.7,39.3,1.1,49.4
+"Edgar, Illinois",14,45.2,3.3,17.2
+"Edwards, Illinois",12,43.5,1.6,13.9
+"Effingham, Illinois",11.3,39.4,0.8,22.7
+"Fayette, Illinois",14.9,41.9,4.5,11.3
+"Ford, Illinois",12.1,43.4,1.6,21.4
+"Franklin, Illinois",19.4,42.8,2,16.7
+"Fulton, Illinois",14.1,43.2,1.6,17.6
+"Gallatin, Illinois",22.6,45.6,1.9,10.9
+"Greene, Illinois",12.3,42.5,3.1,12.8
+"Grundy, Illinois",7.3,37.9,0.4,22.9
+"Hamilton, Illinois",9.3,43.6,1.2,17
+"Hancock, Illinois",11.5,46,3.5,21
+"Hardin, Illinois",14.3,46.8,2.6,10.8
+"Henderson, Illinois",7.7,50,3.4,18.3
+"Henry, Illinois",10.6,43.1,1.7,23.3
+"Iroquois, Illinois",12.9,44.4,2.6,15.9
+"Jackson, Illinois",26.2,31.9,2.8,34.1
+"Jasper, Illinois",15.8,43.1,0.2,16.6
+"Jefferson, Illinois",15.1,40.9,2.1,17.9
+"Jersey, Illinois",10,42.9,4.1,20.3
+"Jo Daviess, Illinois",8.7,49.9,2.5,25
+"Johnson, Illinois",10.5,43.7,1.6,16
+"Kane, Illinois",9.1,37.3,1.1,33.1
+"Kankakee, Illinois",13.9,37.7,2.1,20.8
+"Kendall, Illinois",4.4,35.2,0.4,36.2
+"Knox, Illinois",16.9,42.1,2.2,18.9
+"Lake, Illinois",7.9,38.4,1.5,45.3
+"LaSalle, Illinois",12.1,41.9,1.4,17.8
+"Lawrence, Illinois",13.8,42.4,1.5,14.9
+"Lee, Illinois",13,43.2,2.1,18.2
+"Livingston, Illinois",13.9,42,1.8,14.8
+"Logan, Illinois",9.3,40.1,2,19.9
+"McDonough, Illinois",21.3,33,4.3,32.2
+"McHenry, Illinois",6.7,40.2,1.5,34.4
+"McLean, Illinois",15.4,33.1,1.4,44.8
+"Macon, Illinois",16.4,41.1,2,22.1
+"Macoupin, Illinois",13.1,43.7,1,18.4
+"Madison, Illinois",12.9,40.2,2.3,26.8
+"Marion, Illinois",15.8,42.2,1.5,15.2
+"Marshall, Illinois",12,46,2.1,18.9
+"Mason, Illinois",12.8,45.2,1.3,16
+"Massac, Illinois",17.3,43.5,3,13.9
+"Menard, Illinois",7.7,43.2,1.1,24
+"Mercer, Illinois",9.5,44.9,1.2,17.4
+"Monroe, Illinois",5.2,42,1.2,35
+"Montgomery, Illinois",15.1,43.3,1.9,16.7
+"Morgan, Illinois",13.2,40.8,2,19.3
+"Moultrie, Illinois",7.3,40.7,1.5,18.6
+"Ogle, Illinois",8.9,42.4,1.8,21.4
+"Peoria, Illinois",15.3,37.5,2.8,30.6
+"Perry, Illinois",15.9,42.2,0.7,12.5
+"Piatt, Illinois",5.5,42.9,1,28.6
+"Pike, Illinois",14.1,42,1.6,17.8
+"Pope, Illinois",20.3,52.5,0.8,13.1
+"Pulaski, Illinois",21.1,44,2.3,12.5
+"Putnam, Illinois",8.2,48.1,2.1,16.6
+"Randolph, Illinois",11,41.6,3.5,13.3
+"Richland, Illinois",14.7,42,2.6,21
+"Rock Island, Illinois",13.2,40.1,1.6,23.5
+"St. Clair, Illinois",14.7,38.6,2.4,28
+"Saline, Illinois",21.4,42.2,2.1,19.2
+"Sangamon, Illinois",13.3,40.3,1.4,34.5
+"Schuyler, Illinois",7.5,46.3,3.7,20.4
+"Scott, Illinois",10.9,44.6,0.7,15.8
+"Shelby, Illinois",11.7,45.1,0.9,16.8
+"Stark, Illinois",14.4,45.1,3.1,17
+"Stephenson, Illinois",13.4,45.3,1.4,19.6
+"Tazewell, Illinois",8.3,41,1.9,26.3
+"Union, Illinois",15.4,43.7,1.9,21.7
+"Vermilion, Illinois",16.4,40.4,2,14.7
+"Wabash, Illinois",14.1,43.8,3.6,18.2
+"Warren, Illinois",13.2,39.8,0.2,22.8
+"Washington, Illinois",6.8,43.9,2.3,20.9
+"Wayne, Illinois",13.7,43.4,1.8,15.4
+"White, Illinois",14.5,44.3,2.6,15.5
+"Whiteside, Illinois",9.6,43.4,3,18.2
+"Will, Illinois",6.8,37.9,1.4,34.3
+"Williamson, Illinois",13.7,41.2,2,24.3
+"Winnebago, Illinois",14.4,39.7,1.5,22.9
+"Woodford, Illinois",8.1,40.5,1.7,33.2
+"Adams, Indiana",14.5,33.5,0.2,15.5
+"Allen, Indiana",12.3,35.9,1.3,28.5
+"Bartholomew, Indiana",11.4,37.8,1.5,33.5
+"Benton, Indiana",12.3,40.5,3.1,16.1
+"Blackford, Indiana",12.8,44,3.5,13.5
+"Boone, Indiana",6.7,38.1,1.1,49.3
+"Brown, Indiana",9.9,50,2.4,28.9
+"Carroll, Indiana",8.9,42.9,1.3,16.7
+"Cass, Indiana",13.2,40.8,1.2,13.3
+"Clark, Indiana",9.6,39.1,2,21.2
+"Clay, Indiana",11.4,41.5,1.7,17
+"Clinton, Indiana",10.7,37.8,2.5,16.3
+"Crawford, Indiana",16.9,43,0.2,10.3
+"Daviess, Indiana",12.8,34.4,1.4,13.2
+"Dearborn, Indiana",10.4,42.5,2.4,22.9
+"Decatur, Indiana",11.2,39.2,0.4,20.6
+"DeKalb, Indiana",9.9,39.1,1.4,18
+"Delaware, Indiana",20.9,35.6,1.8,23.7
+"Dubois, Indiana",10.1,40.3,0.7,23.7
+"Elkhart, Indiana",11.8,35.6,1.4,19.8
+"Fayette, Indiana",18.2,42.8,2.5,13.3
+"Floyd, Indiana",9.4,39.8,1.7,29.6
+"Fountain, Indiana",12.1,43.4,1.1,14.9
+"Franklin, Indiana",9.2,42.2,3,21.1
+"Fulton, Indiana",13,41.3,3.1,15.8
+"Gibson, Indiana",9.8,40.3,1.1,18
+"Grant, Indiana",16.6,40.3,2.6,17.9
+"Greene, Indiana",13.7,43.1,2,14.9
+"Hamilton, Indiana",4.7,37.1,1.4,59.3
+"Hancock, Indiana",6.8,39.8,0.9,30.8
+"Harrison, Indiana",10.8,42.3,0.7,18.7
+"Hendricks, Indiana",5.3,37.7,0.8,37
+"Henry, Indiana",14.2,42.1,2.5,16.4
+"Howard, Indiana",14.3,41.7,2.5,21.6
+"Huntington, Indiana",10.9,40.7,1.2,20.1
+"Jackson, Indiana",14.1,38.5,1.8,16.7
+"Jasper, Indiana",8.9,40.3,1,14.3
+"Jay, Indiana",13.2,39.7,1.6,11.4
+"Jefferson, Indiana",14.1,40.8,3.3,17.9
+"Jennings, Indiana",10.5,39.8,0.1,12
+"Johnson, Indiana",6.9,37.5,1.1,32.7
+"Knox, Indiana",14.9,37.9,0.8,16.9
+"Kosciusko, Indiana",9.7,38.5,1.3,23.3
+"LaGrange, Indiana",7.3,31.1,1.8,10.5
+"Lake, Indiana",14.4,39.1,1.4,22.6
+"LaPorte, Indiana",12.8,40.3,1.3,18
+"Lawrence, Indiana",13.9,43.1,2.1,15.8
+"Madison, Indiana",16,40.4,2,18.4
+"Marion, Indiana",16.2,34.3,1.6,30.9
+"Marshall, Indiana",13.3,40,1.2,19.7
+"Martin, Indiana",12.7,42.7,2.8,13.7
+"Miami, Indiana",13.4,40.1,1.4,13
+"Monroe, Indiana",21.3,29.6,1.2,45.7
+"Montgomery, Indiana",10.6,40.2,1,18.2
+"Morgan, Indiana",9.7,41.5,1,17.3
+"Newton, Indiana",10.9,43.1,0.6,11.9
+"Noble, Indiana",7.6,38.7,1.2,13.7
+"Ohio, Indiana",8.8,47.4,0.7,14.7
+"Orange, Indiana",15.7,42.4,2.4,10.9
+"Owen, Indiana",11.9,45.2,1.7,13.1
+"Parke, Indiana",13.3,43.2,5,12
+"Perry, Indiana",12.5,42,0.4,16.1
+"Pike, Indiana",11.2,43.7,0.8,14.1
+"Porter, Indiana",10,39.5,1.1,28.4
+"Posey, Indiana",11,42.6,1.5,21.9
+"Pulaski, Indiana",13.1,41.6,0.9,12.8
+"Putnam, Indiana",9.4,37.9,1.2,16.8
+"Randolph, Indiana",15.1,42.6,2.9,14.3
+"Ripley, Indiana",12,40.7,2,18
+"Rush, Indiana",13.9,41.7,2,13.9
+"St. Joseph, Indiana",14.7,36.6,1.6,29.6
+"Scott, Indiana",14.1,41.5,3,12
+"Shelby, Indiana",10.2,40.8,0.3,18.7
+"Spencer, Indiana",9.8,44,1.3,15.2
+"Starke, Indiana",14.2,41.5,3.7,11.9
+"Steuben, Indiana",7.3,43.7,1.2,21.8
+"Sullivan, Indiana",12.4,41,0.8,12.1
+"Switzerland, Indiana",18.9,40.5,4.9,10.9
+"Tippecanoe, Indiana",17.8,28.2,1.4,38.7
+"Tipton, Indiana",6.8,45.1,0.1,24.7
+"Union, Indiana",7.3,43.5,1.6,18.5
+"Vanderburgh, Indiana",15.6,38.3,1.6,27
+"Vermillion, Indiana",14.3,42.9,1.8,14.2
+"Vigo, Indiana",19.2,36.2,2.2,25.1
+"Wabash, Indiana",11.3,42.3,1.4,18.1
+"Warren, Indiana",10.1,44.4,0.7,19.4
+"Warrick, Indiana",7.4,41.2,0.3,30.3
+"Washington, Indiana",13.2,41.6,2.1,13.4
+"Wayne, Indiana",14.8,40.6,1.7,18.2
+"Wells, Indiana",9.3,40.3,1.5,18.2
+"White, Indiana",8.6,42,3.1,16.4
+"Whitley, Indiana",8.1,41.8,1.5,20.7
+"Adair, Iowa",11.4,45.4,1.9,18.5
+"Adams, Iowa",13.2,47.3,7.6,15.6
+"Allamakee, Iowa",10.2,44.4,2.3,17.8
+"Appanoose, Iowa",16.7,45.7,0.5,16.3
+"Audubon, Iowa",10.3,48.1,1.2,17.1
+"Benton, Iowa",9.4,42.6,1.8,22.1
+"Black Hawk, Iowa",14.9,35.2,1.4,29.1
+"Boone, Iowa",7.2,41.8,1.6,25.3
+"Bremer, Iowa",7.4,39.8,1.3,30.7
+"Buchanan, Iowa",9.3,39.1,1.2,21.5
+"Buena Vista, Iowa",11.4,35,2.6,19.7
+"Butler, Iowa",10.9,43.9,0.5,17.3
+"Calhoun, Iowa",12.9,44.6,1.5,18.7
+"Carroll, Iowa",10.3,42,1.4,22.4
+"Cass, Iowa",14.4,44.9,2.8,20.1
+"Cedar, Iowa",7.2,42.7,1.1,22.2
+"Cerro Gordo, Iowa",11.4,44.3,1.4,23.6
+"Cherokee, Iowa",10.5,46.3,1.4,22.2
+"Chickasaw, Iowa",7.8,44.5,1.2,17.2
+"Clarke, Iowa",13.1,40.5,0.7,16
+"Clay, Iowa",12.2,42.9,2.9,22.7
+"Clayton, Iowa",9.5,47.3,2,17.7
+"Clinton, Iowa",12.1,42.2,1.6,17.9
+"Crawford, Iowa",15.1,38.7,2.7,14.3
+"Dallas, Iowa",5.6,35.4,0.7,50.4
+"Davis, Iowa",11.3,36.8,0.2,19.5
+"Decatur, Iowa",20.3,36.4,3.3,25
+"Delaware, Iowa",9.4,43.8,1.4,16.6
+"Des Moines, Iowa",15.1,42.9,2.1,20.1
+"Dickinson, Iowa",6.9,48.4,2.1,33.6
+"Dubuque, Iowa",11.2,38.6,0.5,30.8
+"Emmet, Iowa",11.6,42.9,5,18.8
+"Fayette, Iowa",12.1,43.8,2.4,18.3
+"Floyd, Iowa",12.7,44.1,1,19.8
+"Franklin, Iowa",11.9,42.7,2.6,18
+"Fremont, Iowa",10.8,46.2,2.9,18.9
+"Greene, Iowa",9.9,44.5,0.9,18.7
+"Grundy, Iowa",6.4,42.6,1.3,27.9
+"Guthrie, Iowa",10.7,45.5,2.8,19.8
+"Hamilton, Iowa",11.4,42.6,0.1,24.3
+"Hancock, Iowa",11,44.2,1,23.8
+"Hardin, Iowa",9.8,44.7,2.8,20.8
+"Harrison, Iowa",11.2,44,2.2,19.5
+"Henry, Iowa",10,39.7,0.6,19.6
+"Howard, Iowa",10.2,41.5,1,15.8
+"Humboldt, Iowa",12.6,42.9,0.8,21.2
+"Ida, Iowa",11.4,43.7,3.6,18.6
+"Iowa, Iowa",9.4,41.7,1.4,18.8
+"Jackson, Iowa",13.3,44.3,2.1,19.2
+"Jasper, Iowa",10.1,42.1,2.9,18.8
+"Jefferson, Iowa",15.7,42.9,1,31.5
+"Johnson, Iowa",18,30.3,1.1,52.8
+"Jones, Iowa",8.1,43.1,1.5,19.5
+"Keokuk, Iowa",9.8,43.7,2.1,18.3
+"Kossuth, Iowa",10.8,45.5,1.5,17.5
+"Lee, Iowa",13.2,43.1,0.8,16.4
+"Linn, Iowa",9.7,37.7,1.5,33.1
+"Louisa, Iowa",10.8,41.9,0.3,14.9
+"Lucas, Iowa",11.9,44.2,1.3,17
+"Lyon, Iowa",6.2,38,1.7,20.7
+"Madison, Iowa",5.5,40.7,1.4,24.5
+"Mahaska, Iowa",13.6,39.3,1.4,22
+"Marion, Iowa",8.9,39.4,0.2,28.8
+"Marshall, Iowa",11.9,38.7,1.5,18.8
+"Mills, Iowa",8.1,42.5,2.6,24.1
+"Mitchell, Iowa",6.8,43.6,1.3,19
+"Monona, Iowa",15.7,46,1.8,15.3
+"Monroe, Iowa",12.3,43,0.2,17.4
+"Montgomery, Iowa",11.4,44.2,1.3,18.5
+"Muscatine, Iowa",9.6,38.1,0.4,21.5
+"O'Brien, Iowa",10.7,41.9,3.2,18.8
+"Osceola, Iowa",9.9,44,1.2,17.9
+"Page, Iowa",11.3,44.1,2.1,20.2
+"Palo Alto, Iowa",7,41.4,5,25.5
+"Plymouth, Iowa",8.3,40,0.9,23.2
+"Pocahontas, Iowa",12,47.6,0.9,15
+"Polk, Iowa",9.8,35.5,1.3,36.7
+"Pottawattamie, Iowa",11.1,39.7,0.9,21.5
+"Poweshiek, Iowa",12.4,40.5,3.3,26.1
+"Ringgold, Iowa",8.2,44,0.8,21.4
+"Sac, Iowa",11.1,46.1,3,20
+"Scott, Iowa",11.6,38.3,1.6,31.8
+"Shelby, Iowa",9.8,46.4,0.3,22.2
+"Sioux, Iowa",6.6,33.4,1.1,29.1
+"Story, Iowa",20.9,26.6,0.5,51.6
+"Tama, Iowa",11,42.6,2.4,15.8
+"Taylor, Iowa",10.4,42.3,3.9,14.5
+"Union, Iowa",13.4,40.3,2.8,18
+"Van Buren, Iowa",11.9,45.4,2.1,14.4
+"Wapello, Iowa",14.7,39.6,1.5,18.8
+"Warren, Iowa",9.5,38.3,0.5,31.9
+"Washington, Iowa",10.2,40.3,2.4,21.8
+"Wayne, Iowa",13.5,43.2,1,12.7
+"Webster, Iowa",13.3,39,1.7,19.9
+"Winnebago, Iowa",9.5,41.8,1.3,21.8
+"Winneshiek, Iowa",9.4,41.5,1.2,30.6
+"Woodbury, Iowa",12.7,35.8,1.5,23.1
+"Worth, Iowa",8.9,43.9,1.3,17.5
+"Wright, Iowa",11,43.5,0.3,17.2
+"Allen, Kansas",18.3,41.9,2.6,20.3
+"Anderson, Kansas",13.4,40.8,4.6,18.1
+"Atchison, Kansas",12.5,36.6,1.4,22
+"Barber, Kansas",16.4,43.6,4.5,20.7
+"Barton, Kansas",13.3,39.9,2.2,20.9
+"Bourbon, Kansas",16,39.1,2.1,21.7
+"Brown, Kansas",11.4,42.1,0.7,21.2
+"Butler, Kansas",9.6,38.6,1,29.8
+"Chase, Kansas",12.4,44.8,2.2,25.5
+"Chautauqua, Kansas",19.8,47.9,4.3,15.9
+"Cherokee, Kansas",14,41.3,1.4,19.6
+"Cheyenne, Kansas",12.1,45.6,1.4,28.9
+"Clark, Kansas",11.8,45.3,7.3,26.1
+"Clay, Kansas",10,42.5,6.8,26.7
+"Cloud, Kansas",12.1,40.8,4.3,24
+"Coffey, Kansas",13.1,43.8,2.2,24.5
+"Comanche, Kansas",11.7,48.1,3.5,16
+"Cowley, Kansas",13.8,38.8,1.4,21.8
+"Crawford, Kansas",21.7,32.5,2.6,29.9
+"Decatur, Kansas",14.4,50.6,5.6,22.5
+"Dickinson, Kansas",13.3,41.3,5.5,22.9
+"Doniphan, Kansas",12.6,41,2,21.1
+"Douglas, Kansas",17.2,29.8,1.7,49.6
+"Edwards, Kansas",11,45.7,2.6,18.1
+"Elk, Kansas",18.4,52.3,4,15.6
+"Ellis, Kansas",16.8,32.5,2.4,36.3
+"Ellsworth, Kansas",10.4,42.1,3.1,19.5
+"Finney, Kansas",12.4,30.8,1.4,17.1
+"Ford, Kansas",11.6,32.2,0.3,17.7
+"Franklin, Kansas",10.2,40,2.5,20.4
+"Geary, Kansas",11.7,26.4,6.7,23.2
+"Gove, Kansas",10.5,48.2,1.3,19.7
+"Graham, Kansas",9.4,50.4,4.3,24.7
+"Grant, Kansas",11.3,32.6,0,14.9
+"Gray, Kansas",4.9,36,4.5,20.2
+"Greeley, Kansas",5.8,42.2,4.9,27.2
+"Greenwood, Kansas",14.2,48.6,5.1,19.9
+"Hamilton, Kansas",9.3,35.8,5.3,18.7
+"Harper, Kansas",15,42.4,1.1,16.2
+"Harvey, Kansas",11.1,39.2,3.7,33.2
+"Haskell, Kansas",11.1,36.9,5,17.1
+"Hodgeman, Kansas",7.7,47.6,2.2,30.8
+"Jackson, Kansas",11.5,41.2,0.4,20.2
+"Jefferson, Kansas",7.2,43.3,0.9,23.2
+"Jewell, Kansas",16,52.8,0.7,19.3
+"Johnson, Kansas",5.6,37.6,1,56
+"Kearny, Kansas",12.2,34.7,5,14.7
+"Kingman, Kansas",7.7,45.4,2.3,24.4
+"Kiowa, Kansas",7,41.6,3.6,28.1
+"Labette, Kansas",16.7,41,5.7,18.7
+"Lane, Kansas",16,40.7,0,23.1
+"Leavenworth, Kansas",8.7,37.8,1.3,31.5
+"Lincoln, Kansas",11.5,46.5,2,22.8
+"Linn, Kansas",18.4,44.4,1.3,16.2
+"Logan, Kansas",9.5,39.7,0,16.6
+"Lyon, Kansas",18.2,33.4,1,27.5
+"McPherson, Kansas",10.1,40.8,1.9,28
+"Marion, Kansas",9.2,44.5,3.5,25
+"Marshall, Kansas",9,42.8,0.9,18.9
+"Meade, Kansas",7.3,37.9,1.3,20.3
+"Miami, Kansas",7.9,42.1,2,29.8
+"Mitchell, Kansas",14,43.1,4,26.1
+"Montgomery, Kansas",17.5,40.3,3.3,19.5
+"Morris, Kansas",10.1,46.6,3,21.4
+"Morton, Kansas",14.8,40.5,7.4,17.3
+"Nemaha, Kansas",7.8,39.9,1.4,25.4
+"Neosho, Kansas",18.1,40.2,2.3,18.1
+"Ness, Kansas",10.4,50,1.8,19.4
+"Norton, Kansas",12.6,42.7,4.7,18.8
+"Osage, Kansas",14.9,43.8,1.6,19.2
+"Osborne, Kansas",16.3,46.7,1,23.6
+"Ottawa, Kansas",8.4,43,2,24.5
+"Pawnee, Kansas",8.2,43,8,19.6
+"Phillips, Kansas",8.8,44.3,1.3,21.8
+"Pottawatomie, Kansas",9.4,35.4,2.5,33.8
+"Pratt, Kansas",10.8,38.5,0.7,30.3
+"Rawlins, Kansas",13,48.8,2.3,24.1
+"Reno, Kansas",13.5,40.3,2,20.9
+"Republic, Kansas",12.6,50.7,2,25.5
+"Rice, Kansas",12.3,38.9,2.9,22.8
+"Riley, Kansas",19.6,25.1,2.4,45.6
+"Rooks, Kansas",9.8,44.7,4.3,23.1
+"Rush, Kansas",11,46.6,2.2,23.7
+"Russell, Kansas",11.9,49.1,1.1,23.1
+"Saline, Kansas",12.6,38.6,3.3,27.3
+"Scott, Kansas",8.3,39.7,0,25.1
+"Sedgwick, Kansas",13.5,35.4,1.5,30.9
+"Seward, Kansas",16.2,29.4,1.3,11
+"Shawnee, Kansas",11.4,39.1,1.3,30.9
+"Sheridan, Kansas",8,44.9,0.2,22
+"Sherman, Kansas",9.9,39.3,0,21.8
+"Smith, Kansas",10.6,51.4,2.1,22.3
+"Stafford, Kansas",12,44.1,1.8,25.2
+"Stanton, Kansas",13.8,35.3,0,19
+"Stevens, Kansas",21.2,35.1,0.2,13.7
+"Sumner, Kansas",13.3,41.2,1.2,23.3
+"Thomas, Kansas",17.3,36,3,22.6
+"Trego, Kansas",6.9,49.4,3.4,24.8
+"Wabaunsee, Kansas",5.2,43.8,2.8,24.2
+"Wallace, Kansas",9.1,41.8,3.6,32.4
+"Washington, Kansas",11.5,45.4,1.6,20.3
+"Wichita, Kansas",4.7,42.3,3.8,20.6
+"Wilson, Kansas",16.4,43.7,2.7,16.5
+"Woodson, Kansas",18.7,47.4,1.2,17.2
+"Wyandotte, Kansas",18.4,33.7,1.4,18.1
+"Adair, Kentucky",21.4,41.8,1.7,15.7
+"Allen, Kentucky",19.9,40.7,4,16.1
+"Anderson, Kentucky",13.9,41.4,0.3,20.2
+"Ballard, Kentucky",15,43.6,2.1,15.9
+"Barren, Kentucky",20,40.5,1.1,16.3
+"Bath, Kentucky",20.5,40.6,0.8,14.5
+"Bell, Kentucky",34,41.7,3.3,9.2
+"Boone, Kentucky",7.1,37.5,0.8,32.1
+"Bourbon, Kentucky",14.2,41.8,1.1,19.4
+"Boyd, Kentucky",19,42.3,3.7,19.4
+"Boyle, Kentucky",16.1,40.3,1.5,25.2
+"Bracken, Kentucky",18.9,41.4,1.7,13.2
+"Breathitt, Kentucky",35,42.2,1.4,15.2
+"Breckinridge, Kentucky",18.3,43.1,2,11.9
+"Bullitt, Kentucky",9.3,40.4,1.3,14.7
+"Butler, Kentucky",18.5,41.3,0.2,13.9
+"Caldwell, Kentucky",16.8,44,1.7,15.3
+"Calloway, Kentucky",22.5,35.6,1.7,28.5
+"Campbell, Kentucky",13.3,38.2,1.6,36.3
+"Carlisle, Kentucky",15.9,42.8,0.3,14.9
+"Carroll, Kentucky",19.2,38.5,2,8.2
+"Carter, Kentucky",27.2,41.6,1.3,12.6
+"Casey, Kentucky",24.7,42.6,0.2,12.8
+"Christian, Kentucky",19.2,28.3,1.2,18.1
+"Clark, Kentucky",14.4,42.3,2.8,20.1
+"Clay, Kentucky",38.4,39.6,1.5,9.8
+"Clinton, Kentucky",24.9,41.9,1.8,10.3
+"Crittenden, Kentucky",15.3,43.6,0.8,13.1
+"Cumberland, Kentucky",25.8,46,2,13.3
+"Daviess, Kentucky",16,38.9,0.7,22.9
+"Edmonson, Kentucky",17.6,44.3,2.3,10.3
+"Elliott, Kentucky",31.7,41.4,2.8,9.7
+"Estill, Kentucky",29.7,43.5,0.8,9.9
+"Fayette, Kentucky",15.5,34.6,1.3,43.6
+"Fleming, Kentucky",18.2,41.4,1.3,12.9
+"Floyd, Kentucky",29.5,42.2,1.5,11.3
+"Franklin, Kentucky",10.2,40.9,2.5,29.9
+"Fulton, Kentucky",26.9,43.5,7,13.4
+"Gallatin, Kentucky",14.4,38.8,5,11.6
+"Garrard, Kentucky",14.7,43,0.9,17.6
+"Grant, Kentucky",15.7,36.3,1.6,12.9
+"Graves, Kentucky",19.6,39.7,1.9,17.4
+"Grayson, Kentucky",22.5,40.3,1.2,10.5
+"Green, Kentucky",19,44.6,1.3,13.2
+"Greenup, Kentucky",16.2,43.4,3,17.1
+"Hancock, Kentucky",11.4,39.9,0,11.4
+"Hardin, Kentucky",13.1,37,1.2,22
+"Harlan, Kentucky",35.1,41.3,2,10.8
+"Harrison, Kentucky",18.6,42.2,2.2,14.6
+"Hart, Kentucky",24.2,40.5,0.1,11.4
+"Henderson, Kentucky",17.1,41.2,1.5,18.2
+"Henry, Kentucky",15.9,41.4,1.8,13.1
+"Hickman, Kentucky",16.8,48,0.8,15.8
+"Hopkins, Kentucky",18.6,41.8,3.5,16.5
+"Jackson, Kentucky",31.5,42.2,1,13.8
+"Jefferson, Kentucky",13.4,38.3,1.5,33.4
+"Jessamine, Kentucky",15.4,37.8,0.6,29.5
+"Johnson, Kentucky",24.2,41.8,3.2,16.3
+"Kenton, Kentucky",10.7,37.1,1.5,31.7
+"Knott, Kentucky",31,43.2,1,14.9
+"Knox, Kentucky",34.2,40,2.3,14.2
+"Larue, Kentucky",12.7,40.9,2.6,12.4
+"Laurel, Kentucky",23.1,40,0.8,14.4
+"Lawrence, Kentucky",26.4,41.2,1.5,9.8
+"Lee, Kentucky",37.2,43.6,0.5,8.3
+"Leslie, Kentucky",35.5,42.3,1.4,8.7
+"Letcher, Kentucky",32,42.4,1.6,12.1
+"Lewis, Kentucky",27.1,42.8,1,9.1
+"Lincoln, Kentucky",20.1,41.3,1.6,13
+"Livingston, Kentucky",14.9,46,1.7,11.8
+"Logan, Kentucky",18.4,40.7,2.8,16.4
+"Lyon, Kentucky",12.8,50.6,5.1,16.9
+"McCracken, Kentucky",15.9,42.2,2.2,24.2
+"McCreary, Kentucky",34.1,39.4,1.2,7.2
+"McLean, Kentucky",16.3,42.4,0.5,13.5
+"Madison, Kentucky",19.3,34.1,1.3,30.8
+"Magoffin, Kentucky",30.1,42.3,0.3,9.5
+"Marion, Kentucky",21,39.3,1.4,12.6
+"Marshall, Kentucky",11.6,44.9,0.4,19.2
+"Martin, Kentucky",22.6,39.5,1.9,11.7
+"Mason, Kentucky",18.1,40.6,3.4,19.5
+"Meade, Kentucky",11.8,38.6,3.5,19.4
+"Menifee, Kentucky",23.7,44.6,6,11.2
+"Mercer, Kentucky",15.7,43.2,1.9,18.5
+"Metcalfe, Kentucky",22.5,43.9,0.2,13
+"Monroe, Kentucky",24.6,41.4,0.4,14.4
+"Montgomery, Kentucky",18.3,39.7,3.9,15.7
+"Morgan, Kentucky",24.9,42,1.6,12.5
+"Muhlenberg, Kentucky",16.8,42.4,2.8,12.6
+"Nelson, Kentucky",9,39.8,0.7,18
+"Nicholas, Kentucky",24.3,41.1,1.1,8.9
+"Ohio, Kentucky",17.1,40.3,0.2,13.6
+"Oldham, Kentucky",5.9,38.9,0.5,42.4
+"Owen, Kentucky",18.5,42.8,3.7,10.9
+"Owsley, Kentucky",36.1,43.4,1.2,16.2
+"Pendleton, Kentucky",18.6,40.6,0.6,13.2
+"Perry, Kentucky",28.2,41.2,2.6,14.4
+"Pike, Kentucky",25.7,42.5,2.1,13
+"Powell, Kentucky",23.6,38.6,4.2,15.9
+"Pulaski, Kentucky",23.5,42,1.2,16.5
+"Robertson, Kentucky",22.3,42.9,1.6,16.3
+"Rockcastle, Kentucky",22.6,42.7,0.4,11.4
+"Rowan, Kentucky",25.9,30.6,1.6,25.1
+"Russell, Kentucky",23,43.3,0.8,14.7
+"Scott, Kentucky",10.1,36.2,1.3,28.4
+"Shelby, Kentucky",9.9,39.4,0.8,24.9
+"Simpson, Kentucky",14.7,39,3.4,14.2
+"Spencer, Kentucky",9.1,42.1,0.2,20.3
+"Taylor, Kentucky",18.9,37.6,0.5,19.6
+"Todd, Kentucky",20.8,37.8,0.3,13.2
+"Trigg, Kentucky",13.4,46.2,4.4,16.6
+"Trimble, Kentucky",17.1,43.4,1.6,14.1
+"Union, Kentucky",13.2,38.1,2.8,11.1
+"Warren, Kentucky",16.1,32.8,1.1,32.2
+"Washington, Kentucky",13.9,40.7,1.9,18.8
+"Wayne, Kentucky",22.9,42.5,2.2,12.3
+"Webster, Kentucky",21,41,1.6,10
+"Whitley, Kentucky",24.4,36.6,1.9,20.4
+"Wolfe, Kentucky",35,41.8,0.4,8.7
+"Woodford, Kentucky",11.7,42.5,2.1,33.8
+"Acadia, Louisiana",23,36.7,1.7,13.3
+"Allen, Louisiana",16.9,38.2,2.2,11.3
+"Ascension, Louisiana",11.2,35.7,1.4,26.4
+"Assumption, Louisiana",20.5,40.9,2.3,9.6
+"Avoyelles, Louisiana",25.1,38.2,1.8,12.3
+"Beauregard, Louisiana",16.6,37.4,2.1,17.8
+"Bienville, Louisiana",28.1,41.9,2,12.8
+"Bossier, Louisiana",16.4,35.3,1.9,25.2
+"Caddo, Louisiana",21.6,37.7,2.1,23.5
+"Calcasieu, Louisiana",16,36.1,1.6,22.3
+"Caldwell, Louisiana",23.8,39.8,2.2,13.8
+"Cameron, Louisiana",10.9,44.1,0.7,12.7
+"Catahoula, Louisiana",22.9,38.1,0.6,13.8
+"Claiborne, Louisiana",35.2,42,1.4,12.8
+"Concordia, Louisiana",24.5,37.7,1.3,14.1
+"De Soto, Louisiana",21.1,39.3,0.9,14.8
+"East Baton Rouge, Louisiana",16.8,34,2.1,34.9
+"East Carroll, Louisiana",42.4,33.9,1,8.9
+"East Feliciana, Louisiana",16.6,42.9,1.2,12.7
+"Evangeline, Louisiana",27.9,35.7,2,11.6
+"Franklin, Louisiana",26.8,38.4,1.1,12
+"Grant, Louisiana",20.6,38.1,1.2,8.5
+"Iberia, Louisiana",20.5,36.5,1.3,13.6
+"Iberville, Louisiana",18.8,38.4,1.9,13.9
+"Jackson, Louisiana",21.9,40.9,3.1,14
+"Jefferson, Louisiana",14.4,39.4,1.6,26.8
+"Jefferson Davis, Louisiana",20.6,37.8,0.8,16.9
+"Lafayette, Louisiana",16.9,35.2,2,33
+"Lafourche, Louisiana",15.7,37.8,1.2,16.9
+"LaSalle, Louisiana",20.5,38.8,2.6,13.6
+"Lincoln, Louisiana",28.8,28.3,1.6,35.6
+"Livingston, Louisiana",12.2,36.6,1.8,19.7
+"Madison, Louisiana",34.2,35.2,1.8,12.8
+"Morehouse, Louisiana",30.3,39.9,1.5,13
+"Natchitoches, Louisiana",32.1,33.7,3.6,19
+"Orleans, Louisiana",23.8,36.8,2.1,37.6
+"Ouachita, Louisiana",23.9,35.7,1.5,24.2
+"Plaquemines, Louisiana",18.7,36.5,1.2,19.1
+"Pointe Coupee, Louisiana",24.3,43.1,0.3,14.9
+"Rapides, Louisiana",18.8,37.4,1.6,20.9
+"Red River, Louisiana",24.9,39.4,0.6,13.9
+"Richland, Louisiana",28.5,38.8,1.8,13.2
+"Sabine, Louisiana",20.4,41.1,2.5,13.3
+"St. Bernard, Louisiana",21.8,34.2,2.1,11.6
+"St. Charles, Louisiana",11.9,37.9,0.7,25.3
+"St. Helena, Louisiana",19.2,39.4,0.7,16.7
+"St. James, Louisiana",18.1,39.2,1.5,16.3
+"St. John the Baptist, Louisiana",18.3,36.8,1.5,15.9
+"St. Landry, Louisiana",27.6,36.7,1.5,14.8
+"St. Martin, Louisiana",16.9,37.7,1.1,14.5
+"St. Mary, Louisiana",19.7,39,2.4,10.2
+"St. Tammany, Louisiana",11.4,40.2,2.4,33.8
+"Tangipahoa, Louisiana",19.7,35.3,1.1,20
+"Tensas, Louisiana",30.3,43.4,8.2,11.4
+"Terrebonne, Louisiana",20,35.8,2.5,15.6
+"Union, Louisiana",18.5,42.1,2.1,17.2
+"Vermilion, Louisiana",16.9,38,1.1,14.2
+"Vernon, Louisiana",16.8,30.4,1.9,17.5
+"Washington, Louisiana",23.8,39.4,1.1,11.6
+"Webster, Louisiana",28.9,41.4,2.8,15.4
+"West Baton Rouge, Louisiana",11.6,36.3,0.7,22
+"West Carroll, Louisiana",22.4,40.3,2,11.7
+"West Feliciana, Louisiana",13.4,41.4,1.1,24.2
+"Winn, Louisiana",19.1,41.1,1.6,13.9
+"Androscoggin, Maine",12.2,41,1.6,22.8
+"Aroostook, Maine",17.5,48,2.9,19.2
+"Cumberland, Maine",9.8,42.2,1.3,47.6
+"Franklin, Maine",12.3,46.3,3.1,24.8
+"Hancock, Maine",11.7,48.8,2.2,34.1
+"Kennebec, Maine",12.9,44.4,1.5,28.1
+"Knox, Maine",9.1,48.4,2,33.5
+"Lincoln, Maine",12.7,51,2,33.5
+"Oxford, Maine",13.5,47,2.4,19.2
+"Penobscot, Maine",14.7,42,1.5,27.7
+"Piscataquis, Maine",19.1,51.5,4.1,18.4
+"Sagadahoc, Maine",10,46.9,0.3,36.4
+"Somerset, Maine",19.8,46.4,2.2,16.5
+"Waldo, Maine",14.3,46.2,2.1,31.4
+"Washington, Maine",19.6,48.1,3,22
+"York, Maine",7.9,45.2,1.7,32.5
+"Allegany, Maryland",16.6,41.7,2.5,18.9
+"Anne Arundel, Maryland",5.5,38.3,1.5,41.7
+"Baltimore, Maryland",8.7,39.4,1.6,39.4
+"Calvert, Maryland",4.6,40.7,1.4,32.4
+"Caroline, Maryland",12.1,39.7,1.6,18.4
+"Carroll, Maryland",5.5,42.4,0.7,36.4
+"Cecil, Maryland",8.4,40.8,2.7,23.9
+"Charles, Maryland",6.1,38.4,1.5,28.9
+"Dorchester, Maryland",15,44.6,1.7,21.2
+"Frederick, Maryland",6.7,39.1,1.1,41.4
+"Garrett, Maryland",11.6,46.2,3.2,20.9
+"Harford, Maryland",7.6,40.9,1.4,36.7
+"Howard, Maryland",5,38.8,0.9,62.6
+"Kent, Maryland",10.4,48.1,2.5,35.1
+"Montgomery, Maryland",6.7,39.2,1.1,58.9
+"Prince George's, Maryland",7.7,37.1,1.7,33.1
+"Queen Anne's, Maryland",6,44.4,2.2,36.5
+"St. Mary's, Maryland",7.3,36.7,1.6,31.9
+"Somerset, Maryland",22.8,36.2,3.5,14.4
+"Talbot, Maryland",9.2,50.5,1.8,40.6
+"Washington, Maryland",12.3,40.5,1.9,21.9
+"Wicomico, Maryland",13.2,36.1,1.2,27.2
+"Worcester, Maryland",8.9,50.4,3.4,29
+"Baltimore, Maryland",20,35.4,4,31.9
+"Barnstable, Massachusetts",6.8,53.3,1.8,43.4
+"Berkshire, Massachusetts",11.3,47.1,1.3,33.6
+"Bristol, Massachusetts",11.9,41,1,28.7
+"Dukes, Massachusetts",6.5,47.1,0.7,44.9
+"Essex, Massachusetts",11.1,40.9,0.9,39.9
+"Franklin, Massachusetts",10.1,46.7,1,37.3
+"Hampden, Massachusetts",16.4,39,1.2,27.1
+"Hampshire, Massachusetts",11.6,36.5,1,48.3
+"Middlesex, Massachusetts",8,38.5,0.6,56.3
+"Nantucket, Massachusetts",5.6,40.3,2,52.8
+"Norfolk, Massachusetts",7.4,40.9,0.8,53.6
+"Plymouth, Massachusetts",8.3,42.7,0.9,37.6
+"Suffolk, Massachusetts",18.2,32.8,1.1,46.1
+"Worcester, Massachusetts",10.5,40.2,1.3,36.4
+"Alcona, Michigan",16.3,58.2,3.3,16.9
+"Alger, Michigan",12.2,49.5,2.4,17.4
+"Allegan, Michigan",9.5,39.8,1.3,22.6
+"Alpena, Michigan",15.6,48.1,2.8,18
+"Antrim, Michigan",11.2,51.3,3.4,28.8
+"Arenac, Michigan",15.6,50,2.2,12.6
+"Baraga, Michigan",16.1,45.5,1,15.8
+"Barry, Michigan",8,42.5,0.5,21.1
+"Bay, Michigan",14.8,43.4,1.3,19.3
+"Benzie, Michigan",9.3,50.2,2.8,30.3
+"Berrien, Michigan",14.7,42.1,1.9,27.8
+"Branch, Michigan",13,41.2,1.6,14.4
+"Calhoun, Michigan",15,39.8,1.4,21
+"Cass, Michigan",11.4,45.2,3.3,19.2
+"Charlevoix, Michigan",11,48.6,1.7,31.1
+"Cheboygan, Michigan",14.3,51.1,2.8,20.7
+"Chippewa, Michigan",17.2,40.5,1.9,21.2
+"Clare, Michigan",19.9,47.2,3.7,12.6
+"Clinton, Michigan",8.7,40.6,0.7,32.1
+"Crawford, Michigan",17.1,50.8,1.6,19.4
+"Delta, Michigan",13.2,47.4,1.5,21
+"Dickinson, Michigan",12.4,46.7,2,25.7
+"Eaton, Michigan",8.9,40.9,1.1,27.8
+"Emmet, Michigan",10.2,45.5,1.7,33.4
+"Genesee, Michigan",17.6,40.5,1.5,21.2
+"Gladwin, Michigan",17.2,50.1,2.5,13.5
+"Gogebic, Michigan",17.9,49.3,2.4,19.4
+"Grand Traverse, Michigan",9.1,42.8,0.7,36
+"Gratiot, Michigan",16.3,39.5,1.9,15.4
+"Hillsdale, Michigan",14.4,42.3,1.6,17.3
+"Houghton, Michigan",19.3,33,3.7,32.6
+"Huron, Michigan",12.6,49.2,2.6,16
+"Ingham, Michigan",17.6,32,1.5,38.9
+"Ionia, Michigan",11.3,38.7,1.1,16.4
+"Iosco, Michigan",14.1,52.9,3.6,15.9
+"Iron, Michigan",14,54.3,3,18.5
+"Isabella, Michigan",23.9,28.1,2.2,29.1
+"Jackson, Michigan",13.3,41.2,1.4,22.2
+"Kalamazoo, Michigan",14.1,34.4,0.9,38.8
+"Kalkaska, Michigan",15.5,44.4,1.4,11.9
+"Kent, Michigan",10.6,35.3,0.6,35.7
+"Keweenaw, Michigan",10.6,57.5,2.5,32
+"Lake, Michigan",20.3,53.2,4,11.9
+"Lapeer, Michigan",10.6,44.1,1.2,18.3
+"Leelanau, Michigan",5.9,54.1,1.4,44.7
+"Lenawee, Michigan",10.8,41.9,1,21
+"Livingston, Michigan",5.3,43.5,0.8,35.4
+"Luce, Michigan",16.9,44.7,0.8,18.4
+"Mackinac, Michigan",16.9,52.8,2.8,23.3
+"Macomb, Michigan",10.3,40.9,1,24.9
+"Manistee, Michigan",11.3,49.3,6.1,20.3
+"Marquette, Michigan",15.2,39.1,1.6,32.9
+"Mason, Michigan",13.9,46.2,1.9,23.1
+"Mecosta, Michigan",20.1,36.9,1.1,22.7
+"Menominee, Michigan",13.3,48.8,0.9,16.3
+"Midland, Michigan",10.9,41.8,1.3,35.2
+"Missaukee, Michigan",12.8,43.5,1.6,14
+"Monroe, Michigan",11,42.6,1.7,20.5
+"Montcalm, Michigan",13.7,40.7,2.1,13.3
+"Montmorency, Michigan",14.4,56.1,4.6,13.7
+"Muskegon, Michigan",14.4,39.3,1.4,19.7
+"Newaygo, Michigan",15,42.4,1.7,16.6
+"Oakland, Michigan",8.5,40.9,1.1,47.2
+"Oceana, Michigan",12.9,43.2,0.8,19.5
+"Ogemaw, Michigan",16.6,50.4,3,12.2
+"Ontonagon, Michigan",12.9,58.6,2,16.5
+"Osceola, Michigan",16.8,43.8,1.1,14.2
+"Oscoda, Michigan",16,51.8,4.7,10.6
+"Otsego, Michigan",12.8,44.9,2.2,23.6
+"Ottawa, Michigan",8.2,35.2,0.7,34.1
+"Presque Isle, Michigan",13,55,2.7,17.9
+"Roscommon, Michigan",15.2,56.2,3.8,15.5
+"Saginaw, Michigan",17.3,40.9,1.5,20.8
+"St. Clair, Michigan",12.3,43.8,1.7,18.6
+"St. Joseph, Michigan",13.2,39.6,2.2,16.2
+"Sanilac, Michigan",14.5,45.2,1.9,14.2
+"Schoolcraft, Michigan",15.8,52.1,2.1,15.6
+"Shiawassee, Michigan",10.6,42.4,2,17
+"Tuscola, Michigan",13.1,44.6,2,13.5
+"Van Buren, Michigan",13,41.6,1.2,21.7
+"Washtenaw, Michigan",13,33.6,1.2,55.9
+"Wayne, Michigan",20.5,37.9,2.4,23.9
+"Wexford, Michigan",14.8,41.6,1.7,18.2
+"Aitkin, Minnesota",12.8,55.5,1.8,18.1
+"Anoka, Minnesota",5.7,38.5,0.7,30.5
+"Becker, Minnesota",10.9,41.9,0.6,25
+"Beltrami, Minnesota",17.7,34,1,29.2
+"Benton, Minnesota",11.5,36,0.4,23.6
+"Big Stone, Minnesota",12.1,49,1.5,15.4
+"Blue Earth, Minnesota",16.2,31,1.4,34.8
+"Brown, Minnesota",8.1,42.3,1.2,22.2
+"Carlton, Minnesota",8.9,41,1.8,22.1
+"Carver, Minnesota",4.7,37.9,1.1,48.9
+"Cass, Minnesota",12.8,48.9,1.6,23.2
+"Chippewa, Minnesota",12.2,41.6,0.8,19
+"Chisago, Minnesota",5.8,41.3,1.2,21.5
+"Clay, Minnesota",12.6,32.6,0.5,34.2
+"Clearwater, Minnesota",16,42.3,0.8,17.1
+"Cook, Minnesota",12.7,52.6,4,40.4
+"Cottonwood, Minnesota",10.7,42.9,1.2,20
+"Crow Wing, Minnesota",10.9,44.5,1.8,24.7
+"Dakota, Minnesota",6.1,37.9,0.6,42.2
+"Dodge, Minnesota",5.9,38.4,0.9,25.7
+"Douglas, Minnesota",8.2,44.2,1.3,26
+"Faribault, Minnesota",12.2,45.8,1.5,18.6
+"Fillmore, Minnesota",9.4,42.3,1,22.2
+"Freeborn, Minnesota",11,44,1.1,17.1
+"Goodhue, Minnesota",10.1,42.2,1.1,26
+"Grant, Minnesota",11,44.9,1.4,18.8
+"Hennepin, Minnesota",9.8,36.5,0.9,50.1
+"Houston, Minnesota",8.5,45.3,0.4,24.8
+"Hubbard, Minnesota",10.4,48.7,1.3,27.4
+"Isanti, Minnesota",7.3,40,0.3,18.5
+"Itasca, Minnesota",12.8,46.3,1.9,23.1
+"Jackson, Minnesota",7.7,44.8,2.9,22.6
+"Kanabec, Minnesota",10.3,45,0.6,14.7
+"Kandiyohi, Minnesota",10.2,39.3,0.8,23.3
+"Kittson, Minnesota",9.6,48.1,1.3,25.9
+"Koochiching, Minnesota",14.1,49.5,4.7,15.5
+"Lac qui Parle, Minnesota",9.5,50.4,1.5,18.8
+"Lake, Minnesota",9,50.8,0.8,28.8
+"Lake of the Woods, Minnesota",8.8,50.9,1.8,16.7
+"Le Sueur, Minnesota",8.3,41,1.1,23
+"Lincoln, Minnesota",13.5,45.4,1.3,19.3
+"Lyon, Minnesota",13.7,35.8,1.8,26.1
+"McLeod, Minnesota",8.4,40.7,0.9,17.6
+"Mahnomen, Minnesota",19.2,35.7,0.9,13.2
+"Marshall, Minnesota",8.1,43.7,1.1,19.1
+"Martin, Minnesota",13.9,45.3,1.6,20.5
+"Meeker, Minnesota",7.3,42.2,0.9,19.5
+"Mille Lacs, Minnesota",12.4,40.5,1.2,14.7
+"Morrison, Minnesota",10.6,41.7,0.9,17.3
+"Mower, Minnesota",12.4,38.8,1.7,22.2
+"Murray, Minnesota",8.6,48.1,1.5,20.7
+"Nicollet, Minnesota",9.8,36.3,0.3,33.8
+"Nobles, Minnesota",12.6,35.7,2.2,15.3
+"Norman, Minnesota",10.6,43.8,1.5,19.1
+"Olmsted, Minnesota",8.4,37.2,1.2,44.9
+"Otter Tail, Minnesota",10.5,46.8,1.6,24.9
+"Pennington, Minnesota",10.5,39.6,0.6,19.3
+"Pine, Minnesota",11.6,45,1.2,14.9
+"Pipestone, Minnesota",11.3,42.1,1.5,21.3
+"Polk, Minnesota",11.4,38.7,1.5,25.3
+"Pope, Minnesota",9,45.8,1.4,22.9
+"Ramsey, Minnesota",12.4,35,0.8,42.3
+"Red Lake, Minnesota",11.1,42.7,1.1,16.2
+"Redwood, Minnesota",10.7,42.6,2.1,19.1
+"Renville, Minnesota",11,43.8,1.1,15.2
+"Rice, Minnesota",9.5,36.5,0.3,28.3
+"Rock, Minnesota",9.2,40.8,0.4,23.8
+"Roseau, Minnesota",7.9,41.6,1.5,20.3
+"St. Louis, Minnesota",13.8,41.1,1.5,29.3
+"Scott, Minnesota",5.4,36.5,0.8,39.9
+"Sherburne, Minnesota",6.2,36,0.8,26.6
+"Sibley, Minnesota",7.9,41.7,0.7,16.4
+"Stearns, Minnesota",11.4,34.4,1.1,27.5
+"Steele, Minnesota",9.9,39,1,26
+"Stevens, Minnesota",12.3,33.1,0.6,30.5
+"Swift, Minnesota",13.1,43.9,2,19.6
+"Todd, Minnesota",11.9,43.9,1.1,15.1
+"Traverse, Minnesota",11,47.5,1.5,17.5
+"Wabasha, Minnesota",8.1,45.2,1.1,23.7
+"Wadena, Minnesota",14.3,41.5,0.8,13.8
+"Waseca, Minnesota",9.4,40.5,1,21.4
+"Washington, Minnesota",4.7,39.5,0.8,44.3
+"Watonwan, Minnesota",12.9,39.9,1.5,15.5
+"Wilkin, Minnesota",9,43.3,0.2,23.8
+"Winona, Minnesota",13.2,35.2,1,30.1
+"Wright, Minnesota",5.9,37,0.5,29.6
+"Yellow Medicine, Minnesota",12.8,42.4,0.5,17.2
+"Adams, Mississippi",30.3,41.4,5,17.4
+"Alcorn, Mississippi",15.8,39.7,1.9,17.1
+"Amite, Mississippi",29.5,47.1,1.7,12.6
+"Attala, Mississippi",24.5,39.8,2.6,13.9
+"Benton, Mississippi",20.2,41.5,2.3,11.5
+"Bolivar, Mississippi",32.7,35.6,1.3,23.6
+"Calhoun, Mississippi",20.8,41.4,0.7,11.8
+"Carroll, Mississippi",19.4,47.6,0.2,12.2
+"Chickasaw, Mississippi",22.7,37.8,0.7,12.4
+"Choctaw, Mississippi",19.3,44,2.9,19.1
+"Claiborne, Mississippi",30.4,33.9,0,24
+"Clarke, Mississippi",21.4,42.2,1.2,12.5
+"Clay, Mississippi",25.1,39.5,0.4,20.4
+"Coahoma, Mississippi",32.5,34.8,1.9,16.5
+"Copiah, Mississippi",22,38.5,1.7,14.5
+"Covington, Mississippi",24.3,37.3,0.3,14.7
+"DeSoto, Mississippi",8.4,36.8,1.7,25
+"Forrest, Mississippi",25.9,32.5,1.9,27.8
+"Franklin, Mississippi",20,42.5,0.1,12
+"George, Mississippi",15.8,36.4,2.4,13.8
+"Greene, Mississippi",21.6,40.4,2.6,9.7
+"Grenada, Mississippi",21,39.2,0.2,21.3
+"Hancock, Mississippi",16.3,44.4,4.2,22
+"Harrison, Mississippi",18.5,36.2,3.2,23.1
+"Hinds, Mississippi",19,34.8,2.4,29
+"Holmes, Mississippi",43.5,34.7,3.6,10.2
+"Humphreys, Mississippi",31.6,38.3,0,12.8
+"Issaquena, Mississippi",33.5,42.2,0,3.2
+"Itawamba, Mississippi",15.2,39.9,1.3,13.2
+"Jackson, Mississippi",15.6,38.8,2.4,21.1
+"Jasper, Mississippi",24.2,41,1.2,15.1
+"Jefferson, Mississippi",33,40.5,1.1,15.9
+"Jefferson Davis, Mississippi",29.3,44,2.1,14.1
+"Jones, Mississippi",19.8,37.5,1.5,20.8
+"Kemper, Mississippi",26.7,41.4,0.8,14.7
+"Lafayette, Mississippi",19.8,30.5,0.3,45.6
+"Lamar, Mississippi",16.4,35.9,0.8,34.1
+"Lauderdale, Mississippi",21.5,37.8,1.8,19.7
+"Lawrence, Mississippi",19.6,39.9,1,17.6
+"Leake, Mississippi",24.3,36.9,0.9,14.3
+"Lee, Mississippi",15.8,37.5,1.5,24.4
+"Leflore, Mississippi",35.6,34,3.1,18.5
+"Lincoln, Mississippi",22,38.9,0.5,16.2
+"Lowndes, Mississippi",19.7,37.1,5.6,23.4
+"Madison, Mississippi",9.7,37.2,1.9,48.4
+"Marion, Mississippi",26.1,40.8,2.2,12.3
+"Marshall, Mississippi",16.5,40.4,4.2,13.8
+"Monroe, Mississippi",19.8,41.1,2.8,16.7
+"Montgomery, Mississippi",24.5,41.6,0.3,19.3
+"Neshoba, Mississippi",24,37.3,1.1,11.6
+"Newton, Mississippi",21.8,37,1.9,16.4
+"Noxubee, Mississippi",31.3,37,2.5,15.6
+"Oktibbeha, Mississippi",29.7,26.1,3.3,42.6
+"Panola, Mississippi",21,38.3,2.2,14.9
+"Pearl River, Mississippi",18.1,40.9,3.4,16.7
+"Perry, Mississippi",19.9,41.9,0.4,10.7
+"Pike, Mississippi",32.1,37.2,3.1,16.6
+"Pontotoc, Mississippi",15.1,36.6,1.4,18.1
+"Prentiss, Mississippi",24.4,39.2,2.1,12.4
+"Quitman, Mississippi",36.4,38.7,3.8,10.3
+"Rankin, Mississippi",8.4,37.8,1.7,29
+"Scott, Mississippi",23.6,36.4,1,11.4
+"Sharkey, Mississippi",27.1,41.2,1.9,19.5
+"Simpson, Mississippi",17.8,39.5,2.9,16.2
+"Smith, Mississippi",18.1,41.5,0.7,12.2
+"Stone, Mississippi",17.8,38.7,1.4,15.8
+"Sunflower, Mississippi",29.6,35.6,2.7,15.4
+"Tallahatchie, Mississippi",33.5,36.8,1.4,10.3
+"Tate, Mississippi",16.4,38.2,2.2,15.8
+"Tippah, Mississippi",21.2,38.8,5.1,15.2
+"Tishomingo, Mississippi",22,42.5,2.6,11.4
+"Tunica, Mississippi",25.6,33.6,3.4,16.9
+"Union, Mississippi",14.5,37.9,0.5,13.4
+"Walthall, Mississippi",29,39.8,2.1,14.4
+"Warren, Mississippi",20.7,39.1,3.1,22.4
+"Washington, Mississippi",30.8,37.2,2.3,17.9
+"Wayne, Mississippi",21.9,40.2,0.7,15.3
+"Webster, Mississippi",19.5,40.5,2.1,18.5
+"Wilkinson, Mississippi",29.1,37.8,0,13.7
+"Winston, Mississippi",20.4,42.3,1.4,14.7
+"Yalobusha, Mississippi",18.2,42.5,1.5,13.8
+"Yazoo, Mississippi",28.1,36.1,1.2,13.4
+"Adair, Missouri",24.4,27.6,1.2,31
+"Andrew, Missouri",10.6,42.4,0.8,24.9
+"Atchison, Missouri",12.3,48.5,2.3,23.1
+"Audrain, Missouri",13.8,39.7,2.5,14.7
+"Barry, Missouri",17.9,43.7,1.8,14.6
+"Barton, Missouri",17.5,41.3,0.6,19.9
+"Bates, Missouri",12.3,41.6,1.4,16.1
+"Benton, Missouri",15.9,53.6,2.7,13
+"Bollinger, Missouri",15.1,44,1,8.9
+"Boone, Missouri",16.9,31.2,1.4,46.1
+"Buchanan, Missouri",15.8,37.8,2.1,21.1
+"Butler, Missouri",23.2,41.3,1.3,13.3
+"Caldwell, Missouri",12.5,42.3,1.6,18.1
+"Callaway, Missouri",11.4,38.6,0.5,23.1
+"Camden, Missouri",14.1,51.5,4.9,21.1
+"Cape Girardeau, Missouri",15.4,36.5,2.8,31.5
+"Carroll, Missouri",13.1,43.4,0.5,16.7
+"Carter, Missouri",13.2,41.7,2.4,15.5
+"Cass, Missouri",8,39.8,1,26.3
+"Cedar, Missouri",16,44.7,1.4,13.6
+"Chariton, Missouri",14.7,45.7,1,17.2
+"Christian, Missouri",9.4,37.9,1.7,28.6
+"Clark, Missouri",12.1,44,1.5,12.8
+"Clay, Missouri",7.4,37.1,1.5,33.2
+"Clinton, Missouri",8.8,41,1.6,21.6
+"Cole, Missouri",10.2,38.6,3.3,33.3
+"Cooper, Missouri",11.6,38.7,2.2,22.1
+"Crawford, Missouri",18.4,41.9,1,11.5
+"Dade, Missouri",18,46.2,1.1,12.7
+"Dallas, Missouri",12.7,44,1.1,12.9
+"Daviess, Missouri",14.6,41.1,2.4,18.5
+"DeKalb, Missouri",12.8,40.4,2.4,13.8
+"Dent, Missouri",21.9,44.7,0.6,15.3
+"Douglas, Missouri",19.8,47.3,1,10.8
+"Dunklin, Missouri",24.6,40,1.1,13.8
+"Franklin, Missouri",10.2,40.7,1.4,20.9
+"Gasconade, Missouri",9.9,46.2,2,19.2
+"Gentry, Missouri",15.7,40.4,0,19.1
+"Greene, Missouri",16.9,36,1.3,30.5
+"Grundy, Missouri",16.6,40.8,1.1,17.1
+"Harrison, Missouri",15,43.3,0.6,16.5
+"Henry, Missouri",18,44.1,2.6,15.9
+"Hickory, Missouri",18.3,55,3.4,9
+"Holt, Missouri",10.3,48.5,2.7,19.7
+"Howard, Missouri",13.8,39.1,0,25.2
+"Howell, Missouri",21.3,40.9,1.8,18
+"Iron, Missouri",22.8,45.7,2.5,10.8
+"Jackson, Missouri",13.8,36.8,1.3,31.6
+"Jasper, Missouri",15.9,36.2,1.6,23.6
+"Jefferson, Missouri",9.9,39.2,1.2,20.4
+"Johnson, Missouri",15.4,30.5,2.6,28.9
+"Knox, Missouri",17.5,44.1,0.5,17.2
+"Laclede, Missouri",16.5,40.3,1.6,14.6
+"Lafayette, Missouri",12.3,42.3,1.1,20.3
+"Lawrence, Missouri",16.7,39.4,2,16
+"Lewis, Missouri",17.9,40.6,1.2,13.6
+"Lincoln, Missouri",11.5,37.1,1.5,16.8
+"Linn, Missouri",13.3,41.8,0.6,16.9
+"Livingston, Missouri",15.6,40,0.2,18.8
+"McDonald, Missouri",17.2,37.8,0.9,11.5
+"Macon, Missouri",12.2,43.3,1.8,16.3
+"Madison, Missouri",17.8,42.2,0.5,15.6
+"Maries, Missouri",15.5,46,1.2,15.8
+"Marion, Missouri",16.5,38.9,1.9,22.4
+"Mercer, Missouri",13.8,42.9,0.5,18.9
+"Miller, Missouri",15.5,40.7,1.9,19.4
+"Mississippi, Missouri",25.6,41.4,5.4,11.5
+"Moniteau, Missouri",12.6,38,0.4,20.5
+"Monroe, Missouri",12.8,46.5,1.3,12.4
+"Montgomery, Missouri",16.4,44.5,2.9,14
+"Morgan, Missouri",21.4,46,2.5,13.3
+"New Madrid, Missouri",21.6,42,1.7,12.1
+"Newton, Missouri",13,39.9,1.1,20
+"Nodaway, Missouri",21.5,29.7,2.4,28.6
+"Oregon, Missouri",23.9,46.4,3.7,14.6
+"Osage, Missouri",7.1,40.8,1.4,18.9
+"Ozark, Missouri",24.1,51.6,2.2,11
+"Pemiscot, Missouri",26.8,37.9,2.1,12.7
+"Perry, Missouri",7.9,40.7,2.3,17.7
+"Pettis, Missouri",13.9,37.8,2.9,18
+"Phelps, Missouri",20.7,35.3,2.2,29.1
+"Pike, Missouri",14.7,38.9,3,15.6
+"Platte, Missouri",5.9,38.2,0.8,43.1
+"Polk, Missouri",14,37.6,2.1,19.9
+"Pulaski, Missouri",14.5,27.6,6.5,28.3
+"Putnam, Missouri",14,45.8,3.7,19.3
+"Ralls, Missouri",12.7,45,1.4,14.9
+"Randolph, Missouri",16.3,39.4,0.4,15.1
+"Ray, Missouri",11.7,42.2,0.6,14.6
+"Reynolds, Missouri",20,46.5,3.3,13.7
+"Ripley, Missouri",25.2,42.3,3,10.2
+"St. Charles, Missouri",5.1,38.6,0.8,38.9
+"St. Clair, Missouri",16.9,50.3,2.3,13.9
+"Ste. Genevieve, Missouri",11.4,43.3,1.9,19.7
+"St. Francois, Missouri",16.1,39.4,2.7,14.3
+"St. Louis, Missouri",9.5,40.3,1.5,43.6
+"Saline, Missouri",14.7,37.9,1.2,19.4
+"Schuyler, Missouri",19.7,40.1,0.8,12.6
+"Scotland, Missouri",14.6,37.3,1,14.2
+"Scott, Missouri",18.7,40,1.3,16.3
+"Shannon, Missouri",26.1,45.8,3.7,14.9
+"Shelby, Missouri",14.1,42.3,2.5,18.1
+"Stoddard, Missouri",19.1,41.4,2.3,13.3
+"Stone, Missouri",12.1,53.6,2.2,18.6
+"Sullivan, Missouri",14.2,42.1,0.9,11.7
+"Taney, Missouri",14.2,42.2,3.3,19.9
+"Texas, Missouri",24.5,43.2,3.9,13.5
+"Vernon, Missouri",13,40.8,2.2,18.9
+"Warren, Missouri",11.4,41,1.2,19.1
+"Washington, Missouri",20.1,40.8,0.7,9.9
+"Wayne, Missouri",26.2,47.5,4.5,9.6
+"Webster, Missouri",14.1,36.7,1.2,16.8
+"Worth, Missouri",16.2,48.1,0,20
+"Wright, Missouri",23.6,41.7,3.8,10.2
+"St. Louis, Missouri",20.7,35.8,3.8,36.3
+"Beaverhead, Montana",20.3,43,0.4,35.4
+"Big Horn, Montana",20.9,30.7,1.7,18.1
+"Blaine, Montana",23.8,33.8,1.1,22.9
+"Broadwater, Montana",8.2,47.3,0.8,27.1
+"Carbon, Montana",9.4,50.5,1.3,30.4
+"Carter, Montana",10.2,47.8,0.2,20.2
+"Cascade, Montana",14.3,38.3,1.1,25.7
+"Chouteau, Montana",14.6,41.9,1,28.3
+"Custer, Montana",13,41.4,1.8,24.6
+"Daniels, Montana",4.9,49.2,0,24
+"Dawson, Montana",11.9,41,3.9,22.2
+"Deer Lodge, Montana",17.5,48.6,2.5,20.4
+"Fallon, Montana",7.1,39.3,0.8,19
+"Fergus, Montana",15.3,45.3,1,29.1
+"Flathead, Montana",10.7,42.2,1.5,31
+"Gallatin, Montana",13.3,33.4,0.9,50.1
+"Garfield, Montana",10,45.8,0,14.3
+"Glacier, Montana",27.8,31.9,3.5,21.4
+"Golden Valley, Montana",18.8,56.9,3.2,22.7
+"Granite, Montana",8.8,54.3,1.5,28.9
+"Hill, Montana",18.3,34.3,2,25.4
+"Jefferson, Montana",6.7,47.6,1.1,35
+"Judith Basin, Montana",18.3,51.7,2.6,26.6
+"Lake, Montana",17.3,42.3,2.2,29.6
+"Lewis and Clark, Montana",10.1,40.8,1.3,40.1
+"Liberty, Montana",11.5,46.5,5.9,15.2
+"Lincoln, Montana",17.2,52.4,2.2,19.6
+"McCone, Montana",10.4,46.6,0,17.2
+"Madison, Montana",7.5,53,4.2,31.2
+"Meagher, Montana",13,48,2.1,29.3
+"Mineral, Montana",19.4,51.7,2,16.1
+"Missoula, Montana",15.6,36,0.5,43
+"Musselshell, Montana",12.4,50.1,5.5,16.3
+"Park, Montana",13.3,46.3,0.7,31.5
+"Petroleum, Montana",12.3,51.8,0,32.6
+"Phillips, Montana",14,49,1.2,17.2
+"Pondera, Montana",11,40.7,3.7,24
+"Powder River, Montana",10.6,53.4,2.3,24.4
+"Powell, Montana",14.1,45.5,1.2,20.4
+"Prairie, Montana",10.6,48.7,4.8,22.2
+"Ravalli, Montana",12.5,49.1,1.6,27.8
+"Richland, Montana",7.9,38.6,3,18.9
+"Roosevelt, Montana",25,30.2,2.4,17.4
+"Rosebud, Montana",16.2,36.8,4.8,17.8
+"Sanders, Montana",16.7,53.9,1.6,17.9
+"Sheridan, Montana",10.8,46.3,0.9,23.9
+"Silver Bow, Montana",19.4,40,1.8,27.2
+"Stillwater, Montana",6.5,46.8,1.3,25
+"Sweet Grass, Montana",7.5,52,0.5,25.4
+"Teton, Montana",10.7,44.4,4.2,24.9
+"Toole, Montana",12.4,43.1,5.9,15.2
+"Treasure, Montana",19.7,56.8,0,25.4
+"Valley, Montana",10.3,44.3,2.8,21.5
+"Wheatland, Montana",16.4,41.1,1.3,19.6
+"Wibaux, Montana",10.6,47.1,2,23.4
+"Yellowstone, Montana",10.1,38.4,0.9,32.1
+"Adams, Nebraska",11.8,37.7,0.8,24.3
+"Antelope, Nebraska",12.5,44.9,1,18.4
+"Arthur, Nebraska",13.7,45.5,0,26.2
+"Banner, Nebraska",11.3,48.9,1.5,23.3
+"Blaine, Nebraska",10.8,53.2,0,23
+"Boone, Nebraska",8.3,44.8,0.4,21.1
+"Box Butte, Nebraska",13,39.4,0.4,17.1
+"Boyd, Nebraska",11.9,54.3,0.8,16.7
+"Brown, Nebraska",11.6,49.4,0.9,20.7
+"Buffalo, Nebraska",13.3,33.5,1.6,34.6
+"Burt, Nebraska",11.9,45.7,1.9,21.3
+"Butler, Nebraska",7.8,43.3,0.9,21.4
+"Cass, Nebraska",7.5,41.7,1,27.7
+"Cedar, Nebraska",6.9,42.7,2,21
+"Chase, Nebraska",7.2,43.5,3.6,21
+"Cherry, Nebraska",9.7,43.1,0.8,22.9
+"Cheyenne, Nebraska",10.2,40.4,1.6,25.4
+"Clay, Nebraska",11,42.5,0.8,19.9
+"Colfax, Nebraska",10.6,33.7,1,15.4
+"Cuming, Nebraska",8.7,42.6,3,23.8
+"Custer, Nebraska",10.6,43.1,2.5,24
+"Dakota, Nebraska",13.4,33.4,0.6,13
+"Dawes, Nebraska",14,34.9,2,36.9
+"Dawson, Nebraska",12.7,35.7,2.2,15.8
+"Deuel, Nebraska",8.8,48.7,3.7,15.9
+"Dixon, Nebraska",10.5,40.8,0.9,21.2
+"Dodge, Nebraska",11.9,38.9,0.3,19
+"Douglas, Nebraska",11.7,34.7,1.1,39.7
+"Dundy, Nebraska",10.7,43.3,1.2,23.3
+"Fillmore, Nebraska",10.8,47,1.9,21.4
+"Franklin, Nebraska",13.4,50.8,2.1,17.3
+"Frontier, Nebraska",9.8,45.2,2.1,21.5
+"Furnas, Nebraska",13,46.9,1.1,17.4
+"Gage, Nebraska",11.2,43.8,0.3,20.8
+"Garden, Nebraska",7.8,50.4,0,22.5
+"Garfield, Nebraska",10.4,50.9,1.3,25.5
+"Gosper, Nebraska",6.9,53.4,0,29.5
+"Grant, Nebraska",15.6,38.8,0,26.8
+"Greeley, Nebraska",12.5,45.5,1.3,16.3
+"Hall, Nebraska",11.2,35.9,1.2,21.5
+"Hamilton, Nebraska",5.3,41.9,1.4,25
+"Harlan, Nebraska",11.4,45.3,1.4,22.4
+"Hayes, Nebraska",13.6,45.7,1.6,18.3
+"Hitchcock, Nebraska",11.7,46.2,2.2,17.6
+"Holt, Nebraska",9.2,42.8,1.5,22.4
+"Hooker, Nebraska",9.7,53.3,2.8,26.4
+"Howard, Nebraska",10.1,43.1,0.6,21.1
+"Jefferson, Nebraska",13.6,46.5,0,17.8
+"Johnson, Nebraska",9.2,40.9,1.7,17.5
+"Kearney, Nebraska",8.3,39.6,1.4,26.7
+"Keith, Nebraska",15,49.3,1.7,20.5
+"Keya Paha, Nebraska",9.5,45.3,3.1,25
+"Kimball, Nebraska",13,46.3,3.3,16.1
+"Knox, Nebraska",9.6,45.6,1.5,21.6
+"Lancaster, Nebraska",12.2,33.5,0.6,39.5
+"Lincoln, Nebraska",11.8,41.1,0.8,23.2
+"Logan, Nebraska",11,38.6,1.5,19.6
+"Loup, Nebraska",12.6,53.2,0,25.3
+"McPherson, Nebraska",13.6,54.8,3.5,22
+"Madison, Nebraska",15.3,36.6,0.4,23
+"Merrick, Nebraska",13.1,43.6,1.7,17.8
+"Morrill, Nebraska",9.6,42.3,2.5,19.5
+"Nance, Nebraska",11.5,44.8,3.1,18.3
+"Nemaha, Nebraska",12.8,39.3,0.9,27.8
+"Nuckolls, Nebraska",9.4,49.2,1.9,20.9
+"Otoe, Nebraska",10.3,41.4,1.6,23.4
+"Pawnee, Nebraska",16.1,50,0.4,17.1
+"Perkins, Nebraska",6.3,42.9,0.6,28.1
+"Phelps, Nebraska",10.8,42.4,0.7,23.5
+"Pierce, Nebraska",9,41.6,0.5,23.2
+"Platte, Nebraska",8.7,38.4,1.1,21.8
+"Polk, Nebraska",6.6,45.1,0.7,21.8
+"Red Willow, Nebraska",10.7,40.7,1.8,19.1
+"Richardson, Nebraska",14,47.7,0.6,19
+"Rock, Nebraska",6.6,46.2,0,23.2
+"Saline, Nebraska",16.3,35.5,0.4,17.8
+"Sarpy, Nebraska",6.1,34.6,0.5,39.8
+"Saunders, Nebraska",8.2,41.2,0.3,25.4
+"Scotts Bluff, Nebraska",14.3,39.5,1.3,22.9
+"Seward, Nebraska",7.9,38,1.1,28.9
+"Sheridan, Nebraska",14.1,46.7,1.7,22.8
+"Sherman, Nebraska",12.9,49.7,2,20.2
+"Sioux, Nebraska",5.9,44.1,3,30.6
+"Stanton, Nebraska",6.9,42.1,2.4,17.8
+"Thayer, Nebraska",9.3,46.5,0.1,18.8
+"Thomas, Nebraska",10.5,41.8,7.2,24.7
+"Thurston, Nebraska",22.6,27.5,0.9,16.4
+"Valley, Nebraska",11.3,46.2,2,24.2
+"Washington, Nebraska",8.9,41.2,1.5,29.9
+"Wayne, Nebraska",17.9,32,0.5,32.4
+"Webster, Nebraska",11.5,45.1,0.7,23
+"Wheeler, Nebraska",10.7,49.4,3.3,19.4
+"York, Nebraska",11.3,39.9,1.3,28.4
+"Churchill, Nevada",12.6,39.7,1.5,18.8
+"Clark, Nevada",13.2,37.3,2.2,24.5
+"Douglas, Nevada",8.3,52,1.9,29.4
+"Elko, Nevada",10.5,34.1,1.4,16.6
+"Esmeralda, Nevada",7.3,55.4,3.7,16.1
+"Eureka, Nevada",15.4,47.7,2.5,8.8
+"Humboldt, Nevada",12.5,36,3,16.8
+"Lander, Nevada",12,37.4,1.2,12.4
+"Lincoln, Nevada",7.2,44.4,3.1,19.6
+"Lyon, Nevada",10.4,43.7,2.4,14.4
+"Mineral, Nevada",19.4,52.9,5.8,14.9
+"Nye, Nevada",15.3,53.1,1.6,10.7
+"Pershing, Nevada",17.4,42.1,3.7,11.1
+"Storey, Nevada",3.4,50.9,1.5,31.4
+"Washoe, Nevada",10.7,38.4,1.4,30.8
+"White Pine, Nevada",13.3,39.8,2.7,13.2
+"Carson City, Nevada",11.6,42.4,0.7,22.2
+"Belknap, New Hampshire",8.9,47.4,1.5,32.6
+"Carroll, New Hampshire",9.1,52.3,2.4,34.3
+"Cheshire, New Hampshire",8.8,43.1,1.8,33.1
+"Coos, New Hampshire",12.8,48.2,2.1,18.2
+"Grafton, New Hampshire",10,43.2,1.9,40.6
+"Hillsborough, New Hampshire",7.8,40.7,0.8,38.1
+"Merrimack, New Hampshire",7.4,42.8,1,35.6
+"Rockingham, New Hampshire",5.3,44.5,1,41.4
+"Strafford, New Hampshire",9.9,36.9,1.3,35.8
+"Sullivan, New Hampshire",10.2,46.3,1.5,28.1
+"Atlantic, New Jersey",12.8,41.7,2.8,28.1
+"Bergen, New Jersey",7.6,41.9,1.1,49.3
+"Burlington, New Jersey",5.8,41.6,1.6,38
+"Camden, New Jersey",12.4,38.8,1.7,32.5
+"Cape May, New Jersey",9.5,49.6,4.3,32.8
+"Cumberland, New Jersey",16.2,37.6,1.6,15.6
+"Essex, New Jersey",16.6,37.6,2.2,35.5
+"Gloucester, New Jersey",7.3,40.5,1.4,33
+"Hudson, New Jersey",15,35.3,2.1,42.3
+"Hunterdon, New Jersey",4.5,46.3,2.7,52.7
+"Mercer, New Jersey",11.5,38.8,1.5,42.6
+"Middlesex, New Jersey",8.6,38.6,1.3,43.6
+"Monmouth, New Jersey",7.5,43.3,1.3,46
+"Morris, New Jersey",5.1,42.8,1.3,54.1
+"Ocean, New Jersey",8.6,42.7,1.7,30
+"Passaic, New Jersey",15.1,37.2,1.1,28.2
+"Salem, New Jersey",11.9,42.1,3.2,21
+"Somerset, New Jersey",5.5,41.7,1.4,54.7
+"Sussex, New Jersey",4.9,44.7,2.8,36.1
+"Union, New Jersey",9.6,38.7,1.6,36
+"Warren, New Jersey",7.8,44.4,1.8,33
+"Bernalillo, New Mexico",15.9,37.6,1.7,34.4
+"Catron, New Mexico",10.3,58.1,12.2,15.7
+"Chaves, New Mexico",18.4,35.7,1.9,18
+"Cibola, New Mexico",26.6,37.3,1,14.2
+"Colfax, New Mexico",20.1,50.2,3.3,21.7
+"Curry, New Mexico",19.1,31.5,3.4,19.2
+"De Baca, New Mexico",13.8,35.4,0,13
+"DoÃ±a Ana, New Mexico",24.6,33.1,2.1,27.1
+"Eddy, New Mexico",13.6,35.2,1.6,16.2
+"Grant, New Mexico",21.9,46.4,4,28.8
+"Guadalupe, New Mexico",19.7,43.1,3.3,7.6
+"Harding, New Mexico",10.9,58.5,2.7,21.7
+"Hidalgo, New Mexico",26,43.1,2.1,14.6
+"Lea, New Mexico",15.3,31.8,1,13.6
+"Lincoln, New Mexico",11.6,50.9,8.9,25.8
+"Los Alamos, New Mexico",5.4,42.3,1.2,67.4
+"Luna, New Mexico",29.5,37.1,4.5,12.5
+"McKinley, New Mexico",33.2,32.4,0.6,11.4
+"Mora, New Mexico",27.3,55.2,2,11
+"Otero, New Mexico",20.3,35.8,3,17.5
+"Quay, New Mexico",13,43.4,2.6,17.1
+"Rio Arriba, New Mexico",23.3,41.3,2.7,19.3
+"Roosevelt, New Mexico",24.9,30,4.1,23.9
+"Sandoval, New Mexico",11.7,40.1,2.3,30.5
+"San Juan, New Mexico",19.2,35.4,1.8,14.9
+"San Miguel, New Mexico",30.4,44,2.9,21.4
+"Santa Fe, New Mexico",12.3,46.3,1.6,41
+"Sierra, New Mexico",26.5,55.7,8.3,21.1
+"Socorro, New Mexico",22.7,39.4,6,22
+"Taos, New Mexico",18.9,48.8,2.8,28.7
+"Torrance, New Mexico",21.2,43.6,3.5,14.8
+"Union, New Mexico",19.6,39.8,4.3,11.7
+"Valencia, New Mexico",16.3,38.9,2.3,18.5
+"Albany, New York",11.4,37.8,1.7,41.8
+"Allegany, New York",16,39.1,2.5,20.9
+"Bronx, New York",28.3,34.2,1.7,20.1
+"Broome, New York",16.2,39.9,1.7,28.4
+"Cattaraugus, New York",16.1,42,2.3,19.1
+"Cayuga, New York",11.5,42.9,0.6,22.6
+"Chautauqua, New York",17.1,42.6,2,22.2
+"Chemung, New York",13.9,41.3,1.3,23.3
+"Chenango, New York",14.6,44.9,1.3,18.7
+"Clinton, New York",15.1,39.5,1.9,22.9
+"Columbia, New York",10.4,48.2,3.7,32.7
+"Cortland, New York",16.1,36.4,1,28
+"Delaware, New York",15.9,47.9,2.1,22.6
+"Dutchess, New York",9,42.2,2,35
+"Erie, New York",14,40.3,0.8,34.4
+"Essex, New York",10.3,47.7,4,26.8
+"Franklin, New York",17.9,39.9,1.4,19.1
+"Fulton, New York",13.7,43.9,2.6,18.2
+"Genesee, New York",11,43.1,1.5,22.3
+"Greene, New York",13.3,45.9,3,22.1
+"Hamilton, New York",9.7,55.3,5.4,16.8
+"Herkimer, New York",13.4,44.2,3.2,21.5
+"Jefferson, New York",13.7,32.5,2.7,22.2
+"Kings, New York",19.6,35.2,1.7,37.5
+"Lewis, New York",12.1,42.2,2.6,18.4
+"Livingston, New York",12.8,41.3,0.6,26.5
+"Madison, New York",9.9,41.9,2.5,26.2
+"Monroe, New York",13.7,38.9,0.8,38.6
+"Montgomery, New York",16.2,41,1.1,17.8
+"Nassau, New York",5.9,41.7,1.1,46
+"New York, New York",14.9,37.5,2.7,61.3
+"Niagara, New York",13.4,43.2,4.4,24.6
+"Oneida, New York",14.4,41,1.7,25.7
+"Onondaga, New York",13.4,39.1,1.7,35.9
+"Ontario, New York",8.3,43.7,1.3,36.3
+"Orange, New York",10.5,37,2.8,30.3
+"Orleans, New York",12.9,43,0.8,16.2
+"Oswego, New York",14.9,40.3,2.1,19
+"Otsego, New York",14.3,42.3,2.2,31.1
+"Putnam, New York",4.2,44.2,1.2,39.6
+"Queens, New York",12.6,39,1.5,32.2
+"Rensselaer, New York",10.7,39.8,1.3,32
+"Richmond, New York",12.6,40.1,2.3,33.9
+"Rockland, New York",10.7,36,1.2,41.1
+"St. Lawrence, New York",16.5,39,2.3,23.8
+"Saratoga, New York",6.3,42.8,1.1,41.4
+"Schenectady, New York",10.7,39.7,2,32.1
+"Schoharie, New York",11.6,45.4,1.9,22.4
+"Schuyler, New York",15,46.4,1.8,23.5
+"Seneca, New York",11.2,42.1,1.6,21.1
+"Steuben, New York",12.9,42.9,1.4,23.6
+"Suffolk, New York",6.7,41.5,1.4,36.3
+"Sullivan, New York",14.7,42.8,3.1,24.8
+"Tioga, New York",10.9,44.5,1.3,26
+"Tompkins, New York",17.7,31.1,1.9,53.5
+"Ulster, New York",12,44,1.9,32.5
+"Warren, New York",9.8,46.8,2,31.3
+"Washington, New York",10.3,44.2,1.7,20.5
+"Wayne, New York",11.1,43.8,1.2,22.6
+"Westchester, New York",9.3,40.9,1.7,48.9
+"Wyoming, New York",10.2,42.2,1,17.7
+"Yates, New York",11.1,41,1.1,25.2
+"Alamance, North Carolina",15,39.1,1,24.8
+"Alexander, North Carolina",13.3,43.7,1.2,14.2
+"Alleghany, North Carolina",20.5,50.1,2.6,17.3
+"Anson, North Carolina",19.1,40.9,4.2,11.3
+"Ashe, North Carolina",16.9,48.3,1.8,19.7
+"Avery, North Carolina",16.6,45.2,3.3,20.7
+"Beaufort, North Carolina",18,46.2,3.3,20.6
+"Bertie, North Carolina",22.8,45.4,1.2,13.6
+"Bladen, North Carolina",22.8,44.5,0.9,15.8
+"Brunswick, North Carolina",12.4,53.8,2.5,29.9
+"Buncombe, North Carolina",11.5,42.2,2.4,40.1
+"Burke, North Carolina",16.3,44.1,2.2,16.4
+"Cabarrus, North Carolina",9.5,37.9,1.3,32.3
+"Caldwell, North Carolina",15.5,44.6,1.6,15.7
+"Camden, North Carolina",8.1,41,0,17.1
+"Carteret, North Carolina",10.8,48.6,3.5,29.1
+"Caswell, North Carolina",18.1,45.7,3.6,15.9
+"Catawba, North Carolina",13,41.4,1,22.6
+"Chatham, North Carolina",9.4,46.7,1.4,42.4
+"Cherokee, North Carolina",16.2,51.5,2.9,19
+"Chowan, North Carolina",16.1,46,4,21.7
+"Clay, North Carolina",15.3,52.2,1.3,23.7
+"Cleveland, North Carolina",20.4,41.8,2,17.6
+"Columbus, North Carolina",22.2,41.9,1.5,13.8
+"Craven, North Carolina",13.9,37,2.5,25.3
+"Cumberland, North Carolina",16.9,31.3,4,25.5
+"Currituck, North Carolina",9.4,42.8,2.5,23.5
+"Dare, North Carolina",8.6,46.5,4.1,34.7
+"Davidson, North Carolina",14.7,42.5,2.4,18.5
+"Davie, North Carolina",11.4,45.2,2.5,24
+"Duplin, North Carolina",18.6,40.5,1.1,12.1
+"Durham, North Carolina",13.1,35.4,0.7,48.2
+"Edgecombe, North Carolina",24.6,41.7,3.4,13.6
+"Forsyth, North Carolina",15.5,38.4,2.3,34
+"Franklin, North Carolina",12.3,41.4,0.8,22
+"Gaston, North Carolina",14,40.1,0.9,21.2
+"Gates, North Carolina",12.3,46.5,2,14.3
+"Graham, North Carolina",17.7,46.2,3.2,12.9
+"Granville, North Carolina",13.1,42.7,0.9,22.5
+"Greene, North Carolina",21.3,40.7,0.5,11
+"Guilford, North Carolina",14.6,37.1,1.5,36
+"Halifax, North Carolina",25.2,43.4,1.3,14.4
+"Harnett, North Carolina",14.7,34.4,2.5,21.9
+"Haywood, North Carolina",12.8,47.6,1.9,26
+"Henderson, North Carolina",11.2,47.4,1.3,31.8
+"Hertford, North Carolina",21.6,42.2,1.5,14.9
+"Hoke, North Carolina",20.4,32.8,4,17.7
+"Hyde, North Carolina",21.2,40.9,1.9,9.2
+"Iredell, North Carolina",10.5,40.6,2.2,28.4
+"Jackson, North Carolina",17.6,37.7,1.9,30.4
+"Johnston, North Carolina",11.6,38.4,0.9,22.9
+"Jones, North Carolina",23.4,48.5,0.6,12.2
+"Lee, North Carolina",15,38.6,2.4,21.5
+"Lenoir, North Carolina",20.8,42.7,2.4,14.9
+"Lincoln, North Carolina",12,43.3,0.9,23
+"McDowell, North Carolina",15.9,43.9,1.9,17.4
+"Macon, North Carolina",14,50.1,3.1,23.8
+"Madison, North Carolina",17.9,44,3.5,28.5
+"Martin, North Carolina",17.8,46.3,1.6,16.4
+"Mecklenburg, North Carolina",10.4,35.1,1.3,45.4
+"Mitchell, North Carolina",13.2,47,3.1,20.5
+"Montgomery, North Carolina",18,43.6,3.5,15.7
+"Moore, North Carolina",10.7,44.3,3.3,37.4
+"Nash, North Carolina",15.6,41.7,1.3,20.8
+"New Hanover, North Carolina",15.8,39.1,1.5,40.6
+"Northampton, North Carolina",21,49.6,1.3,13.8
+"Onslow, North Carolina",12.4,26.4,2.9,22.9
+"Orange, North Carolina",12.8,34.8,2,59.7
+"Pamlico, North Carolina",13.2,52.4,3.1,18.5
+"Pasquotank, North Carolina",15.9,38.6,2.5,22.1
+"Pender, North Carolina",14.1,42.7,1.6,27.9
+"Perquimans, North Carolina",16.3,49.8,2,20.2
+"Person, North Carolina",14.8,43.7,1.7,15.6
+"Pitt, North Carolina",21.1,32.5,2.1,32.7
+"Polk, North Carolina",10.2,52.7,3.6,29.1
+"Randolph, North Carolina",14.8,41.7,1.5,15.7
+"Richmond, North Carolina",23.3,40.5,1.1,15.7
+"Robeson, North Carolina",27.1,36.6,1.2,13.7
+"Rockingham, North Carolina",17.7,44.7,2.1,15.1
+"Rowan, North Carolina",14.9,40.2,2,18.5
+"Rutherford, North Carolina",17.6,45,1.9,17.8
+"Sampson, North Carolina",18.9,40.3,0.7,13.7
+"Scotland, North Carolina",26.2,39.3,1.2,15.5
+"Stanly, North Carolina",12,42.2,1.2,17.3
+"Stokes, North Carolina",13.6,46.2,2.4,14.1
+"Surry, North Carolina",17.3,44.1,1.4,18
+"Swain, North Carolina",17.1,41.9,0.3,18.2
+"Transylvania, North Carolina",12.9,51.1,2.3,32.6
+"Tyrrell, North Carolina",21.5,46.2,1.3,10.6
+"Union, North Carolina",7.9,38.2,1,35.4
+"Vance, North Carolina",19.3,40.9,1.2,14.8
+"Wake, North Carolina",8,36.2,1,52.8
+"Warren, North Carolina",20,48,3.4,15.8
+"Washington, North Carolina",25.9,46.1,4.3,11.5
+"Watauga, North Carolina",25,31.9,4.2,42.2
+"Wayne, North Carolina",18.4,37.8,1.5,19
+"Wilkes, North Carolina",15.9,44.9,0.8,15.8
+"Wilson, North Carolina",19.8,40.5,1.3,19.6
+"Yadkin, North Carolina",13.4,44.4,0.4,11.6
+"Yancey, North Carolina",16.4,47.6,4.9,20.3
+"Adams, North Dakota",12.8,45.6,5.3,25.6
+"Barnes, North Dakota",12.6,45.1,2,29.4
+"Benson, North Dakota",25.8,30.5,2,16.2
+"Billings, North Dakota",6.8,43.7,0,26.3
+"Bottineau, North Dakota",9.2,45,3.7,24
+"Bowman, North Dakota",11.7,41,1.7,24.2
+"Burke, North Dakota",6.7,36.8,5.2,22.8
+"Burleigh, North Dakota",8.9,37,1.3,35.8
+"Cass, North Dakota",11.2,32.5,0.8,40.2
+"Cavalier, North Dakota",10.9,49.5,3.8,19.5
+"Dickey, North Dakota",6.4,41.9,2.2,28.8
+"Divide, North Dakota",12,51.1,2.3,18.5
+"Dunn, North Dakota",8.9,39,1.8,21.3
+"Eddy, North Dakota",12.4,45.8,3.3,26.2
+"Emmons, North Dakota",14.7,50.9,3.2,18.2
+"Foster, North Dakota",7.8,44.8,1.6,26.7
+"Golden Valley, North Dakota",7.4,45,4.2,26.9
+"Grand Forks, North Dakota",17.4,29.7,0.7,35.6
+"Grant, North Dakota",13.4,50.1,1.9,18.1
+"Griggs, North Dakota",7.4,51.1,2.9,25.8
+"Hettinger, North Dakota",12.3,46.5,3.4,13
+"Kidder, North Dakota",11.7,47.8,0.8,17.7
+"LaMoure, North Dakota",11.6,47.9,3.8,24.6
+"Logan, North Dakota",9.8,52,0.1,19.6
+"McHenry, North Dakota",10.4,43.2,1.5,21.4
+"McIntosh, North Dakota",12.7,53.5,1.5,15.6
+"McKenzie, North Dakota",8.7,30.1,1.1,25.8
+"McLean, North Dakota",9.3,46,1.1,20.8
+"Mercer, North Dakota",8.3,44,3.1,21.7
+"Morton, North Dakota",8.2,37.8,2.9,26.9
+"Mountrail, North Dakota",9.9,33.2,3.1,20.4
+"Nelson, North Dakota",10.8,52.4,1.7,25
+"Oliver, North Dakota",7.5,47,1.6,21.1
+"Pembina, North Dakota",8.9,48.1,4.1,20.6
+"Pierce, North Dakota",16.1,45.8,0,21
+"Ramsey, North Dakota",13.5,40.7,2.3,26.4
+"Ransom, North Dakota",6.2,46.6,1.3,19.1
+"Renville, North Dakota",2.9,39,5,20.1
+"Richland, North Dakota",12.2,37.3,0.7,21.3
+"Rolette, North Dakota",26.1,31.4,0.2,19.6
+"Sargent, North Dakota",5.3,45.2,0.7,18.5
+"Sheridan, North Dakota",11.4,50.9,0,14.6
+"Sioux, North Dakota",30.8,28.2,0.2,15
+"Slope, North Dakota",6.1,47.7,0.7,25.9
+"Stark, North Dakota",10,34.2,2.4,22.4
+"Steele, North Dakota",5,50.3,0.5,30.9
+"Stutsman, North Dakota",12.1,40.5,2.2,23.7
+"Towner, North Dakota",13.5,47.6,2.5,17
+"Traill, North Dakota",8.8,41.2,0.8,28.9
+"Walsh, North Dakota",11,44.2,1.2,17.2
+"Ward, North Dakota",10.2,31.6,2.2,29.3
+"Wells, North Dakota",11.6,51.6,3.6,22.2
+"Williams, North Dakota",6.6,31.3,4.6,23.6
+"Adams, Ohio",21,42,3.5,13.2
+"Allen, Ohio",14.1,39.2,1.2,18.9
+"Ashland, Ohio",12.1,40.4,1.3,20.9
+"Ashtabula, Ohio",18.1,42.5,1.3,14.3
+"Athens, Ohio",28.2,29.6,1.7,30.2
+"Auglaize, Ohio",8.8,41.1,1,18.9
+"Belmont, Ohio",12.5,44.6,1.6,16.7
+"Brown, Ohio",14.8,42.1,0.7,14.9
+"Butler, Ohio",12.1,36.7,1.1,30.2
+"Carroll, Ohio",11.5,45.5,2.2,13.3
+"Champaign, Ohio",10,41.9,1.3,16.1
+"Clark, Ohio",14.2,41.1,1.1,18.7
+"Clermont, Ohio",9.2,40,0.9,28.6
+"Clinton, Ohio",13.9,39.4,1.5,18.9
+"Columbiana, Ohio",13.6,44.1,1.7,14.9
+"Coshocton, Ohio",13.7,41.3,1.2,13.2
+"Crawford, Ohio",15.5,43,1.4,14.4
+"Cuyahoga, Ohio",17.3,40.4,1.8,32.5
+"Darke, Ohio",10.5,41.9,1.9,15.8
+"Defiance, Ohio",9.6,40.4,1.7,18
+"Delaware, Ohio",5.1,38.8,0.7,54.3
+"Erie, Ohio",11.5,44.8,2.7,23.2
+"Fairfield, Ohio",9.1,39.2,1.4,27.6
+"Fayette, Ohio",15.6,41.4,0.6,16.3
+"Franklin, Ohio",13.6,34.1,1.1,40
+"Fulton, Ohio",7.9,41.1,0.3,17.6
+"Gallia, Ohio",19.1,40.7,3.1,15.9
+"Geauga, Ohio",6.4,44.8,1,38
+"Greene, Ohio",11.7,38.3,1.1,39.2
+"Guernsey, Ohio",18.3,42.2,2.3,14.6
+"Hamilton, Ohio",15.1,36.8,1,37.9
+"Hancock, Ohio",10.9,39.3,1.3,27.1
+"Hardin, Ohio",14.7,35.9,1,16.2
+"Harrison, Ohio",16.1,46.3,1.1,11.6
+"Henry, Ohio",8.3,41.1,1.5,17.2
+"Highland, Ohio",17.5,40.8,1.2,13.4
+"Hocking, Ohio",14.1,43.1,1.6,14.4
+"Holmes, Ohio",10,31.5,0.8,9.7
+"Huron, Ohio",12.4,39.8,1.2,14.4
+"Jackson, Ohio",17.9,40.1,3.4,14.5
+"Jefferson, Ohio",17.2,44.8,2.2,15.8
+"Knox, Ohio",12.3,39.4,0.7,23
+"Lake, Ohio",7.8,43.8,1.1,27.4
+"Lawrence, Ohio",19.3,41.8,3.6,14.9
+"Licking, Ohio",10.5,39.7,1.8,26.1
+"Logan, Ohio",12.1,41.4,2,16.5
+"Lorain, Ohio",13.6,41.8,1.4,24.9
+"Lucas, Ohio",18.6,37.8,1.5,26.3
+"Madison, Ohio",7.7,40.8,0.9,17.5
+"Mahoning, Ohio",16.8,43.5,3.3,24.2
+"Marion, Ohio",13.9,41.3,1.4,12.5
+"Medina, Ohio",6.3,42.2,0.9,33.9
+"Meigs, Ohio",19.5,43.6,1.3,13.1
+"Mercer, Ohio",6.6,39.6,1.6,18.3
+"Miami, Ohio",9.2,41.3,0.8,23.3
+"Monroe, Ohio",16.2,46.5,2.1,12.5
+"Montgomery, Ohio",15.7,39.2,2.4,27.9
+"Morgan, Ohio",19.8,44.5,1.2,10.2
+"Morrow, Ohio",8.2,42.2,1,13.8
+"Muskingum, Ohio",15.4,40.3,1.5,16.1
+"Noble, Ohio",11.5,50.4,0.3,9.9
+"Ottawa, Ohio",9.4,49.3,1.9,23.1
+"Paulding, Ohio",10.6,42.1,2.5,15.6
+"Perry, Ohio",19.7,40.2,2,12.2
+"Pickaway, Ohio",12.5,39.7,1.9,18.4
+"Pike, Ohio",17.9,40.8,1.7,12.6
+"Portage, Ohio",13.2,38,1,29
+"Preble, Ohio",10.6,42.7,1.5,16.3
+"Putnam, Ohio",7.7,39.8,0.3,20.9
+"Richland, Ohio",13.5,41.1,1.2,18.3
+"Ross, Ohio",16.3,41,0.8,15.8
+"Sandusky, Ohio",12,42.2,0.7,16.1
+"Scioto, Ohio",23.4,39.9,1.9,15.7
+"Seneca, Ohio",12.2,39.9,1.4,16.8
+"Shelby, Ohio",7.9,39.5,0.8,18.7
+"Stark, Ohio",13.1,42.1,1.3,22.8
+"Summit, Ohio",13.2,41,1.6,32.5
+"Trumbull, Ohio",16.7,44.3,2.4,18.7
+"Tuscarawas, Ohio",12.9,41,1,17.4
+"Union, Ohio",6.3,38,1.2,35.5
+"Van Wert, Ohio",11.7,41.2,2.3,16.6
+"Vinton, Ohio",18.7,42.9,0.9,12.8
+"Warren, Ohio",5.2,39.4,0.4,43
+"Washington, Ohio",14.9,44.3,0.8,18.8
+"Wayne, Ohio",10.6,38.7,1.1,22.2
+"Williams, Ohio",9.2,41.4,0.2,15.2
+"Wood, Ohio",13,34.9,1.3,33.5
+"Wyandot, Ohio",9.4,42.1,1.1,17.2
+"Adair, Oklahoma",25.7,37.2,1.8,11.6
+"Alfalfa, Oklahoma",10.5,44.2,3,21.8
+"Atoka, Oklahoma",21.2,40.2,2.5,15
+"Beaver, Oklahoma",10.7,39,3.8,19.9
+"Beckham, Oklahoma",14.8,35.9,4.9,16.8
+"Blaine, Oklahoma",14.6,43.5,1,16.5
+"Bryan, Oklahoma",17.4,37.2,1.4,21.9
+"Caddo, Oklahoma",18.3,37.7,2.3,15.4
+"Canadian, Oklahoma",7.4,35.9,1.9,27.4
+"Carter, Oklahoma",15.4,38.2,2.9,20.5
+"Cherokee, Oklahoma",20.6,35.3,3,26.3
+"Choctaw, Oklahoma",26.9,42,2.4,13.4
+"Cimarron, Oklahoma",14.1,43.8,2.6,22.8
+"Cleveland, Oklahoma",12,34.2,1.6,33.4
+"Coal, Oklahoma",21.6,42,1.6,17.3
+"Comanche, Oklahoma",15.7,33,2.5,22.2
+"Cotton, Oklahoma",19.6,43.5,2.1,13.7
+"Craig, Oklahoma",16.4,42.1,1.9,14.7
+"Creek, Oklahoma",15.1,40.3,1,17
+"Custer, Oklahoma",19,31.4,0.2,24.8
+"Delaware, Oklahoma",16.8,46.7,4.4,18.1
+"Dewey, Oklahoma",13.8,39.2,1.9,24
+"Ellis, Oklahoma",14.9,44.1,7.6,20.1
+"Garfield, Oklahoma",12.8,35.8,2.7,22.9
+"Garvin, Oklahoma",14.2,39.3,0.4,14.7
+"Grady, Oklahoma",12,39.2,1.4,19.9
+"Grant, Oklahoma",7.3,42.6,3.2,24.6
+"Greer, Oklahoma",20.9,40.4,3.1,12.3
+"Harmon, Oklahoma",17.3,40.6,1.2,20.7
+"Harper, Oklahoma",11.6,39.7,2.7,19.3
+"Haskell, Oklahoma",20.2,41,2.2,16.2
+"Hughes, Oklahoma",18.1,39.4,3,12.9
+"Jackson, Oklahoma",15.2,34.1,3.2,23.3
+"Jefferson, Oklahoma",20.8,41.5,1.1,14.7
+"Johnston, Oklahoma",18.8,40.1,1.6,20.1
+"Kay, Oklahoma",15.1,38.4,2.3,18.9
+"Kingfisher, Oklahoma",12.1,37.7,1.7,22.4
+"Kiowa, Oklahoma",22.7,42.9,1.4,17.2
+"Latimer, Oklahoma",18,41.3,2.7,17.2
+"Le Flore, Oklahoma",20.2,39.4,2.3,14.6
+"Lincoln, Oklahoma",13.8,41.2,1.7,15.5
+"Logan, Oklahoma",11.5,38.5,1.7,27.7
+"Love, Oklahoma",15.2,39.4,2.8,13.5
+"McClain, Oklahoma",8.1,38.5,1,25
+"McCurtain, Oklahoma",23.2,38.8,1.4,13.4
+"McIntosh, Oklahoma",19.6,47.8,3.5,13.9
+"Major, Oklahoma",13.8,41.1,2.1,20
+"Marshall, Oklahoma",16.1,42.8,2.6,14.8
+"Mayes, Oklahoma",17.3,40.6,0.9,14.3
+"Murray, Oklahoma",13.5,42.9,4.7,17.4
+"Muskogee, Oklahoma",21.6,37.9,2.6,20.4
+"Noble, Oklahoma",10.6,41.2,1.5,23.2
+"Nowata, Oklahoma",16.9,42.4,1.8,11.5
+"Okfuskee, Oklahoma",23.7,40.2,1.8,11.6
+"Oklahoma, Oklahoma",14.7,34.6,1.6,32
+"Okmulgee, Oklahoma",18.2,39,2.6,14.1
+"Osage, Oklahoma",14.7,42.5,1.9,18
+"Ottawa, Oklahoma",19.4,38,3.1,14.5
+"Pawnee, Oklahoma",15.9,41.9,1.9,16.6
+"Payne, Oklahoma",27,27.3,1.7,37.4
+"Pittsburg, Oklahoma",16.6,40.3,2.4,16.1
+"Pontotoc, Oklahoma",15.6,35.7,2,28.2
+"Pottawatomie, Oklahoma",16,37.7,1.4,18.3
+"Pushmataha, Oklahoma",21.1,44.5,2.5,14.3
+"Roger Mills, Oklahoma",17.6,40.6,0.9,16.2
+"Rogers, Oklahoma",9.6,39.1,1.6,24.9
+"Seminole, Oklahoma",20.4,38.8,2.2,14.3
+"Sequoyah, Oklahoma",21.1,40.8,3.5,14.4
+"Stephens, Oklahoma",14.8,40.7,2.5,16.9
+"Texas, Oklahoma",14.9,33,3.9,22.1
+"Tillman, Oklahoma",17.8,42.7,1.4,17.3
+"Tulsa, Oklahoma",14,35.7,1.8,31.8
+"Wagoner, Oklahoma",10.1,38.8,1.5,23.2
+"Washington, Oklahoma",13.4,40.2,2.5,28.5
+"Washita, Oklahoma",13.8,39.1,4.6,20.8
+"Woods, Oklahoma",13.6,33.4,3.3,30.3
+"Woodward, Oklahoma",10.5,36.5,1.6,19.4
+"Baker, Oregon",12.2,48,3.3,23.7
+"Benton, Oregon",18.6,33,0.4,54.1
+"Clackamas, Oregon",8.2,41.5,1.1,37.4
+"Clatsop, Oregon",10.1,44.2,1.9,24.4
+"Columbia, Oregon",11,43.3,1.7,18.5
+"Coos, Oregon",15.6,48.6,1.5,17.8
+"Crook, Oregon",13.3,47.5,0.5,19.8
+"Curry, Oregon",12.3,56.3,2.3,24.6
+"Deschutes, Oregon",11.2,42.4,1.9,35.4
+"Douglas, Oregon",13.2,47.1,2.4,17.3
+"Gilliam, Oregon",12.6,50.1,5.7,17.4
+"Grant, Oregon",19.1,52.9,4.6,18.9
+"Harney, Oregon",11.5,45.9,3,18.4
+"Hood River, Oregon",5,39.3,1,32
+"Jackson, Oregon",14.7,42.6,2,27.8
+"Jefferson, Oregon",15,40.8,1.5,19.4
+"Josephine, Oregon",17.2,47.7,1.1,17.5
+"Klamath, Oregon",18.6,42.2,3.3,20
+"Lake, Oregon",19.9,48.6,3.4,16.4
+"Lane, Oregon",16.6,39.4,1.1,30.5
+"Lincoln, Oregon",15.2,51.6,3,24.9
+"Linn, Oregon",12.7,39.6,1.1,19.3
+"Malheur, Oregon",20.5,36.1,2.6,13.7
+"Marion, Oregon",12.3,36.6,1.7,23.5
+"Morrow, Oregon",13.9,38.9,2.8,9
+"Multnomah, Oregon",13.2,37.2,1.1,45.9
+"Polk, Oregon",12.1,37,1.1,31
+"Sherman, Oregon",12.6,51.4,0.8,17.3
+"Tillamook, Oregon",11.3,48.1,2.8,21.8
+"Umatilla, Oregon",16.9,36.5,0.8,17.2
+"Union, Oregon",14.7,40.2,1.1,24.5
+"Wallowa, Oregon",14.8,52.6,0.3,26.4
+"Wasco, Oregon",11,40.8,1.1,19.6
+"Washington, Oregon",8,36.7,1,44.4
+"Wheeler, Oregon",10.6,59,4.3,14.9
+"Yamhill, Oregon",11.7,38.3,1,26.9
+"Adams, Pennsylvania",7.2,43.9,0.5,22.3
+"Allegheny, Pennsylvania",12.1,40.8,1.4,41.6
+"Armstrong, Pennsylvania",11.6,46.6,2.4,16.7
+"Beaver, Pennsylvania",11.2,45.1,1.9,24.7
+"Bedford, Pennsylvania",12.2,46.5,1.9,14.7
+"Berks, Pennsylvania",11.1,39.9,1.7,24.9
+"Blair, Pennsylvania",14.8,43.4,0.8,21.3
+"Bradford, Pennsylvania",12.3,44.5,1.9,18.7
+"Bucks, Pennsylvania",6.2,43.9,0.8,41.3
+"Butler, Pennsylvania",9.2,43.3,1.4,36
+"Cambria, Pennsylvania",15.1,45.4,2.2,21.1
+"Cameron, Pennsylvania",15.3,52,4.2,13.7
+"Carbon, Pennsylvania",10.6,46.2,3.1,17.9
+"Centre, Pennsylvania",16,32.3,1,45.5
+"Chester, Pennsylvania",6.3,40.4,1.1,53
+"Clarion, Pennsylvania",16.4,41.5,2,22.1
+"Clearfield, Pennsylvania",13.9,45,1.9,15.1
+"Clinton, Pennsylvania",15.3,38.6,1.5,19.5
+"Columbia, Pennsylvania",15.9,41,2.1,22.9
+"Crawford, Pennsylvania",13.1,43.2,1.8,21.1
+"Cumberland, Pennsylvania",6.7,40.6,1.5,36.6
+"Dauphin, Pennsylvania",11.2,39.7,1.6,30.8
+"Delaware, Pennsylvania",10,39,1.8,39
+"Elk, Pennsylvania",10.1,47.4,1.7,19.6
+"Erie, Pennsylvania",15.4,39.7,1.9,27.9
+"Fayette, Pennsylvania",17,45,2.3,17.3
+"Forest, Pennsylvania",16.6,43.3,2.1,8.1
+"Franklin, Pennsylvania",8.7,41.6,1.7,21.6
+"Fulton, Pennsylvania",12.6,45.4,1.9,13.6
+"Greene, Pennsylvania",13.4,42.2,1.3,17.6
+"Huntingdon, Pennsylvania",12.8,43.7,1.7,17.4
+"Indiana, Pennsylvania",15.8,40.2,3.2,23
+"Jefferson, Pennsylvania",14.8,43.9,2.4,15.9
+"Juniata, Pennsylvania",11.4,42.9,1.8,14.5
+"Lackawanna, Pennsylvania",14.3,42.1,1.5,28.3
+"Lancaster, Pennsylvania",9.4,38.6,0.9,27.3
+"Lawrence, Pennsylvania",14,45.2,2,22.1
+"Lebanon, Pennsylvania",10,41,1.4,20.7
+"Lehigh, Pennsylvania",11.1,39.1,1.1,29.9
+"Luzerne, Pennsylvania",13.7,42.8,2.4,22.9
+"Lycoming, Pennsylvania",13.5,41.5,1.9,23.4
+"McKean, Pennsylvania",14.6,43.2,2.4,18.9
+"Mercer, Pennsylvania",12.5,44.7,1.4,22.8
+"Mifflin, Pennsylvania",12,44,1.2,11.9
+"Monroe, Pennsylvania",10.6,42.9,2.6,24.7
+"Montgomery, Pennsylvania",6.3,41.2,1.4,49.3
+"Montour, Pennsylvania",11.4,43.3,1.1,31.6
+"Northampton, Pennsylvania",8.2,42.2,1,30.3
+"Northumberland, Pennsylvania",13.9,44.5,1.8,16.6
+"Perry, Pennsylvania",9.4,43.3,0.8,16.7
+"Philadelphia, Pennsylvania",22.9,34.4,1.9,29.7
+"Pike, Pennsylvania",9.4,48.2,1.6,26.8
+"Potter, Pennsylvania",13.3,47.2,1.6,15.4
+"Schuylkill, Pennsylvania",12.8,44.4,1.7,16.6
+"Snyder, Pennsylvania",9.6,40.2,1.5,19.8
+"Somerset, Pennsylvania",12.6,46.1,1.5,15.9
+"Sullivan, Pennsylvania",12.4,53.7,3.7,17.2
+"Susquehanna, Pennsylvania",11.6,48.4,2.1,18.6
+"Tioga, Pennsylvania",13.7,44.6,1.8,19.1
+"Union, Pennsylvania",11.6,39.5,1.2,26
+"Venango, Pennsylvania",12.9,46.9,2.1,18.7
+"Warren, Pennsylvania",11.7,47.4,1.4,19.5
+"Washington, Pennsylvania",10.1,44.5,2,30
+"Wayne, Pennsylvania",10.7,48.2,1.4,20.4
+"Westmoreland, Pennsylvania",10.7,47,2,29.1
+"Wyoming, Pennsylvania",10.3,44.7,1.2,19.6
+"York, Pennsylvania",8.9,41,1.4,24.9
+"Bristol, Rhode Island",8.8,44.3,1.2,49
+"Kent, Rhode Island",8.9,43.9,1.1,33.3
+"Newport, Rhode Island",9.7,45.2,2.6,48.1
+"Providence, Rhode Island",16,37.4,1.9,29
+"Washington, Rhode Island",8.9,44.6,1.5,46.1
+"Abbeville, South Carolina",20.2,44.3,2.8,15.6
+"Aiken, South Carolina",15.1,41,1.9,26.4
+"Allendale, South Carolina",29.8,41.9,0,9.2
+"Anderson, South Carolina",14.4,40.8,1.3,22.2
+"Bamberg, South Carolina",21.4,41.7,3.1,18.8
+"Barnwell, South Carolina",27.3,41.3,0.5,12.5
+"Beaufort, South Carolina",9.3,45.5,2.4,41.2
+"Berkeley, South Carolina",11.1,36.1,1,25
+"Calhoun, South Carolina",21.2,45.5,2.4,19.9
+"Charleston, South Carolina",13.1,37.8,1.9,43.6
+"Cherokee, South Carolina",20.1,39.3,1.7,14.2
+"Chester, South Carolina",21,42,1.6,13.4
+"Chesterfield, South Carolina",20.3,42.4,2.3,10.4
+"Clarendon, South Carolina",23.1,45.1,2.8,15.1
+"Colleton, South Carolina",18,42.5,1.3,14.6
+"Darlington, South Carolina",19.7,41.4,2.2,18.4
+"Dillon, South Carolina",32.4,37.7,2.7,11.1
+"Dorchester, South Carolina",11.6,37,2.3,28.2
+"Edgefield, South Carolina",17.6,42.9,2.5,16.7
+"Fairfield, South Carolina",20.7,46.4,4.4,16.9
+"Florence, South Carolina",18.2,39.2,1.5,23.6
+"Georgetown, South Carolina",16.3,49.5,2.1,27.3
+"Greenville, South Carolina",11.6,38.2,1.4,35.1
+"Greenwood, South Carolina",18.9,39.5,1,24.6
+"Hampton, South Carolina",17.2,40,1.9,11.9
+"Horry, South Carolina",13.5,45.9,2.3,23.6
+"Jasper, South Carolina",17.6,40.3,0.2,17.8
+"Kershaw, South Carolina",15.7,41.1,1.2,20.3
+"Lancaster, South Carolina",13,42.1,1.8,26.9
+"Laurens, South Carolina",19.6,40.7,1.6,16.2
+"Lee, South Carolina",25.8,41.8,1.7,15.9
+"Lexington, South Carolina",11.7,39.1,1.4,30.4
+"McCormick, South Carolina",15.4,55.2,4.5,20.5
+"Marion, South Carolina",25.5,40.7,2.5,13.5
+"Marlboro, South Carolina",29.4,40.3,0.6,8.9
+"Newberry, South Carolina",16.8,42,1,17.9
+"Oconee, South Carolina",15.7,45.7,2,25.8
+"Orangeburg, South Carolina",23.8,40.3,3.2,19.9
+"Pickens, South Carolina",16.8,36.2,1.2,26
+"Richland, South Carolina",16,33.4,2.3,39.1
+"Saluda, South Carolina",15.5,41.8,1.4,16.8
+"Spartanburg, South Carolina",13.8,38.2,2,24.5
+"Sumter, South Carolina",18.1,36.4,2.1,19.3
+"Union, South Carolina",20.9,44,1.2,11.3
+"Williamsburg, South Carolina",28.7,43,0.5,12.3
+"York, South Carolina",10.5,38.7,0.7,33.3
+"Aurora, South Dakota",4.1,37.8,0,21.5
+"Beadle, South Dakota",11.9,38.1,1.8,20.5
+"Bennett, South Dakota",22.5,28.6,1.2,15.7
+"Bon Homme, South Dakota",10.8,42.3,0.8,18.3
+"Brookings, South Dakota",12.2,27,0.6,40.3
+"Brown, South Dakota",9.8,37,1.8,29.4
+"Brule, South Dakota",13.2,40.9,0.5,27.1
+"Buffalo, South Dakota",38.7,25.8,0,8.5
+"Butte, South Dakota",10.5,40.1,1.4,19.2
+"Campbell, South Dakota",6.1,50.9,4.1,28
+"Charles Mix, South Dakota",15.5,35.8,0.8,18.6
+"Clark, South Dakota",11.3,41.4,0.8,19.1
+"Clay, South Dakota",22.5,24.9,1.4,49.9
+"Codington, South Dakota",13.1,39.1,1.2,21.5
+"Corson, South Dakota",33.8,28.7,0.9,17.8
+"Custer, South Dakota",12.7,54.8,4.4,23.5
+"Davison, South Dakota",12.6,38.6,1.6,26.5
+"Day, South Dakota",15.5,47.7,1.3,21.6
+"Deuel, South Dakota",8,42.8,0.8,22.2
+"Dewey, South Dakota",24.2,26.9,0.3,16.6
+"Douglas, South Dakota",8.5,46.7,0,15.5
+"Edmunds, South Dakota",6.2,42.4,3.2,26.3
+"Fall River, South Dakota",14.4,53.6,5,21.1
+"Faulk, South Dakota",6,47,2,26.9
+"Grant, South Dakota",9.2,42.9,1.4,21.9
+"Gregory, South Dakota",16.1,45.4,3.2,20.2
+"Haakon, South Dakota",10.3,44.1,1.9,15.6
+"Hamlin, South Dakota",5.5,35,0.9,21
+"Hand, South Dakota",9.9,47.4,2.7,22.1
+"Hanson, South Dakota",7,36.7,2,18.5
+"Harding, South Dakota",2.3,42.3,2.2,26
+"Hughes, South Dakota",10.8,38,0,34.7
+"Hutchinson, South Dakota",10.9,43,1.1,25.2
+"Hyde, South Dakota",11.7,53.3,0,24.5
+"Jackson, South Dakota",35.2,32.2,0.6,17.8
+"Jerauld, South Dakota",9.9,51.6,0.4,22.5
+"Jones, South Dakota",12.7,53.5,0,25.7
+"Kingsbury, South Dakota",11.9,45.1,2.7,21.5
+"Lake, South Dakota",11.1,43.2,0,33.1
+"Lawrence, South Dakota",11.7,42.1,0.5,35
+"Lincoln, South Dakota",4,34.9,0.8,37.6
+"Lyman, South Dakota",15.2,35.5,1.6,20.3
+"McCook, South Dakota",8.8,39.3,0.7,24.1
+"McPherson, South Dakota",14.8,50.2,3.6,17.7
+"Marshall, South Dakota",9.3,39.8,0.3,24.1
+"Meade, South Dakota",8.5,36.5,1.6,27.2
+"Mellette, South Dakota",40.5,32.9,0.9,12
+"Miner, South Dakota",9.7,44,4,18.5
+"Minnehaha, South Dakota",9.8,34.9,1.1,33.1
+"Moody, South Dakota",7.5,39.9,0,21.3
+"Oglala Lakota, South Dakota",41.7,25.8,0.7,10.4
+"Pennington, South Dakota",11.3,39,1,31.5
+"Perkins, South Dakota",10,47.5,0,20.3
+"Potter, South Dakota",8.6,49.2,1.8,22.3
+"Roberts, South Dakota",16.4,38.1,0.3,17.3
+"Sanborn, South Dakota",8,42.6,2.6,21.6
+"Spink, South Dakota",8.8,43.5,0.9,21.8
+"Stanley, South Dakota",6.9,44.5,0,32.1
+"Sully, South Dakota",11.2,46.8,0,25
+"Todd, South Dakota",48.2,23.8,1.2,15.6
+"Tripp, South Dakota",16.6,45.1,4.5,22.3
+"Turner, South Dakota",12.2,42,2.2,23.7
+"Union, South Dakota",9,40,0.5,30.6
+"Walworth, South Dakota",8.1,42.8,1.3,24.9
+"Yankton, South Dakota",11.2,41.8,0.6,25.7
+"Ziebach, South Dakota",33.4,33.1,0,16.4
+"Anderson, Tennessee",16,43.3,1.9,23.3
+"Bedford, Tennessee",14,37.9,1.6,16.6
+"Benton, Tennessee",21,47.9,2.6,12.3
+"Bledsoe, Tennessee",22.9,44.1,0.9,12
+"Blount, Tennessee",11.5,43.7,1.7,24.2
+"Bradley, Tennessee",15,39.5,1.1,22.3
+"Campbell, Tennessee",20.9,44.1,3.4,12.4
+"Cannon, Tennessee",15.6,42,0.3,15.8
+"Carroll, Tennessee",18.6,42.5,2.7,18
+"Carter, Tennessee",21.8,45.4,1.3,17.5
+"Cheatham, Tennessee",9.5,40.3,1.5,21
+"Chester, Tennessee",15.8,37.7,2,16
+"Claiborne, Tennessee",24.1,43.1,1.7,16.1
+"Clay, Tennessee",26.2,47.3,0.5,13.9
+"Cocke, Tennessee",22.2,45.2,1.4,11.6
+"Coffee, Tennessee",13.9,39.7,1.9,20.5
+"Crockett, Tennessee",17.2,40.7,3.2,13.8
+"Cumberland, Tennessee",14.3,51,2.3,18.5
+"Davidson, Tennessee",13,34.3,1.5,41.7
+"Decatur, Tennessee",18.4,46.4,1.8,14.5
+"DeKalb, Tennessee",18,41.1,2.4,16.7
+"Dickson, Tennessee",12.7,39.1,1.7,16.2
+"Dyer, Tennessee",18.9,40.5,1.1,16.1
+"Fayette, Tennessee",12.2,45.8,0.8,22.2
+"Fentress, Tennessee",20.2,45.2,2.5,16
+"Franklin, Tennessee",15.8,42.2,1.5,20.8
+"Gibson, Tennessee",16.8,39.9,1.8,18.4
+"Giles, Tennessee",13.7,43.9,2.4,16.5
+"Grainger, Tennessee",16.4,45,0.7,10.7
+"Greene, Tennessee",16.6,44.7,1.6,16.7
+"Grundy, Tennessee",23.3,43.4,2.2,13.2
+"Hamblen, Tennessee",16.5,40.7,2.6,16.8
+"Hamilton, Tennessee",12.3,39.7,1.7,32.2
+"Hancock, Tennessee",29,44.5,4.3,11.2
+"Hardeman, Tennessee",19.6,40.3,1.9,11.2
+"Hardin, Tennessee",20.2,45.3,0.8,15
+"Hawkins, Tennessee",18.4,44.9,2.4,13.7
+"Haywood, Tennessee",19.9,42,3.4,11
+"Henderson, Tennessee",18.4,41.5,1.7,14.4
+"Henry, Tennessee",18.6,45.8,2.6,16.5
+"Hickman, Tennessee",16,41.1,2,10.9
+"Houston, Tennessee",19.2,43.9,0.7,13
+"Humphreys, Tennessee",17,42,3,14.3
+"Jackson, Tennessee",20.7,46.8,1.1,11
+"Jefferson, Tennessee",12.5,43.9,2.3,16.8
+"Johnson, Tennessee",23.6,46,2.9,11.6
+"Knox, Tennessee",14.2,37.4,1.6,37.6
+"Lake, Tennessee",31.2,41.5,0,9.4
+"Lauderdale, Tennessee",21.9,38.3,2.1,8.3
+"Lawrence, Tennessee",16.7,39.3,1.3,14.3
+"Lewis, Tennessee",19.4,43.3,2.9,10.4
+"Lincoln, Tennessee",14.2,42.6,1.8,18.4
+"Loudon, Tennessee",11.2,47.6,2,26.4
+"McMinn, Tennessee",18.9,42.6,1.9,16.2
+"McNairy, Tennessee",18.5,43.5,0.1,12.6
+"Macon, Tennessee",18,39.4,0.2,10.3
+"Madison, Tennessee",17.5,38.7,2,25.6
+"Marion, Tennessee",17.7,43.4,0.5,12.8
+"Marshall, Tennessee",12.2,38.9,1.4,14.7
+"Maury, Tennessee",10.5,39.1,1.2,23
+"Meigs, Tennessee",16.5,46,0.9,9.8
+"Monroe, Tennessee",16.8,43.9,3.3,13.4
+"Montgomery, Tennessee",13.5,30.8,1.8,28.5
+"Moore, Tennessee",10.2,45,1.9,22.7
+"Morgan, Tennessee",20.2,41.6,0.9,9.4
+"Obion, Tennessee",20,42.6,1.9,15.3
+"Overton, Tennessee",18.6,43,0.8,12.8
+"Perry, Tennessee",24.8,43.2,2.8,11.5
+"Pickett, Tennessee",18.8,50.1,0.2,9.4
+"Polk, Tennessee",15.5,45.6,1.1,11.9
+"Putnam, Tennessee",18.5,36.4,2.2,26.4
+"Rhea, Tennessee",19.2,38.9,2.1,16.9
+"Roane, Tennessee",15.2,46.4,3,19.8
+"Robertson, Tennessee",11.1,39,0.6,19.6
+"Rutherford, Tennessee",10,33.5,0.7,32.2
+"Scott, Tennessee",23.3,39.4,1,9.2
+"Sequatchie, Tennessee",17.3,44.1,2.5,15.1
+"Sevier, Tennessee",13.4,42.9,1.8,17.4
+"Shelby, Tennessee",17.8,35.6,1.4,31.6
+"Smith, Tennessee",15.6,40.3,0.8,14.4
+"Stewart, Tennessee",13.6,44.2,1.8,15.6
+"Sullivan, Tennessee",15.4,45.1,1.7,23.6
+"Sumner, Tennessee",8.8,39.8,1,28.1
+"Tipton, Tennessee",12.8,37.5,1.6,17.3
+"Trousdale, Tennessee",8.7,35.1,0,13.8
+"Unicoi, Tennessee",19.1,46.5,2.1,14.8
+"Union, Tennessee",21.1,43,3.7,9.9
+"Van Buren, Tennessee",15.6,46.9,2.2,7.8
+"Warren, Tennessee",20.4,40,2.1,14.5
+"Washington, Tennessee",16.2,40.2,1.9,31.8
+"Wayne, Tennessee",19.2,43,1.3,9.7
+"Weakley, Tennessee",19.7,38.6,1.6,21.6
+"White, Tennessee",16.2,43.2,3.1,12.3
+"Williamson, Tennessee",4.8,39.1,0.7,59.8
+"Wilson, Tennessee",7.7,40.4,0.5,32.4
+"Anderson, Texas",14.6,39.3,1.8,10.6
+"Andrews, Texas",8.9,30.8,0.9,12.2
+"Angelina, Texas",16.1,37.5,2.1,16.9
+"Aransas, Texas",17,50.6,3.7,21.9
+"Archer, Texas",11.5,44.5,1.1,23.9
+"Armstrong, Texas",9.9,46,1,22.8
+"Atascosa, Texas",14.2,35.4,2,14.4
+"Austin, Texas",11.7,40.7,1.3,23.9
+"Bailey, Texas",8.9,33.3,2,17.2
+"Bandera, Texas",12.4,52.2,2.4,22.8
+"Bastrop, Texas",11.5,38.4,1.4,20.7
+"Baylor, Texas",12.4,45.9,0,22.8
+"Bee, Texas",21.1,35.3,0.2,8.9
+"Bell, Texas",13.5,31,2.6,25.2
+"Bexar, Texas",14.9,33.6,1.5,28
+"Blanco, Texas",8.5,50.4,1.7,26.5
+"Borden, Texas",7,41.7,1.6,39.5
+"Bosque, Texas",13.4,46.6,4.4,19.8
+"Bowie, Texas",17.9,38,2.3,20.6
+"Brazoria, Texas",8.9,35.8,1.2,30
+"Brazos, Texas",23.4,26.5,0.8,41.7
+"Brewster, Texas",16.9,43.7,4.6,40
+"Briscoe, Texas",12.1,46.4,4.1,19.8
+"Brooks, Texas",37.7,29.7,1.2,15.7
+"Brown, Texas",12.7,41.5,2.3,19.1
+"Burleson, Texas",11.4,43.3,2.5,17.3
+"Burnet, Texas",8.8,44.6,1.9,25.4
+"Caldwell, Texas",15.5,35.9,1.1,14.6
+"Calhoun, Texas",12.5,37.7,2.3,14.2
+"Callahan, Texas",13.2,44.2,0.8,21
+"Cameron, Texas",27.7,31.7,1.3,17.3
+"Camp, Texas",19.2,37.6,2.4,19.4
+"Carson, Texas",6.9,40.6,0.8,28.4
+"Cass, Texas",16,43.3,1.5,16.4
+"Castro, Texas",11.8,34.8,4.5,15.6
+"Chambers, Texas",11.6,35.2,1,22.7
+"Cherokee, Texas",16,37.9,2,17.2
+"Childress, Texas",13.4,34.5,7.8,18.3
+"Clay, Texas",11.8,46.6,2.3,21.4
+"Cochran, Texas",25.8,35.1,0,8
+"Coke, Texas",13.6,48.1,6,17.8
+"Coleman, Texas",17.1,47.2,3.6,15.8
+"Collin, Texas",6.2,36.9,1.1,52.3
+"Collingsworth, Texas",18.7,39.6,0.7,20.2
+"Colorado, Texas",10.8,42.9,2.9,21
+"Comal, Texas",7.4,42.2,1.9,36.8
+"Comanche, Texas",12.2,44.8,1.5,20.3
+"Concho, Texas",13.2,45.3,5,13
+"Cooke, Texas",10.7,40.7,0.8,20.9
+"Coryell, Texas",12.2,31.8,1.5,16.1
+"Cottle, Texas",28.1,37.1,3.9,16.8
+"Crane, Texas",10.2,32.7,0,14.7
+"Crockett, Texas",17.1,38.8,2.7,14
+"Crosby, Texas",20.2,38.4,2.8,13.2
+"Culberson, Texas",19.3,34.4,1.5,10.2
+"Dallam, Texas",7.7,31.7,0.8,15.8
+"Dallas, Texas",13.6,33.4,1.4,31.5
+"Dawson, Texas",23.1,33.5,1.5,14.2
+"Deaf Smith, Texas",16,31.9,1.9,12
+"Delta, Texas",16.3,44.3,3.9,25.1
+"Denton, Texas",7.2,35.5,0.8,45.1
+"DeWitt, Texas",17,41,2,12.6
+"Dickens, Texas",24.3,46,3,18.5
+"Dimmit, Texas",29.7,34.3,0,13.6
+"Donley, Texas",15.4,41.4,3.9,17.9
+"Duval, Texas",24.5,36.1,2.1,9
+"Eastland, Texas",18,41.2,6.7,16
+"Ector, Texas",11.9,30.4,1.1,15.4
+"Edwards, Texas",14.1,49.1,2.2,18.2
+"Ellis, Texas",8.5,36.2,0.7,24.3
+"El Paso, Texas",19.8,32.2,1.8,23.3
+"Erath, Texas",18.9,30.4,4.5,31.5
+"Falls, Texas",26.6,39,1.8,12.4
+"Fannin, Texas",13.3,41.3,1.2,17.4
+"Fayette, Texas",12.3,47,1.7,19.7
+"Fisher, Texas",19.6,44.6,3.2,18.6
+"Floyd, Texas",15.2,37.2,1.2,15.9
+"Foard, Texas",11.3,51.2,8.5,16.2
+"Fort Bend, Texas",7,36.3,1.4,46.2
+"Franklin, Texas",8,43.2,0.6,26.6
+"Freestone, Texas",16.3,41.5,1.6,15.3
+"Frio, Texas",22.9,31.2,1.2,7.3
+"Gaines, Texas",14.9,27.8,1.5,11.4
+"Galveston, Texas",11.8,37.7,2.3,31.1
+"Garza, Texas",20.7,41.1,2.7,13.9
+"Gillespie, Texas",7.9,50,2.6,32.2
+"Glasscock, Texas",8.7,30.8,1.9,27.2
+"Goliad, Texas",18.4,46.1,1.3,17.3
+"Gonzales, Texas",13.3,36.3,0.4,13.1
+"Gray, Texas",15.1,36.5,1.8,13.9
+"Grayson, Texas",13.5,39.9,1.6,20.4
+"Gregg, Texas",16.2,35.6,2.8,21.3
+"Grimes, Texas",15.4,40.4,2.2,15.7
+"Guadalupe, Texas",9.1,37,1.5,28.2
+"Hale, Texas",17.5,33.4,1.6,17.1
+"Hall, Texas",20.4,44.6,4.2,15.9
+"Hamilton, Texas",14.2,45.8,3.5,22.4
+"Hansford, Texas",15,35.1,0.8,15.1
+"Hardeman, Texas",16.4,43.5,6.1,13.7
+"Hardin, Texas",14.1,39.2,2.5,16.8
+"Harris, Texas",14.3,33.5,1.7,31.5
+"Harrison, Texas",16.6,38.7,1.5,19.1
+"Hartley, Texas",7.3,38.1,3,17.8
+"Haskell, Texas",19,43.5,4.6,11.9
+"Hays, Texas",13.7,32,1.2,37.2
+"Hemphill, Texas",7,36.4,6.2,21.2
+"Henderson, Texas",16.1,43.9,4.1,17.3
+"Hidalgo, Texas",28,29.2,1.8,18.7
+"Hill, Texas",12.6,42.1,3.5,17.4
+"Hockley, Texas",15.9,33.8,1.7,15.8
+"Hood, Texas",9.7,47,2.8,26.4
+"Hopkins, Texas",14.3,39.2,0.8,20.1
+"Houston, Texas",19.7,44.5,2.9,15.2
+"Howard, Texas",16.1,36.5,2.7,12.6
+"Hudspeth, Texas",26.1,37,1.5,10.7
+"Hunt, Texas",14.9,38,0.4,19.9
+"Hutchinson, Texas",15,38,2,14
+"Irion, Texas",11.7,42.7,4.8,15
+"Jack, Texas",16.4,39.6,1.1,13.5
+"Jackson, Texas",15.7,37.7,1.6,16.5
+"Jasper, Texas",17.2,40.5,3.6,12.9
+"Jeff Davis, Texas",4.2,55.8,4.7,30.5
+"Jefferson, Texas",16.7,36.2,1.6,19.7
+"Jim Hogg, Texas",26.6,32.4,3.7,13.4
+"Jim Wells, Texas",22.9,34.6,2,12.2
+"Johnson, Texas",9.1,36.8,1.3,18.7
+"Jones, Texas",15.6,38.2,2.3,11.7
+"Karnes, Texas",14.9,35.4,1.4,15.3
+"Kaufman, Texas",11.5,35.5,1.8,20.5
+"Kendall, Texas",5.5,41.4,1.5,42.1
+"Kenedy, Texas",11.7,39.7,0,1
+"Kent, Texas",19.8,51,2.6,25.4
+"Kerr, Texas",9.9,47.4,2.8,27.4
+"Kimble, Texas",19.7,52.1,5,22.5
+"King, Texas",3.9,40,0,20.9
+"Kinney, Texas",10.6,49.8,6.3,12.1
+"Kleberg, Texas",25.3,28.3,1,24.6
+"Knox, Texas",16.7,39.5,1.9,20.1
+"Lamar, Texas",18.5,40.7,1.5,18.7
+"Lamb, Texas",18.8,36.4,1.3,14.4
+"Lampasas, Texas",11.8,43.1,1.3,19.9
+"La Salle, Texas",23.3,36.5,0.7,7.5
+"Lavaca, Texas",12,43.4,1.1,16.7
+"Lee, Texas",15,41.1,1.1,14.6
+"Leon, Texas",16.9,44.3,1.9,14
+"Liberty, Texas",13.8,35.5,2.1,9.7
+"Limestone, Texas",17.6,39.9,3.1,14.8
+"Lipscomb, Texas",13.5,34.7,2.7,19.7
+"Live Oak, Texas",13.4,42.2,5.3,12.2
+"Llano, Texas",10.9,57.4,2.4,25.3
+"Loving, Texas",16.7,55.2,0,0
+"Lubbock, Texas",18.4,30.8,1.4,30.1
+"Lynn, Texas",18.3,37.3,2.2,17.3
+"McCulloch, Texas",17.4,44.6,4.5,17.3
+"McLennan, Texas",18,33.3,1.5,24.2
+"McMullen, Texas",17.4,38.2,1.4,28.8
+"Madison, Texas",14.1,35.2,0.4,14.7
+"Marion, Texas",19,50.6,1.4,14.7
+"Martin, Texas",6.8,32.7,1.1,18.3
+"Mason, Texas",14.3,46.3,0,27.6
+"Matagorda, Texas",19.7,38.2,2,17.4
+"Maverick, Texas",28.6,29.6,1.6,12.7
+"Medina, Texas",12.2,39,0.9,19.8
+"Menard, Texas",17.5,51.8,1.2,18
+"Midland, Texas",9.1,31.7,0.5,27.4
+"Milam, Texas",15.5,41.7,0.7,14.1
+"Mills, Texas",19.8,52.1,1.3,18.3
+"Mitchell, Texas",12.3,33.9,6,11.3
+"Montague, Texas",14.5,44.6,0.8,16.9
+"Montgomery, Texas",8.7,37.1,1.2,34.5
+"Moore, Texas",10.9,30.8,1.5,14.3
+"Morris, Texas",18.4,43,1.4,14.3
+"Motley, Texas",11.2,41.3,9.8,16.8
+"Nacogdoches, Texas",22.2,30.9,1.4,24.5
+"Navarro, Texas",16.9,38.1,1.3,15.9
+"Newton, Texas",24.4,44.3,0.9,9.7
+"Nolan, Texas",15.5,37.5,3.4,15.2
+"Nueces, Texas",16.7,35.5,2,21.8
+"Ochiltree, Texas",13.9,32.3,1.4,15.6
+"Oldham, Texas",7.9,35.9,0,22
+"Orange, Texas",13.2,37.9,1.7,15.5
+"Palo Pinto, Texas",15.2,40.6,4.3,16.6
+"Panola, Texas",13.8,39.2,1.3,16.1
+"Parker, Texas",8.9,39.7,1.4,26.4
+"Parmer, Texas",15.6,33.4,2.3,17.9
+"Pecos, Texas",15.6,35.9,0,9.8
+"Polk, Texas",17.8,43.7,1.7,13.1
+"Potter, Texas",19.6,33.9,2,14.9
+"Presidio, Texas",37.2,41.9,3.2,21.2
+"Rains, Texas",12.4,48.4,1.3,13.7
+"Randall, Texas",7.9,35.9,2,32.4
+"Reagan, Texas",7.7,30,1.3,10.5
+"Real, Texas",20.8,47.4,6.2,17.4
+"Red River, Texas",20.5,45.9,1.1,12.5
+"Reeves, Texas",18.9,35.8,1.7,12.3
+"Refugio, Texas",16.3,43.3,0.3,11.5
+"Roberts, Texas",8,43.2,2.8,25
+"Robertson, Texas",16.1,41.5,0.9,16.1
+"Rockwall, Texas",4.9,37.5,0.7,40.7
+"Runnels, Texas",15,40.8,2.5,18.1
+"Rusk, Texas",13.4,38.2,1.3,15.5
+"Sabine, Texas",18.1,53,3.8,17.6
+"San Augustine, Texas",23.3,49.3,3.2,14
+"San Jacinto, Texas",14.3,44.9,1.2,11.2
+"San Patricio, Texas",16.6,35.5,1.3,15.6
+"San Saba, Texas",11.8,42.4,3.2,14.1
+"Schleicher, Texas",17.2,36.2,1.5,16.6
+"Scurry, Texas",11.7,36.4,1.4,16.2
+"Shackelford, Texas",13.5,43,2.4,30.5
+"Shelby, Texas",22.1,38,1.7,13.8
+"Sherman, Texas",10.5,40.1,2.7,15
+"Smith, Texas",14.3,36.6,1.6,26.4
+"Somervell, Texas",22.3,41,1.8,26.4
+"Starr, Texas",35,28.8,1.4,9.9
+"Stephens, Texas",20.1,39.4,3.7,16.2
+"Sterling, Texas",5,40.8,1.5,9.5
+"Stonewall, Texas",12.9,47.1,2.6,14.8
+"Sutton, Texas",13.5,38.6,0.7,17.1
+"Swisher, Texas",23.3,35.9,0.4,15.3
+"Tarrant, Texas",10.9,34.4,1.1,32.3
+"Taylor, Texas",14.8,32.5,2,25.2
+"Terrell, Texas",15.1,55.2,10.1,18.4
+"Terry, Texas",17.8,34.6,1.6,11.4
+"Throckmorton, Texas",21.3,52.3,3,21.7
+"Titus, Texas",16.4,34.1,1.6,16.3
+"Tom Green, Texas",13.1,34.1,2.2,24.5
+"Travis, Texas",10.7,34.2,1.4,50
+"Trinity, Texas",15.1,48.6,3,12.9
+"Tyler, Texas",16.7,42.4,1.5,13.4
+"Upshur, Texas",16.2,41.4,2.9,17.1
+"Upton, Texas",14.7,39.6,0.8,9.6
+"Uvalde, Texas",17.4,33.7,1.1,17.9
+"Val Verde, Texas",20.3,31.8,1.6,18.4
+"Van Zandt, Texas",12.9,42.8,1.5,15.8
+"Victoria, Texas",14.2,35.9,1.6,20
+"Walker, Texas",23.3,35.3,2.1,20.8
+"Waller, Texas",14.9,28.9,2.5,21.1
+"Ward, Texas",13.2,33.9,0.1,12.5
+"Washington, Texas",12.2,41.5,1.9,26.8
+"Webb, Texas",25.5,28.8,1.4,18.9
+"Wharton, Texas",17.6,37.3,2.2,18
+"Wheeler, Texas",16.5,39.6,3.3,16.8
+"Wichita, Texas",17.4,34.5,2.7,23.1
+"Wilbarger, Texas",15.8,39.4,0.7,15.2
+"Willacy, Texas",28.8,33,1,8.9
+"Williamson, Texas",5.7,36.3,1.3,41.3
+"Wilson, Texas",9,40.2,1.1,21.8
+"Winkler, Texas",14.1,33.1,2.8,8.2
+"Wise, Texas",10.2,38.3,0.9,18
+"Wood, Texas",15.3,47.9,1.3,16.6
+"Yoakum, Texas",9.1,30.3,0,12.7
+"Young, Texas",14,41.1,1.2,19.3
+"Zapata, Texas",32.5,29.5,1.9,11.6
+"Zavala, Texas",33.6,32.9,0.4,10.9
+"Beaver, Utah",9.6,33,3.8,21.1
+"Box Elder, Utah",8.6,32.6,1.4,23.9
+"Cache, Utah",15,25.2,1.2,38.3
+"Carbon, Utah",16.7,37.5,2.2,17.1
+"Daggett, Utah",5.5,42.5,16,13.4
+"Davis, Utah",5.8,31.1,1.2,37.8
+"Duchesne, Utah",13.8,31.5,2.4,14.7
+"Emery, Utah",12.3,36.2,2,16.3
+"Garfield, Utah",13.8,41.9,1.7,25.9
+"Grand, Utah",8.6,40.2,0.5,28.6
+"Iron, Utah",17.1,29.1,1,29.8
+"Juab, Utah",11.2,30.1,0.5,16
+"Kane, Utah",14,41.9,4,29.9
+"Millard, Utah",11.6,35.4,0.3,20.6
+"Morgan, Utah",3.7,32.2,0,39.4
+"Piute, Utah",14.8,44.5,5.1,20.2
+"Rich, Utah",7.2,34.3,6.5,23
+"Salt Lake, Utah",8.8,32.8,0.8,35.6
+"San Juan, Utah",24.5,32.2,2.7,18.3
+"Sanpete, Utah",12.9,32.6,0.7,20.9
+"Sevier, Utah",14.1,35.4,1.7,18.5
+"Summit, Utah",6.1,39.5,2.1,55
+"Tooele, Utah",7.2,31.4,0.5,24.2
+"Uintah, Utah",11.5,30.6,5.4,15.8
+"Utah, Utah",10.7,24.8,0.8,40.8
+"Wasatch, Utah",5.7,34,0.6,39.9
+"Washington, Utah",10.1,37.1,1.4,28.1
+"Wayne, Utah",12.6,40.4,2.7,23.4
+"Weber, Utah",10.7,32.7,1.7,24.5
+"Addison, Vermont",7,43.5,1.9,39.6
+"Bennington, Vermont",11,46.7,1.3,36.2
+"Caledonia, Vermont",12.3,44.7,2.8,29
+"Chittenden, Vermont",11.8,36.5,0.8,51.3
+"Essex, Vermont",13,50.9,0.9,16.2
+"Franklin, Vermont",9.4,40.4,1.6,24.1
+"Grand Isle, Vermont",9,48.2,3.1,39.8
+"Lamoille, Vermont",12.9,40.8,1.8,38.2
+"Orange, Vermont",9.7,46.6,1.8,29.1
+"Orleans, Vermont",14.6,45.8,1.6,21.5
+"Rutland, Vermont",11.2,46.5,1.3,30.8
+"Washington, Vermont",9.8,43.7,2.6,41.8
+"Windham, Vermont",13.9,47.6,1.9,38.1
+"Windsor, Vermont",10.2,48,2.2,38.2
+"Accomack, Virginia",14.5,45.9,3.8,19.5
+"Albemarle, Virginia",8,39.1,0.7,55.1
+"Alleghany, Virginia",19.3,48.1,1.3,15
+"Amelia, Virginia",10.3,45.1,0,17.1
+"Amherst, Virginia",12.9,44.8,0.7,19.1
+"Appomattox, Virginia",12.3,42.6,0.2,20.9
+"Arlington, Virginia",6.5,34.7,0.6,75.3
+"Augusta, Virginia",9.2,45.1,1.4,22.7
+"Bath, Virginia",11.3,47.8,2.6,15.9
+"Bedford, Virginia",9.3,46.3,0.8,29.2
+"Bland, Virginia",11.9,46.4,1.6,14.2
+"Botetourt, Virginia",6.9,47.2,1.4,28.3
+"Brunswick, Virginia",19.5,43.3,1.4,13.6
+"Buchanan, Virginia",27.6,46.8,1.5,11.8
+"Buckingham, Virginia",15.7,43.5,2.6,12.5
+"Campbell, Virginia",11.6,43,0.4,22.5
+"Caroline, Virginia",9.7,40.1,1.3,19.9
+"Carroll, Virginia",15.9,47.6,1.9,15
+"Charles City, Virginia",14.3,50.8,1.3,14.7
+"Charlotte, Virginia",22.2,46.2,0.4,10.9
+"Chesterfield, Virginia",5.9,38.9,0.7,40.5
+"Clarke, Virginia",9.1,47,1,32.2
+"Craig, Virginia",10.9,46.3,6.7,23.6
+"Culpeper, Virginia",8.2,39.2,2.9,25.7
+"Cumberland, Virginia",19.7,45.6,1.5,14.9
+"Dickenson, Virginia",28.1,44.7,1.5,10.7
+"Dinwiddie, Virginia",13,43.2,0.9,18.6
+"Essex, Virginia",16.1,46.3,3.1,17.4
+"Fairfax, Virginia",5.6,38,0.8,61.6
+"Fauquier, Virginia",5.9,41.3,1.4,36.4
+"Floyd, Virginia",10.1,47.2,2.1,22.1
+"Fluvanna, Virginia",5.5,43.4,3.1,33.9
+"Franklin, Virginia",13.4,47.2,2.3,21.9
+"Frederick, Virginia",6.3,40.7,0.9,28.3
+"Giles, Virginia",9.6,44.7,0.9,18.1
+"Gloucester, Virginia",9,44.9,1,23.3
+"Goochland, Virginia",6.9,48.3,0.8,41.8
+"Grayson, Virginia",20.6,48.1,2.7,13.7
+"Greene, Virginia",6.6,39.6,1.5,29
+"Greensville, Virginia",14.8,40.7,1.9,9.2
+"Halifax, Virginia",16.1,46.5,1.3,15.4
+"Hanover, Virginia",5.4,42.7,1.7,39.8
+"Henrico, Virginia",8.8,38.8,1.2,43.7
+"Henry, Virginia",18.1,47.6,1.6,13.9
+"Highland, Virginia",7.7,60.9,6.3,22.5
+"Isle of Wight, Virginia",9,44.3,0.9,27
+"James City, Virginia",6.6,46.5,1.8,50.4
+"King and Queen, Virginia",7.8,46.7,0,23.6
+"King George, Virginia",6.1,37.4,1.9,36
+"King William, Virginia",5.9,40.3,0.8,21
+"Lancaster, Virginia",11,57.3,4.1,31.5
+"Lee, Virginia",25.7,44.9,2.7,11.2
+"Loudoun, Virginia",3.4,36.2,0.7,61.3
+"Louisa, Virginia",11.8,44.8,2,24.1
+"Lunenburg, Virginia",16.2,45.3,0.7,11.3
+"Madison, Virginia",6.9,45.6,1.1,23.4
+"Mathews, Virginia",9.2,54.5,2.4,27.9
+"Mecklenburg, Virginia",17.5,48.4,1,20.2
+"Middlesex, Virginia",12.6,53.9,3.9,21.5
+"Montgomery, Virginia",20,29,1,45.5
+"Nelson, Virginia",13.9,51.4,2.3,30.4
+"New Kent, Virginia",6.9,43.3,0.9,26.9
+"Northampton, Virginia",17,49,1.4,22.6
+"Northumberland, Virginia",13.6,58.9,5.5,28.9
+"Nottoway, Virginia",17.5,40.6,0.1,14.8
+"Orange, Virginia",7.6,42,1.3,25.1
+"Page, Virginia",13.4,45.4,1.5,13.7
+"Patrick, Virginia",15.1,49.9,3.1,15.2
+"Pittsylvania, Virginia",15.7,47.2,1.2,14.5
+"Powhatan, Virginia",6.6,45.1,1.7,29.2
+"Prince Edward, Virginia",17.8,31.5,1.8,26.8
+"Prince George, Virginia",8.4,37,1.1,23.6
+"Prince William, Virginia",5.8,35.2,1.1,41.1
+"Pulaski, Virginia",14.4,47,2.4,20
+"Rappahannock, Virginia",9.4,50.1,3.4,35.8
+"Richmond, Virginia",13.9,47.3,2.2,17.7
+"Roanoke, Virginia",8.1,43.8,1.9,35.6
+"Rockbridge, Virginia",10.8,49,3,26.7
+"Rockingham, Virginia",9.4,41.5,1,26.3
+"Russell, Virginia",22.6,45.7,2.3,12.2
+"Scott, Virginia",18.1,47.3,1.3,13.3
+"Shenandoah, Virginia",11.3,44.5,2.2,20.5
+"Smyth, Virginia",19.5,45,2,14.6
+"Southampton, Virginia",11.3,46.9,1.7,18.4
+"Spotsylvania, Virginia",6.4,38.2,1.2,31.7
+"Stafford, Virginia",4,35.5,1,39.9
+"Surry, Virginia",12.7,49.8,2.4,20.6
+"Sussex, Virginia",14.8,41,3.5,12.7
+"Tazewell, Virginia",17.6,45.2,3.5,14.9
+"Warren, Virginia",8.6,41.3,1.3,21.7
+"Washington, Virginia",14.3,46.3,1.5,22.8
+"Westmoreland, Virginia",16.2,48.6,3.8,19.2
+"Wise, Virginia",23.8,41.4,2.2,15
+"Wythe, Virginia",14.8,45.3,3.4,19
+"York, Virginia",5.3,39.6,0.9,47.1
+"Alexandria, Virginia",7.5,36.8,1.3,63.1
+"Bristol, Virginia",20,42.2,2.5,25.4
+"Buena Vista, Virginia",24.6,35.5,5.2,15.9
+"Charlottesville, Virginia",20.7,31.6,1.2,54.9
+"Chesapeake, Virginia",7.7,36.9,1.6,33.2
+"Colonial Heights, Virginia",12.4,40.6,1.9,25.5
+"Covington, Virginia",13.5,42.4,1.9,15.6
+"Danville, Virginia",23.5,40.9,2.8,17.6
+"Emporia, Virginia",26,35.4,2.8,13.8
+"Fairfax, Virginia",9.4,38.2,0,60.8
+"Falls Church, Virginia",3.3,38.7,0,77.6
+"Franklin, Virginia",15.1,39.4,0,19.1
+"Fredericksburg, Virginia",15.2,30.4,3.8,40.9
+"Galax, Virginia",22.4,45,6.2,14.8
+"Hampton, Virginia",13.5,36.2,2.6,26.9
+"Harrisonburg, Virginia",22.1,25.4,1.4,36.3
+"Hopewell, Virginia",24.6,36.2,4.3,14.8
+"Lexington, Virginia",22.1,22.3,0,46.7
+"Lynchburg, Virginia",18.1,28.3,2.6,35.6
+"Manassas, Virginia",8.4,34.2,1.8,29.6
+"Manassas Park, Virginia",4.4,34.7,1.4,27.9
+"Martinsville, Virginia",23.9,40.9,1.3,21
+"Newport News, Virginia",14.5,33.5,2.4,26.3
+"Norfolk, Virginia",17.4,30.7,3,28.8
+"Norton, Virginia",30.3,37.5,3.1,22.8
+"Petersburg, Virginia",23.2,38.1,4.7,19.8
+"Poquoson, Virginia",6,42.4,0.3,42.2
+"Portsmouth, Virginia",14.7,35.3,3.6,21.9
+"Radford, Virginia",29.4,23.4,1.6,38
+"Richmond, Virginia",20.1,34,1.4,39.6
+"Roanoke, Virginia",20,38.5,2.9,23.4
+"Salem, Virginia",9.7,41.2,1,27.9
+"Staunton, Virginia",11.4,42.8,2.7,33.4
+"Suffolk, Virginia",10.4,38,2.7,29.5
+"Virginia Beach, Virginia",6.8,36.2,1.6,36
+"Waynesboro, Virginia",14.7,39.2,1.3,27.1
+"Williamsburg, Virginia",14.9,24.9,2.2,56.8
+"Winchester, Virginia",12.4,38.1,4,35.1
+"Adams, Washington",19.8,27.9,3.3,14.3
+"Asotin, Washington",12.3,45,3.3,21.4
+"Benton, Washington",10.5,35.8,0.6,30.9
+"Chelan, Washington",11.1,40.1,0.9,25.8
+"Clallam, Washington",13.6,50.8,1.7,27.4
+"Clark, Washington",8.2,38.4,1,30.6
+"Columbia, Washington",13.1,50.2,1.1,25.6
+"Cowlitz, Washington",14,41.3,1,17
+"Douglas, Washington",10.1,37.1,1.3,20.5
+"Ferry, Washington",20.5,50.3,2.4,18.8
+"Franklin, Washington",13.2,30.3,0.9,17.7
+"Garfield, Washington",9.5,46.1,3.7,24.5
+"Grant, Washington",13.4,32.9,2,17.7
+"Grays Harbor, Washington",14.7,44,2.1,16.5
+"Island, Washington",8.3,44.2,1.2,33.6
+"Jefferson, Washington",13.6,58.3,1.3,44.3
+"King, Washington",8.5,37,1,52.5
+"Kitsap, Washington",8.8,39.1,1.2,33.2
+"Kittitas, Washington",19.3,33.8,1.2,32.3
+"Klickitat, Washington",13.9,46.9,1.6,31.5
+"Lewis, Washington",13.4,43.1,1.7,17.7
+"Lincoln, Washington",11.4,48.4,3,25.1
+"Mason, Washington",12,45.6,1.3,17.6
+"Okanogan, Washington",17.3,42.6,1.6,20
+"Pacific, Washington",16.8,53.6,2.8,18.9
+"Pend Oreille, Washington",12.4,51,2.6,20.8
+"Pierce, Washington",9.7,36.1,1.6,27.2
+"San Juan, Washington",10.4,56.6,2.5,49.8
+"Skagit, Washington",10.6,41.5,1.2,26.2
+"Skamania, Washington",12.7,46.6,1.1,24.5
+"Snohomish, Washington",7.4,38,0.8,32.8
+"Spokane, Washington",13.5,37.6,1.1,30.8
+"Stevens, Washington",15.3,46.9,2.1,18.7
+"Thurston, Washington",9.7,39,1.2,35.7
+"Wahkiakum, Washington",8.9,55.1,3.3,19.4
+"Walla Walla, Washington",14.1,37.5,1,29.8
+"Whatcom, Washington",14.5,37.3,1.3,34.3
+"Whitman, Washington",26,24.7,1.1,49.8
+"Yakima, Washington",15.5,33,0.9,16.7
+"Barbour, West Virginia",19.2,41.7,1.5,15.6
+"Berkeley, West Virginia",11.2,38.8,2.3,21.2
+"Boone, West Virginia",22.2,43.5,3.1,9.7
+"Braxton, West Virginia",20.2,45.9,0.9,14.9
+"Brooke, West Virginia",12.8,46.6,1.1,19
+"Cabell, West Virginia",22.8,38.8,2.4,26
+"Calhoun, West Virginia",23.3,48.1,5.4,12.2
+"Clay, West Virginia",27.2,44.1,1,9.2
+"Doddridge, West Virginia",10.6,45.3,1.7,17.1
+"Fayette, West Virginia",20.4,44.3,2.2,14.8
+"Gilmer, West Virginia",17.8,39.2,0,17
+"Grant, West Virginia",12.4,46.2,1.9,13.8
+"Greenbrier, West Virginia",16.6,45.5,2.4,19.9
+"Hampshire, West Virginia",15.5,47.2,2.4,12.4
+"Hancock, West Virginia",14.2,46.8,0.5,17.4
+"Hardy, West Virginia",11.5,45.7,3.2,14.5
+"Harrison, West Virginia",14.3,42.2,1.6,23.3
+"Jackson, West Virginia",18.3,43.7,0.4,17.4
+"Jefferson, West Virginia",9.8,41.1,1.8,31.8
+"Kanawha, West Virginia",16.7,43.4,2.4,25.5
+"Lewis, West Virginia",19.1,43.8,1.1,14.5
+"Lincoln, West Virginia",20.2,43.2,1.8,9
+"Logan, West Virginia",25.5,43.8,3.9,10
+"McDowell, West Virginia",30.8,45,2.6,5.4
+"Marion, West Virginia",14.5,41.1,1.9,22.6
+"Marshall, West Virginia",15.2,45.7,0.6,18
+"Mason, West Virginia",15.2,44.2,1.5,14.4
+"Mercer, West Virginia",19.6,43.1,2.6,19.4
+"Mineral, West Virginia",15,44.5,3,15.5
+"Mingo, West Virginia",27.8,42.8,2.4,9.9
+"Monongalia, West Virginia",19.4,31.7,1.5,42.8
+"Monroe, West Virginia",15.3,48,1.4,15.3
+"Morgan, West Virginia",8.2,47.9,3.9,17
+"Nicholas, West Virginia",17.5,45.1,0.5,15.6
+"Ohio, West Virginia",15.1,43.6,1.3,32
+"Pendleton, West Virginia",16.1,50.8,0.9,14.1
+"Pleasants, West Virginia",12.7,43.6,0.5,11.6
+"Pocahontas, West Virginia",15.3,49.1,3.4,14.8
+"Preston, West Virginia",15.4,42.7,0.8,16.9
+"Putnam, West Virginia",10,41.8,1.3,26.1
+"Raleigh, West Virginia",18.4,42.2,1.9,18.4
+"Randolph, West Virginia",20.1,43.7,3,17.3
+"Ritchie, West Virginia",16,46.8,1.8,11.3
+"Roane, West Virginia",18.8,45.8,2.3,13.1
+"Summers, West Virginia",21.2,49.1,1.1,14.5
+"Taylor, West Virginia",15.9,44.1,0.8,17.3
+"Tucker, West Virginia",12.8,49.3,2.2,19.4
+"Tyler, West Virginia",14.1,47,1.8,14.1
+"Upshur, West Virginia",21.5,41.7,1,16.9
+"Wayne, West Virginia",25.1,44.1,1.7,15.1
+"Webster, West Virginia",26,47.2,1.1,11.4
+"Wetzel, West Virginia",18.3,46,1.5,12
+"Wirt, West Virginia",18.1,45.4,0.1,11.2
+"Wood, West Virginia",17.3,43.5,2.2,21.9
+"Wyoming, West Virginia",21.8,44.6,2.2,9.3
+"Adams, Wisconsin",11.8,53.8,2.2,13.9
+"Ashland, Wisconsin",17.8,42,2,19.8
+"Barron, Wisconsin",11,44.2,1.7,20.6
+"Bayfield, Wisconsin",11.4,52.2,2.2,31.1
+"Brown, Wisconsin",10.1,37.4,0.9,30.3
+"Buffalo, Wisconsin",11.1,46.6,1.4,19.3
+"Burnett, Wisconsin",12.4,52.8,2.1,20.8
+"Calumet, Wisconsin",6.5,40.6,0.8,29.4
+"Chippewa, Wisconsin",9.9,41.2,0.5,21
+"Clark, Wisconsin",10.9,37.4,1.6,12.6
+"Columbia, Wisconsin",7.4,42.4,0.7,23.3
+"Crawford, Wisconsin",12.7,46.3,1.9,18.4
+"Dane, Wisconsin",10.3,35.1,0.9,51.4
+"Dodge, Wisconsin",8.3,42.5,1,17
+"Door, Wisconsin",8.3,53,1.7,33.7
+"Douglas, Wisconsin",12.8,42.2,1.2,24.1
+"Dunn, Wisconsin",12.1,34.7,0.9,27.9
+"Eau Claire, Wisconsin",12.8,34.5,1.4,32.3
+"Florence, Wisconsin",13.1,53.6,4.7,19.9
+"Fond du Lac, Wisconsin",8.9,41.6,1.5,23.1
+"Forest, Wisconsin",16.7,46.7,2.4,14.7
+"Grant, Wisconsin",12.8,36,1.1,23.8
+"Green, Wisconsin",7.3,43.2,1,23.6
+"Green Lake, Wisconsin",11.2,45.3,3.1,20.2
+"Iowa, Wisconsin",9.3,42.8,1.1,24.6
+"Iron, Wisconsin",14,54.9,5.4,20
+"Jackson, Wisconsin",11,41.7,1.6,14.6
+"Jefferson, Wisconsin",8.5,41.1,1.1,25.4
+"Juneau, Wisconsin",11.8,45.4,2.3,13.7
+"Kenosha, Wisconsin",11.3,38.5,2,26.1
+"Kewaunee, Wisconsin",9.1,44.3,1,19.4
+"La Crosse, Wisconsin",11.6,35.9,1.5,34.9
+"Lafayette, Wisconsin",11.1,41.8,0.7,18.8
+"Langlade, Wisconsin",13.3,48.7,1.7,16.7
+"Lincoln, Wisconsin",10.4,47.7,1.3,18.4
+"Manitowoc, Wisconsin",9.6,44.9,1.6,20.2
+"Marathon, Wisconsin",8.7,40.7,1.2,25.4
+"Marinette, Wisconsin",12.8,48.7,2.1,15.9
+"Marquette, Wisconsin",9.8,50,2.4,15.1
+"Menominee, Wisconsin",28.8,32,1.3,17.9
+"Milwaukee, Wisconsin",17.6,34.9,1.4,31
+"Monroe, Wisconsin",9.8,39.9,1.3,20.6
+"Oconto, Wisconsin",9.2,46.9,1.6,16.8
+"Oneida, Wisconsin",8.6,51.3,1.9,27.2
+"Outagamie, Wisconsin",7.5,38.3,1.2,29.7
+"Ozaukee, Wisconsin",6,44,0.3,49
+"Pepin, Wisconsin",9.7,46.4,2.8,20.6
+"Pierce, Wisconsin",8.1,36.8,0.7,29.2
+"Polk, Wisconsin",9.5,45.6,1,20.9
+"Portage, Wisconsin",12.9,37,0.8,32.9
+"Price, Wisconsin",15.1,51.6,3,16.5
+"Racine, Wisconsin",11.8,40.2,0.8,25.2
+"Richland, Wisconsin",13.8,45.3,1.2,19
+"Rock, Wisconsin",11.5,39.5,0.6,22.1
+"Rusk, Wisconsin",13,49,1.4,16.6
+"St. Croix, Wisconsin",5.6,38.9,0.5,35.4
+"Sauk, Wisconsin",9.2,41.1,1.7,24.1
+"Sawyer, Wisconsin",16.2,50.3,3,24.2
+"Shawano, Wisconsin",10.2,45.2,1.2,15.7
+"Sheboygan, Wisconsin",7.3,41.5,0.6,25.1
+"Taylor, Wisconsin",11.4,43.7,1,15.1
+"Trempealeau, Wisconsin",8.8,40.5,1,19.3
+"Vernon, Wisconsin",14.9,41.7,1.4,22.4
+"Vilas, Wisconsin",13.2,54.6,3.5,29.1
+"Walworth, Wisconsin",11.8,40,1.9,28.8
+"Washburn, Wisconsin",13,51.2,1.3,23
+"Washington, Wisconsin",5.2,43.2,1.3,31.5
+"Waukesha, Wisconsin",5.4,43.2,0.8,44.5
+"Waupaca, Wisconsin",10.7,45.5,1.4,19.9
+"Waushara, Wisconsin",11.3,49.2,2.3,16.3
+"Winnebago, Wisconsin",10.4,38.3,1.1,28.3
+"Wood, Wisconsin",10.3,44.1,1,21.6
+"Albany, Wyoming",21.5,27.6,1.9,51.8
+"Big Horn, Wyoming",11.5,41.6,1.2,19
+"Campbell, Wyoming",11.1,34,2.2,18.9
+"Carbon, Wyoming",13.1,38.6,4.3,20.6
+"Converse, Wyoming",8.7,40,4,17.3
+"Crook, Wyoming",11.4,42.7,0.8,22.3
+"Fremont, Wyoming",11.6,38.7,1.6,24.3
+"Goshen, Wyoming",10.6,44.1,2.9,25.9
+"Hot Springs, Wyoming",13.3,46.6,4.5,23.7
+"Johnson, Wyoming",13.6,45.4,0.9,31.7
+"Laramie, Wyoming",9.8,37,1.1,28.5
+"Lincoln, Wyoming",8.7,39.7,3.2,23.7
+"Natrona, Wyoming",10.4,36.9,1.3,22.8
+"Niobrara, Wyoming",22.4,45.5,1.4,18
+"Park, Wyoming",8.3,44.5,1.5,34
+"Platte, Wyoming",11.3,49.2,1.5,20.7
+"Sheridan, Wyoming",6.5,42.3,0,31
+"Sublette, Wyoming",6,39.4,3,22.8
+"Sweetwater, Wyoming",12.2,35.3,2.1,22.5
+"Teton, Wyoming",4.8,39.3,2,57
+"Uinta, Wyoming",10,35.8,0.5,16
+"Washakie, Wyoming",9,42.9,0.2,23.4
+"Weston, Wyoming",12.8,43.1,2.1,20
+"Adjuntas, Puerto Rico",61.5,42.1,0.4,16.9
+"Aguada, Puerto Rico",52.2,42.9,0.9,20.2
+"Aguadilla, Puerto Rico",52.6,42,1.8,23.9
+"Aguas Buenas, Puerto Rico",48.6,42.2,1.5,17.8
+"Aibonito, Puerto Rico",44.7,42.5,2.2,21.8
+"AÃ±asco, Puerto Rico",47,42.6,1.9,18.9
+"Arecibo, Puerto Rico",49.7,42.8,2.4,23.2
+"Arroyo, Puerto Rico",55,40.3,2.8,16.1
+"Barceloneta, Puerto Rico",49,40.6,2.9,22.1
+"Barranquitas, Puerto Rico",52.6,36.7,4.3,19.5
+"BayamÃ³n, Puerto Rico",35.6,42.1,4.1,28.8
+"Cabo Rojo, Puerto Rico",51.6,44.1,3.4,26
+"Caguas, Puerto Rico",38.6,41.3,2.8,31.4
+"Camuy, Puerto Rico",52,42.2,3.4,20.8
+"CanÃ³vanas, Puerto Rico",43.7,40.2,1.7,23.2
+"Carolina, Puerto Rico",31.4,42.8,2.2,31.8
+"CataÃ±o, Puerto Rico",50.9,40.3,4.2,20.3
+"Cayey, Puerto Rico",43.2,42.8,1.8,24.2
+"Ceiba, Puerto Rico",43.3,42.9,2.9,18.1
+"Ciales, Puerto Rico",54.8,42.3,1.9,15.8
+"Cidra, Puerto Rico",46.5,40.9,3,23.9
+"Coamo, Puerto Rico",47.4,41.7,2.8,21.9
+"ComerÃ­o, Puerto Rico",59.5,38.9,3.6,13.3
+"Corozal, Puerto Rico",57.8,39.6,2.2,19.2
+"Culebra, Puerto Rico",42.1,43.1,9,15.3
+"Dorado, Puerto Rico",32.1,41.1,1.3,30.1
+"Fajardo, Puerto Rico",45.2,41.8,5.2,25.3
+"Florida, Puerto Rico",46.8,39.9,0.9,13.2
+"GuÃ¡nica, Puerto Rico",62.3,42.5,17.1,15.5
+"Guayama, Puerto Rico",50.8,39.1,3.4,20.6
+"Guayanilla, Puerto Rico",52.6,41.3,0.7,24.7
+"Guaynabo, Puerto Rico",26.9,44.2,6.5,45.1
+"Gurabo, Puerto Rico",32.7,39,2.4,33.4
+"Hatillo, Puerto Rico",50.9,42.1,2.1,24.6
+"Hormigueros, Puerto Rico",44.3,47.2,1.9,22.9
+"Humacao, Puerto Rico",43.3,43.3,3.6,23.1
+"Isabela, Puerto Rico",53.8,42.2,3.3,21.9
+"Jayuya, Puerto Rico",61.5,38.6,1.1,18.2
+"Juana DÃ­az, Puerto Rico",48.3,38.8,1.8,25
+"Juncos, Puerto Rico",47.1,38.6,2.8,19
+"Lajas, Puerto Rico",59.7,45,5.9,15.3
+"Lares, Puerto Rico",56.5,43,2,18.5
+"Las MarÃ­as, Puerto Rico",54.7,42.4,1.9,16.6
+"Las Piedras, Puerto Rico",44.5,40,0.8,22.4
+"LoÃ­za, Puerto Rico",51.5,40.2,3.3,14.7
+"Luquillo, Puerto Rico",40.4,41.9,3.7,20.4
+"ManatÃ­, Puerto Rico",48.5,42.1,3.2,22.4
+"Maricao, Puerto Rico",58.7,44,2.4,8
+"Maunabo, Puerto Rico",44,44.4,0,16.9
+"MayagÃ¼ez, Puerto Rico",55.6,41.4,5.1,26.4
+"Moca, Puerto Rico",56.2,40,0.2,20
+"Morovis, Puerto Rico",43.7,38.7,2.1,16.5
+"Naguabo, Puerto Rico",44.9,38.4,2.3,20.2
+"Naranjito, Puerto Rico",49,41.1,1.3,16.1
+"Orocovis, Puerto Rico",57.2,40.1,1.7,17
+"Patillas, Puerto Rico",52.5,44.9,1.6,15.1
+"PeÃ±uelas, Puerto Rico",53.5,38.8,3.2,21.9
+"Ponce, Puerto Rico",51.8,41,3,27.5
+"Quebradillas, Puerto Rico",48.8,41.2,4.2,18.9
+"RincÃ³n, Puerto Rico",44.3,46,4.2,23
+"RÃ­o Grande, Puerto Rico",40.1,41.2,1.7,22.8
+"Sabana Grande, Puerto Rico",50.6,42.3,18.6,19.4
+"Salinas, Puerto Rico",50.3,40.9,3.2,17.5
+"San GermÃ¡n, Puerto Rico",50,44,2.7,24
+"San Juan, Puerto Rico",41.4,43.2,3.8,37.3
+"San Lorenzo, Puerto Rico",47.6,42.4,1.2,18.3
+"San SebastiÃ¡n, Puerto Rico",56.4,44.1,2.6,19.2
+"Santa Isabel, Puerto Rico",48.2,38.8,2.4,25.3
+"Toa Alta, Puerto Rico",34.2,38.4,2.4,29.3
+"Toa Baja, Puerto Rico",37.9,40.7,3.1,26.8
+"Trujillo Alto, Puerto Rico",30.8,40.5,2.2,36
+"Utuado, Puerto Rico",54.7,43.5,3.8,18.7
+"Vega Alta, Puerto Rico",45.4,39.6,2.4,22.2
+"Vega Baja, Puerto Rico",45.8,41.5,2.5,21.2
+"Vieques, Puerto Rico",48.8,47,15.2,18
+"Villalba, Puerto Rico",48.3,40.1,2.3,19.9
+"Yabucoa, Puerto Rico",53.3,42.9,0.6,18
+"Yauco, Puerto Rico",54,43.9,18.3,24.6
