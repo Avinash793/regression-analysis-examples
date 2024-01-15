@@ -1,6 +1,6 @@
 # Regression Analysis Examples
 
-Detailed implementation of various regression analysis models and concepts on real dataset.  
+Detailed implementation of various regression analysis models and concepts on real datasets.  
 
 ### Regression Models Covered
 * Simple Linear Regression Model
